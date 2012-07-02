@@ -1,0 +1,10 @@
+set size square 
+set key bottom right 
+set style data lines 
+set xlabel "FP rate" 
+set ylabel "TP rate" 
+set title "kelch.comp_score" 
+set term post color 
+set output 'tmp.ps' 
+plot  'rocs/kelch.comp_score.rrl_dt.roc' title 'rrl_dt',  'rocs/kelch.comp_score.jfl_ds.roc' title 'jfl_ds',  'rocs/kelch.comp_score.MI.roc' title 'MI'
+quit

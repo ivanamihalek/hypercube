@@ -1,0 +1,36 @@
+*****************************************
+
+	 in Dasypus_novemcinctus GENSCAN00000104492 
+	 human_plasminogen	GENSCAN00000104492	50.41	244	116	3	107	347	3	244	6e-77	 285
+
+	 reciprocal best ENSP00000414287 
+	 lcl|GENSCAN00000104492	ENSP00000414287	88.72	257	29	0	1	257	126	382	3e-149	 525
+
+	 gene name: ENSG00000019991  ENSG00000122194
+	 not the mutal best
+*****************************************
+
+*****************************************
+
+	 in Felis_catus GENSCAN00000047003 
+	 human_plasminogen	GENSCAN00000047003	38.27	567	278	12	275	808	110	637	3e-108	 389
+
+	 reciprocal best ENSP00000438833 
+	 lcl|GENSCAN00000047003	ENSP00000438833	58.51	723	178	15	13	639	19	715	0.0	 809
+
+	 gene name: ENSG00000019991  ENSG00000122194
+	 not the mutal best
+*****************************************
+
+*****************************************
+
+	 in Microcebus_murinus GENSCAN00000035983 
+	 human_plasminogen	GENSCAN00000035983	48.12	451	186	10	1	419	1	435	3e-92	 336
+
+	 reciprocal best ENSP00000395608 
+	 lcl|GENSCAN00000035983	ENSP00000395608	38.35	412	142	8	68	434	1313	1657	4e-80	 296
+
+	 gene name: ENSG00000173531  ENSG00000122194
+	 not the mutal best
+*****************************************
+

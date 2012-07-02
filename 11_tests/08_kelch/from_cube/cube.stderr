@@ -1,0 +1,13 @@
+	                      almtname     /tmp/specs_070816453619725/alignment_profile.msf
+	                       compare     OFF
+	               exchangeability     OFF
+	                        groups     /tmp/specs_070816453619725/group
+	                      max_gaps     0.30
+	                       outname     /tmp/specs_070816453619725/out
+	              patch_sim_cutoff     0.40
+	              patch_min_length     0.40
+	              guess_bad_transl     OFF
+	                       pdbname     (none)
+	                           raw     OFF
+	                   rate_matrix     /var/www/dept/bmad/htdocs/projects/EPSF/specs_server/src/05_hypercube/08_data/tillier.table
+	                      struct_n     (none)

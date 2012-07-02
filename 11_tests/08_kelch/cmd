@@ -1,0 +1,25 @@
+almtname  kelch.restr.msf
+
+
+groups  groups
+patch_sim_cutoff  .40
+patch_min_length  .40
+
+outname  kelch
+
+max_gaps  0.3
+
+compare
+
+exchangeability
+
+!rate_matrix  /home/ivanam/kode/05_hypercube/08_data/tillier.table
+rate_matrix  /Users/Ivana/kode/05_hypercube/08_data/tillier.table
+
+!raw
+
+extern capra.table CAP
+
+extern capra.table  CAP  speer.table  SPR
+
+

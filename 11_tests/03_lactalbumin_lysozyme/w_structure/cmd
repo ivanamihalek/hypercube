@@ -1,0 +1,21 @@
+almtname both.mouse_lalb_restr.msf
+
+
+groups  groups
+patch_sim_cutoff  .40
+patch_min_length  .40
+
+outname  lalb
+
+
+pdbname 2fydA.pdb
+struct_n  2fydA
+
+max_gaps  0.3
+! coverage 
+
+
+rate_matrix  /home/ivanam/kode/05_hypercube/08_data/tillier.table
+exchangeability
+
+compare

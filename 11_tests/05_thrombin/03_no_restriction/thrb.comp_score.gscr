@@ -1,0 +1,10 @@
+set size square 
+set key bottom right 
+set style data lines 
+set xlabel "FP rate" 
+set ylabel "TP rate" 
+set title "thrb.comp_score" 
+set term post color 
+set output 'tmp.ps' 
+plot  'rocs/thrb.comp_score.rrl_dt.roc' title 'rrl_dt',  'rocs/thrb.comp_score.jfl_ds.roc' title 'jfl_ds',  'rocs/thrb.comp_score.MI.roc' title 'MI',  'rocs/thrb.comp_score.CAP.roc' title 'CAP'
+quit

@@ -1,0 +1,36 @@
+*****************************************
+
+	 in Dipodomys_ordii GENSCAN00000141423 
+	 human_prothr	GENSCAN00000141423	35.82	282	161	8	336	617	1020	1281	2e-40	 165
+
+	 reciprocal best ENSP00000385453 
+	 lcl|GENSCAN00000141423	ENSP00000385453	69.30	456	38	4	870	1282	406	802	5e-179	 627
+
+	 gene name: ENSG00000104368  ENSG00000180210
+	 not the mutal best
+*****************************************
+
+*****************************************
+
+	 in Felis_catus GENSCAN00000010721 
+	 human_prothr	GENSCAN00000010721	56.08	255	58	4	18	271	908	1109	4e-71	 266
+
+	 reciprocal best ENSP00000309606 
+	 lcl|GENSCAN00000010721	ENSP00000309606	79.47	721	135	3	1	714	1	715	0.0	 991
+
+	 gene name: ENSG00000115718  ENSG00000180210
+	 not the mutal best
+*****************************************
+
+*****************************************
+
+	 in Vicugna_pacos GENSCAN00000080872 
+	 human_prothr	GENSCAN00000080872	98.57	70	1	0	552	621	690	759	3e-39	 159
+
+	 reciprocal best ENSP00000309606 
+	 lcl|GENSCAN00000080872	ENSP00000309606	88.98	245	27	0	219	463	471	715	7e-123	 439
+
+	 gene name: ENSG00000101981  ENSG00000180210
+	 not the mutal best
+*****************************************
+

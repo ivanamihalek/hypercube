@@ -1,0 +1,93 @@
+*************************************************************
+Kavitha Bharatham, Zong Hong Zhang, Ivana Mihalek, Feb 2011
+{kavithab,zhangzh, ivanam}@bii.a-star.edu.sg
+**************************************************************
+
+TO COMPILE
+--------------
+cd to 10_objects and type make; the executable called hyper_c 
+should appear one directory above (in the home directory for the code)
+the code was tested on Linux and OS-X machines using gcc compiler
+let us know if there is a problem on your machine/compiler
+
+**************************************************************
+
+TO RUN
+--------------
+for example: 
+
+cd 11_tests/01_lac_pur
+../../hyper cmd
+   where cmd is an options file 
+../../hyper_c -options 
+   lists all aavailable options
+
+output files  (<root name> can be changed in cmd file):
+<root name>.score  - conservation for all groups, one discriminant score, 
+                     one determinant score for the first group in the
+                     groups file
+<root name>.compare_scores - (with compare option in the cmd file) - list
+                     of all implemented combinations of conservation and
+                     overlap scores
+<root name>.patchlog - gives the list of patched positions in the alignment
+                    (the positions which are listed as "-" or "X" but 
+		     counted as being equal to the aa type in the nearest
+                     homologue)
+ <root name>.patched.afa - shows what the "patched" alignment lokos like
+                    -- to turn the patching off, delete or comment out (with "!")  
+                     the lines with patch_sim_cutoff and patch_min_length kwds
+
+
+**************************************************************
+
+PROCESSING THE EXAMPLES
+-----------------------
+09_scripts contains some scripts for the analysis of output 
+in compare mode, when many different combinations of scoring 
+funcions are output (and difficult to read)
+
+
+for example, in 11_tests/01_lac_pur
+
+do 
+
+../../09_scripts/compare_methods.pl Suckow.no_conserved.tp_list laci
+where laci is the root of the output name as provided in the output file
+to get the abbreviated version of the output, refering only to the
+list of residues given in Suckow.no_conserved.tp_list
+
+../../09_scripts/cube2roc.pl Suckow.no_conserved.tp_list Suckow.tn_list laci.comp_score rrl_dt jfl_dt
+to get the ROC file for  rrl_dt jfl_dt methods 
+(other names can be found in the header in laci.comp_score)
+this will work provided you have a functional gnuplot and ps2pdf on your computer
+it also produces *.auc file with the areas under the roc curves
+if no method is specified, the script will process them all, which
+results in an un-processable image, but the areas under are roc all
+in one place
+
+
+**************************************************************
+
+VISUALIZATION OF RESULTS
+-----------------------
+one example provided:
+
+cd  11_tests/03_lactalbumin_lysozyme 
+../../hyper_c cmd
+../../09_scripts/hc2pml.pl lalb.score 2fydA.pdb 2fydA.pml 
+   to produce pymol script 
+   to run it:
+pymol 2fydA.pml 
+	
+
+../../09_scripts/hc2xls.pl lalb.score lalb.xls
+  prodces a atbel in xls format, which contains
+the colorbars for the cororin schemes usd in 
+in pymol
+
+
+Note: make sure to turn off the "compare" option
+when doing the visualization, because the 
+discriminant and determinant column in *.score file
+are not guaranteed to be anything (reasonable) in 
+that case.

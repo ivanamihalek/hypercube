@@ -1,0 +1,1064 @@
+Acidianus_hospitalis_W1
+ec_k12	ACI_HOS_332796421	34.21	114	72	2	194	307	11	121	2e-15	75.5   ACI_HOS_W1
+>lcl|ACI_HOS_332796421 unnamed protein product
+
+Aeromonas_hydrophila_ATCC_7966
+ec_k12	AER_HYD_117617753	55.70	377	158	4	4	373	5	379	4e-108	 384   AER_HYD_7966
+>lcl|AER_HYD_117617753 unnamed protein product
+
+Aeromonas_salmonicida_A449
+ec_k12	AER_SAL_145300101	56.42	374	157	4	4	373	13	384	5e-109	 387   AER_SAL_A449
+>lcl|AER_SAL_145300101 unnamed protein product
+
+Aeromonas_veronii_B565
+ec_k12	AER_VER_330830793	55.61	374	160	4	4	373	5	376	3e-107	 381   AER_VER_B565
+>lcl|AER_VER_330830793 unnamed protein product
+
+Alcanivorax_borkumensis_SK2
+ec_k12	ALC_BOR_110834309	36.65	382	221	8	1	368	27	401	1e-51	 196   ALC_BOR_SK2
+>lcl|ALC_BOR_110834309 unnamed protein product
+
+Aliivibrio_salmonicida_LFI1238
+ec_k12	ALI_SAL_209694514	42.74	372	202	7	9	373	10	377	1e-75	 276   ALI_SAL_LFI1238
+>lcl|ALI_SAL_209694514 unnamed protein product
+
+Alteromonas_macleodii__Deep_ecotype_
+ec_k12	ALT_MAC_332140138	42.25	400	196	6	9	373	10	409	6e-75	 274   ALT_MAC_ecotype
+>lcl|ALT_MAC_332140138 unnamed protein product
+
+Alteromonas_SN2
+ec_k12	ALT_SP._333894481	40.35	399	203	8	9	373	10	407	9e-75	 274   ALT_SN2_SN2
+>lcl|ALT_SP._333894481 unnamed protein product
+
+Arcanobacterium_haemolyticum_DSM_20595
+ec_k12	ARC_HAE_297572137	31.79	173	103	4	208	373	202	366	1e-15	76.3   ARC_HAE_20595
+>lcl|ARC_HAE_297572137 unnamed protein product
+
+Arthrobacter_arilaitensis_Re117
+ec_k12	ART_ARI_308177713	25.60	375	262	6	13	373	30	401	2e-23	 103   ART_ARI_Re117
+>lcl|ART_ARI_308177713 unnamed protein product
+
+Arthrobacter_aurescens_TC1
+ec_k12	ART_AUR_119962601	30.29	373	240	10	12	373	54	417	4e-30	 125   ART_AUR_TC1
+>lcl|ART_AUR_119962601 unnamed protein product
+
+Arthrobacter_chlorophenolicus_A6
+ec_k12	ART_CHL_220912882	29.10	378	247	9	13	373	41	414	8e-28	 118   ART_CHL_A6
+>lcl|ART_CHL_220912882 unnamed protein product
+
+Arthrobacter_FB24
+ec_k12	ART_SP._116670926	30.83	386	249	10	1	376	1	378	5e-33	 135   ART_FB2_FB24
+>lcl|ART_SP._116670926 unnamed protein product
+
+Arthrobacter_phenanthrenivorans_Sphe3
+ec_k12	ART_PHE_325963544	30.28	393	241	11	1	368	1	385	4e-28	 119   ART_PHE_Sphe3
+>lcl|ART_PHE_325963544 unnamed protein product
+
+Azotobacter_vinelandii_DJ
+ec_k12	AZO_VIN_226942921	43.77	377	205	5	1	373	1	374	1e-69	 256   AZO_VIN_DJ
+>lcl|AZO_VIN_226942921 unnamed protein product
+
+Bacillus_amyloliquefaciens_DSM_7
+ec_k12	BAC_AMY_308171997	25.50	200	137	5	180	374	9	201	4e-14	72.4   BAC_AMY_7
+>lcl|BAC_AMY_308171997 unnamed protein product
+
+Bacillus_amyloliquefaciens_FZB42
+ec_k12	BAC_AMY_154684624	25.50	200	137	5	180	374	9	201	3e-14	72.8   BAC_AMY_FZB42
+>lcl|BAC_AMY_154684624 unnamed protein product
+
+Bacillus_cellulosilyticus_DSM_2522
+ec_k12	BAC_CEL_317126847	29.09	165	107	4	180	342	9	165	1e-15	77.8   BAC_CEL_2522
+>lcl|BAC_CEL_317126847 unnamed protein product
+
+Bacillus_megaterium_DSM319
+ec_k12	BAC_MEG_295702341	26.50	200	134	5	179	373	8	199	5e-15	75.5   BAC_MEG_DSM319
+>lcl|BAC_MEG_295702341 unnamed protein product
+
+Bacillus_megaterium_QM_B1551
+ec_k12	BAC_MEG_294496974	26.50	200	134	5	179	373	8	199	7e-15	75.1   BAC_MEG_B1551
+>lcl|BAC_MEG_294496974 unnamed protein product
+
+Bacillus_pseudofirmus_OF4
+ec_k12	BAC_PSE_288554716	26.37	201	135	5	179	374	8	200	6e-15	75.1   BAC_PSE_OF4
+>lcl|BAC_PSE_288554716 unnamed protein product
+
+Bacillus_subtilis_168
+ec_k12	BAC_SUB_16077174	27.50	200	133	5	180	374	9	201	1e-15	77.8   BAC_SUB_168
+>lcl|BAC_SUB_16077174 unnamed protein product
+
+Bacillus_subtilis_BSn5
+ec_k12	BAC_SUB_321313777	27.50	200	133	5	180	374	9	201	7e-16	78.2   BAC_SUB_BSn5
+>lcl|BAC_SUB_321313777 unnamed protein product
+
+Bifidobacterium_longum_BBMN68
+ec_k12	BIF_LON_312132466	30.17	179	105	7	180	344	9	181	7e-11	60.8   BIF_LON_BBMN68
+>lcl|BIF_LON_312132466 unnamed protein product
+
+Bifidobacterium_longum_DJO10A
+ec_k12	BIF_LON_189439026	30.17	179	105	7	180	344	9	181	7e-11	60.8   BIF_LON_DJO10A
+>lcl|BIF_LON_189439026 unnamed protein product
+
+Bifidobacterium_longum_infantis_ATCC_15697
+ec_k12	BIF_LON_213691732	29.61	179	106	6	180	344	9	181	7e-11	61.2   BIF_LON_15697
+>lcl|BIF_LON_213691732 unnamed protein product
+
+Bifidobacterium_longum_JDM301
+ec_k12	BIF_LON_296454450	30.17	179	105	6	180	344	9	181	3e-11	62.4   BIF_LON_JDM301
+>lcl|BIF_LON_296454450 unnamed protein product
+
+Bifidobacterium_longum_NCC2705
+ec_k12	BIF_LON_23465867	30.73	179	104	7	180	344	9	181	3e-11	62.0   BIF_LON_NCC2705
+>lcl|BIF_LON_23465867 unnamed protein product
+
+Brachyspira_murdochii_DSM_12563
+ec_k12	BRA_MUR_296127034	26.99	163	112	2	207	369	19	174	4e-13	68.9   BRA_MUR_12563
+>lcl|BRA_MUR_296127034 unnamed protein product
+
+Candidatus_Methanoregula_boonei_6A8
+ec_k12	CAN_MET_154150980	28.10	153	86	6	186	337	4	133	0.002	36.6   CAN_MET_6A8
+>lcl|CAN_MET_154150980 unnamed protein product
+
+Candidatus_Ruthia_magnifica_Cm__Calyptogena_magnifica_
+ec_k12	CAN_RUT_118602413	29.79	188	122	4	189	373	19	199	1e-17	82.4   CAN_RUT_magnifica
+>lcl|CAN_RUT_118602413 unnamed protein product
+
+Candidatus_Vesicomyosocius_okutanii_HA
+ec_k12	CAN_VES_148244517	28.72	188	124	4	189	373	15	195	2e-14	71.6   CAN_VES_HA
+>lcl|CAN_VES_148244517 unnamed protein product
+
+Catenulispora_acidiphila_DSM_44928
+ec_k12	CAT_ACI_256394541	44.76	382	188	8	11	373	13	390	2e-72	 267   CAT_ACI_44928
+>lcl|CAT_ACI_256394541 unnamed protein product
+
+Cellulomonas_flavigena_DSM_20109
+ec_k12	CEL_FLA_296131243	29.35	368	240	10	13	368	8	367	2e-25	 110   CEL_FLA_20109
+>lcl|CEL_FLA_296131243 unnamed protein product
+
+Citrobacter_koseri_ATCC_BAA_895
+ec_k12	CIT_KOS_157148660	93.39	378	25	0	1	378	1	378	0.0	 691   CIT_KOS_895
+>lcl|CIT_KOS_157148660 unnamed protein product
+
+Citrobacter_rodentium_ICC168
+ec_k12	CIT_ROD_283788330	91.01	378	34	0	1	378	1	378	0.0	 679   CIT_ROD_ICC168
+>lcl|CIT_ROD_283788330 unnamed protein product
+
+Clavibacter_michiganensis_NCPPB_382
+ec_k12	CLA_MIC_148271333	28.42	387	245	10	13	373	22	402	2e-24	 106   CLA_MIC_382
+>lcl|CLA_MIC_148271333 unnamed protein product
+
+Clavibacter_michiganensis_sepedonicus
+ec_k12	CLA_MIC_170783110	27.99	393	249	10	13	377	31	417	3e-23	 102   CLA_MIC_sepedonicus
+>lcl|CLA_MIC_170783110 unnamed protein product
+
+Clostridium_cellulolyticum_H10
+ec_k12	CLO_CEL_220927646	25.68	183	127	4	186	367	3	177	2e-11	63.5   CLO_CEL_H10
+>lcl|CLO_CEL_220927646 unnamed protein product
+
+Colwellia_psychrerythraea_34H
+ec_k12	COL_PSY_71282296	43.98	382	197	5	9	373	10	391	5e-84	 305   COL_PSY_34H
+>lcl|COL_PSY_71282296 unnamed protein product
+
+Cronobacter_sakazakii_ATCC_BAA_894
+ec_k12	CRO_SAK_156935630	74.34	378	95	1	1	378	1	376	3e-155	 541   CRO_SAK_894
+>lcl|CRO_SAK_156935630 unnamed protein product
+
+Cronobacter_turicensis_z3032
+ec_k12	CRO_TUR_260596264	73.54	378	98	1	1	378	1	376	1e-153	 535   CRO_TUR_z3032
+>lcl|CRO_TUR_260596264 unnamed protein product
+
+Denitrovibrio_acetiphilus_DSM_12809
+ec_k12	DEN_ACE_291286809	24.80	125	75	3	229	338	40	160	3e-04	39.3   DEN_ACE_12809
+>lcl|DEN_ACE_291286809 unnamed protein product
+
+Desulfotomaculum_acetoxidans_DSM_771
+ec_k12	DES_ACE_258515841	33.33	87	52	3	208	292	147	229	5e-04	38.9   DES_ACE_771
+>lcl|DES_ACE_258515841 unnamed protein product
+
+Desulfurococcus_kamchatkensis_1221n
+ec_k12	DES_KAM_218884457	30.13	156	103	2	191	346	24	173	7e-16	76.6   DES_KAM_1221n
+>lcl|DES_KAM_218884457 unnamed protein product
+
+Dickeya_dadantii_3937
+ec_k12	DIC_DAD_307129343	61.89	391	134	4	1	377	1	390	7e-124	 437   DIC_DAD_3937
+>lcl|DIC_DAD_307129343 unnamed protein product
+
+Dickeya_dadantii_Ech586
+ec_k12	DIC_DAD_271499134	61.24	387	133	5	1	373	1	384	3e-121	 428   DIC_DAD_Ech586
+>lcl|DIC_DAD_271499134 unnamed protein product
+
+Dickeya_dadantii_Ech703
+ec_k12	DIC_DAD_242240783	60.42	379	149	1	1	378	1	379	9e-122	 430   DIC_DAD_Ech703
+>lcl|DIC_DAD_242240783 unnamed protein product
+
+Dickeya_zeae_Ech1591
+ec_k12	DIC_ZEA_251791075	62.34	385	130	4	1	373	1	382	6e-124	 437   DIC_ZEA_Ech1591
+>lcl|DIC_ZEA_251791075 unnamed protein product
+
+Dinoroseobacter_shibae_DFL_12
+ec_k12	DIN_SHI_159043224	30.72	166	109	1	208	373	164	323	9e-18	84.7   DIN_SHI_12
+>lcl|DIN_SHI_159043224 unnamed protein product
+
+Edwardsiella_ictaluri_93_146
+ec_k12	EDW_ICT_238918467	65.11	364	126	1	11	373	16	379	1e-129	 455   EDW_ICT_146
+>lcl|EDW_ICT_238918467 unnamed protein product
+
+Edwardsiella_tarda_EIB202
+ec_k12	EDW_TAR_269137803	65.38	364	125	1	11	373	16	379	3e-131	 461   EDW_TAR_EIB202
+>lcl|EDW_TAR_269137803 unnamed protein product
+
+Enterobacter_638
+ec_k12	ENT_SP._146313175	90.21	378	37	0	1	378	1	378	0.0	 672   ENT_638_638
+>lcl|ENT_SP._146313175 unnamed protein product
+
+Enterobacter_cloacae_ATCC_13047
+ec_k12	ENT_CLO_296104818	92.59	378	28	0	1	378	1	378	0.0	 692   ENT_CLO_13047
+>lcl|ENT_CLO_296104818 unnamed protein product
+
+Enterobacter_cloacae_SCF1
+ec_k12	ENT_CLO_311277940	70.11	378	110	2	1	378	1	375	2e-145	 508   ENT_CLO_SCF1
+>lcl|ENT_CLO_311277940 unnamed protein product
+
+Enterococcus_faecalis_V583
+ec_k12	ENT_FAE_29374820	26.26	198	133	6	181	373	10	199	7e-12	64.7   ENT_FAE_V583
+>lcl|ENT_FAE_29374820 unnamed protein product
+
+Erwinia_amylovora_ATCC_49946
+ec_k12	ERW_AMY_292898229	64.44	374	133	0	1	374	1	374	1e-133	 469   ERW_AMY_49946
+>lcl|ERW_AMY_292898229 unnamed protein product
+
+Erwinia_amylovora_CFBP1430
+ec_k12	ERW_AMY_292489553	64.44	374	133	0	1	374	1	374	1e-133	 469   ERW_AMY_CFBP1430
+>lcl|ERW_AMY_292489553 unnamed protein product
+
+Erwinia_billingiae_Eb661
+ec_k12	ERW_BIL_300715112	62.03	374	142	0	1	374	1	374	3e-128	 451   ERW_BIL_Eb661
+>lcl|ERW_BIL_300715112 unnamed protein product
+
+Erwinia_pyrifoliae_Ep1_96
+ec_k12	ERW_PYR_259907242	64.44	374	133	0	1	374	1	374	8e-135	 473   ERW_PYR_96
+>lcl|ERW_PYR_259907242 unnamed protein product
+
+Erwinia_tasmaniensis_Et1_99
+ec_k12	ERW_TAS_188535014	64.71	374	132	0	1	374	1	374	3e-136	 478   ERW_TAS_99
+>lcl|ERW_TAS_188535014 unnamed protein product
+
+Escherichia_coli_536
+ec_k12	ESC_COL_110643328	99.21	378	3	0	1	378	1	378	0.0	 734   ESC_COL_536
+>lcl|ESC_COL_110643328 unnamed protein product
+
+Escherichia_coli_55989
+ec_k12	ESC_COL_218696788	99.21	378	3	0	1	378	1	378	0.0	 735   ESC_COL_55989
+>lcl|ESC_COL_218696788 unnamed protein product
+
+Escherichia_coli_APEC_O1
+ec_k12	ESC_COL_117625393	99.47	378	2	0	1	378	1	378	0.0	 735   ESC_COL_O1
+>lcl|ESC_COL_117625393 unnamed protein product
+
+Escherichia_coli_ATCC_8739
+ec_k12	ESC_COL_170018665	100.00	378	0	0	1	378	1	378	0.0	 739   ESC_COL_8739
+>lcl|ESC_COL_170018665 unnamed protein product
+
+Escherichia_coli__BL21_Gold_DE3_pLysS_AG_
+ec_k12	ESC_COL_253772081	100.00	378	0	0	1	378	1	378	0.0	 739   ESC_COL_AG
+>lcl|ESC_COL_253772081 unnamed protein product
+
+Escherichia_coli_B_REL606
+ec_k12	ESC_COL_254163030	100.00	378	0	0	1	378	1	378	0.0	 739   ESC_COL_REL606
+>lcl|ESC_COL_254163030 unnamed protein product
+
+Escherichia_coli_BW2952
+ec_k12	ESC_COL_238902194	100.00	378	0	0	1	378	1	378	0.0	 739   ESC_COL_BW2952
+>lcl|ESC_COL_238902194 unnamed protein product
+
+Escherichia_coli_CFT073
+ec_k12	ESC_COL_26249673	99.47	378	2	0	1	378	1	378	0.0	 735   ESC_COL_CFT073
+>lcl|ESC_COL_26249673 unnamed protein product
+
+Escherichia_coli_E24377A
+ec_k12	ESC_COL_157157132	98.94	378	4	0	1	378	1	378	0.0	 733   ESC_COL_E24377A
+>lcl|ESC_COL_157157132 unnamed protein product
+
+Escherichia_coli_ED1a
+ec_k12	ESC_COL_218691387	99.21	378	3	0	1	378	1	378	0.0	 734   ESC_COL_ED1a
+>lcl|ESC_COL_218691387 unnamed protein product
+
+Escherichia_coli_HS
+ec_k12	ESC_COL_157162560	98.94	378	4	0	1	378	1	378	0.0	 731   ESC_COL_HS
+>lcl|ESC_COL_157162560 unnamed protein product
+
+Escherichia_coli_IAI1
+ec_k12	ESC_COL_218555652	99.21	378	3	0	1	378	1	378	0.0	 735   ESC_COL_IAI1
+>lcl|ESC_COL_218555652 unnamed protein product
+
+Escherichia_coli_IAI39
+ec_k12	ESC_COL_218701855	100.00	378	0	0	1	378	1	378	0.0	 739   ESC_COL_IAI39
+>lcl|ESC_COL_218701855 unnamed protein product
+
+Escherichia_coli_K_12_substr__DH10B
+ec_k12	ESC_COL_170082626	100.00	378	0	0	1	378	1	378	0.0	 739   ESC_COL_DH10B
+>lcl|ESC_COL_170082626 unnamed protein product
+
+Escherichia_coli_K_12_substr__MG1655
+ec_k12	ESC_COL_90111535	100.00	378	0	0	1	378	1	378	0.0	 739   ESC_COL_MG1655
+>lcl|ESC_COL_90111535 unnamed protein product
+
+Escherichia_coli_K_12_substr__W3110
+ec_k12	ESC_COL_89109853	100.00	378	0	0	1	378	1	378	0.0	 739   ESC_COL_W3110
+>lcl|ESC_COL_89109853 unnamed protein product
+
+Escherichia_coli_O103_H2_12009
+ec_k12	ESC_COL_260845896	99.21	378	3	0	1	378	1	378	0.0	 735   ESC_COL_12009
+>lcl|ESC_COL_260845896 unnamed protein product
+
+Escherichia_coli_O111_H__11128
+ec_k12	ESC_COL_260869835	99.47	378	2	0	1	378	1	378	0.0	 733   ESC_COL_11128
+>lcl|ESC_COL_260869835 unnamed protein product
+
+Escherichia_coli_O127_H6_E2348_69
+ec_k12	ESC_COL_215488413	99.47	378	2	0	1	378	1	378	0.0	 736   ESC_COL_69
+>lcl|ESC_COL_215488413 unnamed protein product
+
+Escherichia_coli_O157_H7_EC4115
+ec_k12	ESC_COL_209399561	99.21	378	3	0	1	378	1	378	0.0	 733   ESC_COL_EC4115
+>lcl|ESC_COL_209399561 unnamed protein product
+
+Escherichia_coli_O157_H7_EDL933
+ec_k12	ESC_COL_15803625	98.94	378	4	0	1	378	1	378	0.0	 731   ESC_COL_EDL933
+>lcl|ESC_COL_15803625 unnamed protein product
+
+Escherichia_coli_O157_H7_Sakai
+ec_k12	ESC_COL_38704140	99.21	378	3	0	1	378	1	378	0.0	 733   ESC_COL_Sakai
+>lcl|ESC_COL_38704140 unnamed protein product
+
+Escherichia_coli_O157_H7_TW14359
+ec_k12	ESC_COL_254795035	99.21	378	3	0	1	378	1	378	0.0	 733   ESC_COL_TW14359
+>lcl|ESC_COL_254795035 unnamed protein product
+
+Escherichia_coli_O26_H11_11368
+ec_k12	ESC_COL_260857211	99.21	378	3	0	1	378	1	378	0.0	 731   ESC_COL_11368
+>lcl|ESC_COL_260857211 unnamed protein product
+
+Escherichia_coli_O55_H7_CB9615
+ec_k12	ESC_COL_291284462	98.94	378	4	0	1	378	1	378	0.0	 731   ESC_COL_CB9615
+>lcl|ESC_COL_291284462 unnamed protein product
+
+Escherichia_coli_S88
+ec_k12	ESC_COL_218560168	99.47	378	2	0	1	378	1	378	0.0	 735   ESC_COL_S88
+>lcl|ESC_COL_218560168 unnamed protein product
+
+Escherichia_coli_SE11
+ec_k12	ESC_COL_209920555	99.21	378	3	0	1	378	1	378	0.0	 735   ESC_COL_SE11
+>lcl|ESC_COL_209920555 unnamed protein product
+
+Escherichia_coli_SMS_3_5
+ec_k12	ESC_COL_170684079	99.21	378	3	0	1	378	1	378	0.0	 734   ESC_COL_5
+>lcl|ESC_COL_170684079 unnamed protein product
+
+Escherichia_coli_UMN026
+ec_k12	ESC_COL_218706708	99.21	378	3	0	1	378	1	378	0.0	 734   ESC_COL_UMN026
+>lcl|ESC_COL_218706708 unnamed protein product
+
+Escherichia_coli_UTI89
+ec_k12	ESC_COL_91212513	99.47	378	2	0	1	378	1	378	0.0	 735   ESC_COL_UTI89
+>lcl|ESC_COL_91212513 unnamed protein product
+
+Escherichia_fergusonii_ATCC_35469
+ec_k12	ESC_FER_218551605	99.47	378	2	0	1	378	1	378	0.0	 735   ESC_FER_35469
+>lcl|ESC_FER_218551605 unnamed protein product
+
+Ferrimonas_balearica_DSM_9799
+ec_k12	FER_BAL_308048606	43.24	377	198	8	1	373	1	365	1e-73	 270   FER_BAL_9799
+>lcl|FER_BAL_308048606 unnamed protein product
+
+Gardnerella_vaginalis_ATCC_14019
+ec_k12	GAR_VAG_311114409	24.85	165	117	3	181	344	39	197	1e-09	56.2   GAR_VAG_14019
+>lcl|GAR_VAG_311114409 unnamed protein product
+
+Geodermatophilus_obscurus_DSM_43160
+ec_k12	GEO_OBS_284988732	26.11	360	238	8	25	368	21	368	3e-20	93.2   GEO_OBS_43160
+>lcl|GEO_OBS_284988732 unnamed protein product
+
+Glaciecola_agarilytica_4H_3_7_YE_5
+ec_k12	GLA_AGA_332304898	46.65	373	191	3	9	373	10	382	3e-83	 302   GLA_AGA_5
+>lcl|GLA_AGA_332304898 unnamed protein product
+
+Halothiobacillus_neapolitanus_c2
+ec_k12	HAL_NEA_261855171	29.02	193	125	6	184	373	12	195	1e-12	66.6   HAL_NEA_c2
+>lcl|HAL_NEA_261855171 unnamed protein product
+
+Hyperthermus_butylicus_DSM_5456
+ec_k12	HYP_BUT_124028185	31.89	185	119	3	190	373	18	196	1e-18	86.3   HYP_BUT_5456
+>lcl|HYP_BUT_124028185 unnamed protein product
+
+Isoptericola_variabilis_225
+ec_k12	ISO_VAR_334337932	28.15	373	237	6	27	371	31	400	2e-25	 109   ISO_VAR_225
+>lcl|ISO_VAR_334337932 unnamed protein product
+
+Jonesia_denitrificans_DSM_20603
+ec_k12	JON_DEN_256833716	29.67	273	180	4	110	376	122	388	1e-25	 110   JON_DEN_20603
+>lcl|JON_DEN_256833716 unnamed protein product
+
+Kangiella_koreensis_DSM_16069
+ec_k12	KAN_KOR_256821947	26.97	152	102	3	207	356	35	179	1e-09	57.4   KAN_KOR_16069
+>lcl|KAN_KOR_256821947 unnamed protein product
+
+Klebsiella_pneumoniae_342
+ec_k12	KLE_PNE_206580995	70.37	378	110	1	1	378	1	376	2e-149	 522   KLE_PNE_342
+>lcl|KLE_PNE_206580995 unnamed protein product
+
+Klebsiella_pneumoniae_MGH_78578
+ec_k12	KLE_PNE_152972027	70.37	378	110	1	1	378	1	376	9e-150	 523   KLE_PNE_78578
+>lcl|KLE_PNE_152972027 unnamed protein product
+
+Klebsiella_pneumoniae_NTUH_K2044
+ec_k12	KLE_PNE_238896608	70.11	378	111	1	1	378	1	376	3e-149	 521   KLE_PNE_K2044
+>lcl|KLE_PNE_238896608 unnamed protein product
+
+Klebsiella_variicola_At_22
+ec_k12	KLE_VAR_288933472	70.11	378	111	1	1	378	1	376	1e-148	 520   KLE_VAR_22
+>lcl|KLE_VAR_288933472 unnamed protein product
+
+Leifsonia_xyli_CTCB07
+ec_k12	LEI_XYL_50955828	28.42	373	246	9	13	373	11	374	2e-27	 115   LEI_XYL_CTCB07
+>lcl|LEI_XYL_50955828 unnamed protein product
+
+Leptospira_borgpetersenii_serovar_Hardjo_bovis_JB197
+ec_k12	LEP_BOR_116330229	32.10	81	52	2	232	310	46	125	4e-04	38.9   LEP_BOR_JB197
+>lcl|LEP_BOR_116330229 unnamed protein product
+
+Leptospira_borgpetersenii_serovar_Hardjo_bovis_L550
+ec_k12	LEP_BOR_116329163	32.10	81	52	2	232	310	46	125	4e-04	38.9   LEP_BOR_L550
+>lcl|LEP_BOR_116329163 unnamed protein product
+
+Lysinibacillus_sphaericus_C3_41
+ec_k12	LYS_SPH_169830047	28.31	166	110	4	179	342	10	168	2e-13	70.1   LYS_SPH_41
+>lcl|LYS_SPH_169830047 unnamed protein product
+
+Magnetococcus_MC_1
+ec_k12	MAG_SP._117925507	40.74	378	208	9	1	373	1	367	9e-61	 227   MAG_MC_1
+>lcl|MAG_SP._117925507 unnamed protein product
+
+Marinobacter_aquaeolei_VT8
+ec_k12	MAR_AQU_120554858	31.36	354	233	5	25	371	24	374	5e-36	 145   MAR_AQU_VT8
+>lcl|MAR_AQU_120554858 unnamed protein product
+
+Melissococcus_plutonius_ATCC_35311
+ec_k12	MEL_PLU_332685759	25.25	198	135	5	181	373	10	199	1e-11	62.8   MEL_PLU_35311
+>lcl|MEL_PLU_332685759 unnamed protein product
+
+Metallosphaera_cuprina_Ar_4
+ec_k12	MET_CUP_330833924	28.09	178	118	3	194	364	12	186	6e-15	73.9   MET_CUP_4
+>lcl|MET_CUP_330833924 unnamed protein product
+
+Methanobacterium_AL_21
+ec_k12	MET_SP._325959485	26.45	155	100	6	208	356	65	211	0.003	35.8   MET_AL_21
+>lcl|MET_SP._325959485 unnamed protein product
+
+Methanocaldococcus_jannaschii_DSM_2661
+ec_k12	MET_JAN_15669072	25.00	184	128	4	194	374	21	197	1e-12	66.2   MET_JAN_2661
+>lcl|MET_JAN_15669072 unnamed protein product
+
+Methanococcus_maripaludis_C7
+ec_k12	MET_MAR_150403488	25.26	190	128	5	189	373	16	196	6e-12	63.9   MET_MAR_C7
+>lcl|MET_MAR_150403488 unnamed protein product
+
+Methylomonas_methanica_MC09
+ec_k12	MET_MET_333985139	45.80	369	191	8	11	373	12	377	9e-77	 280   MET_MET_MC09
+>lcl|MET_MET_333985139 unnamed protein product
+
+Microbacterium_testaceum_StLB037
+ec_k12	MIC_TES_323359328	27.10	369	251	8	13	373	8	366	3e-29	 122   MIC_TES_StLB037
+>lcl|MIC_TES_323359328 unnamed protein product
+
+Microcystis_aeruginosa_NIES_843
+ec_k12	MIC_AER_166364507	22.94	170	117	4	176	339	81	242	4e-05	42.7   MIC_AER_843
+>lcl|MIC_AER_166364507 unnamed protein product
+
+Micromonospora_aurantiaca_ATCC_27029
+ec_k12	MIC_AUR_302869938	29.30	157	91	6	180	320	32	184	2e-07	51.2   MIC_AUR_27029
+>lcl|MIC_AUR_302869938 unnamed protein product
+
+Micromonospora_L5
+ec_k12	MIC_SP._315501399	30.08	133	86	4	180	309	32	160	6e-07	49.3   MIC_L5_L5
+>lcl|MIC_SP._315501399 unnamed protein product
+
+Moraxella_catarrhalis_RH4
+ec_k12	MOR_CAT_296114098	27.17	173	110	5	207	373	49	211	1e-11	62.8   MOR_CAT_RH4
+>lcl|MOR_CAT_296114098 unnamed protein product
+
+Nocardia_farcinica_IFM_10152
+ec_k12	NOC_FAR_54026812	29.46	370	247	8	13	373	11	375	4e-33	 136   NOC_FAR_10152
+>lcl|NOC_FAR_54026812 unnamed protein product
+
+Oceanobacillus_iheyensis_HTE831
+ec_k12	OCE_IHE_23097566	27.96	186	122	5	194	374	26	204	2e-14	73.2   OCE_IHE_HTE831
+>lcl|OCE_IHE_23097566 unnamed protein product
+
+Pantoea_ananatis_LMG_20103
+ec_k12	PAN_ANA_291619002	63.10	374	135	1	1	374	15	385	4e-129	 454   PAN_ANA_20103
+>lcl|PAN_ANA_291619002 unnamed protein product
+
+Pantoea_At_9b
+ec_k12	PAN_SP._317049678	63.20	375	133	2	1	374	1	371	2e-128	 452   PAN_AT_9b
+>lcl|PAN_SP._317049678 unnamed protein product
+
+Pantoea_vagans_C9_1
+ec_k12	PAN_VAG_308188195	62.57	374	137	1	1	374	1	371	1e-130	 459   PAN_VAG_1
+>lcl|PAN_VAG_308188195 unnamed protein product
+
+Pectobacterium_atrosepticum_SCRI1043
+ec_k12	PEC_ATR_50119603	61.48	379	145	1	1	378	1	379	5e-129	 454   PEC_ATR_SCRI1043
+>lcl|PEC_ATR_50119603 unnamed protein product
+
+Pectobacterium_carotovorum_PC1
+ec_k12	PEC_CAR_253686937	61.74	379	144	1	1	378	1	379	8e-131	 460   PEC_CAR_PC1
+>lcl|PEC_CAR_253686937 unnamed protein product
+
+Pectobacterium_wasabiae_WPP163
+ec_k12	PEC_WAS_261820074	61.74	379	144	1	1	378	1	379	1e-128	 453   PEC_WAS_WPP163
+>lcl|PEC_WAS_261820074 unnamed protein product
+
+Photobacterium_profundum_SS9
+ec_k12	PHO_PRO_54308014	44.99	369	195	6	9	373	10	374	4e-80	 292   PHO_PRO_SS9
+>lcl|PHO_PRO_54308014 unnamed protein product
+
+Pirellula_staleyi_DSM_6068
+ec_k12	PIR_STA_283781797	25.78	225	151	5	147	368	119	330	1e-13	71.2   PIR_STA_6068
+>lcl|PIR_STA_283781797 unnamed protein product
+
+Planctomyces_limnophilus_DSM_3776
+ec_k12	PLA_LIM_296122425	23.89	360	234	11	31	373	23	359	6e-13	68.9   PLA_LIM_3776
+>lcl|PLA_LIM_296122425 unnamed protein product
+
+Propionibacterium_acnes_KPA171202
+ec_k12	PRO_ACN_50843494	27.52	298	192	8	82	373	54	333	1e-21	96.7   PRO_ACN_KPA171202
+>lcl|PRO_ACN_50843494 unnamed protein product
+
+Propionibacterium_acnes_SK137
+ec_k12	PRO_ACN_295131577	26.85	298	194	8	82	373	54	333	5e-21	94.7   PRO_ACN_SK137
+>lcl|PRO_ACN_295131577 unnamed protein product
+
+Propionibacterium_freudenreichii_shermanii_CIRM_BIA1
+ec_k12	PRO_FRE_297625531	25.52	239	164	3	138	372	99	327	1e-18	86.7   PRO_FRE_BIA1
+>lcl|PRO_FRE_297625531 unnamed protein product
+
+Pseudoalteromonas_atlantica_T6c
+ec_k12	PSE_ATL_109896776	47.45	373	187	4	10	373	11	383	6e-82	 298   PSE_ATL_T6c
+>lcl|PSE_ATL_109896776 unnamed protein product
+
+Pseudoalteromonas_haloplanktis_TAC125
+ec_k12	PSE_HAL_77361168	51.07	374	172	7	7	373	8	377	9e-93	 333   PSE_HAL_TAC125
+>lcl|PSE_HAL_77361168 unnamed protein product
+
+Pseudoalteromonas_SM9913
+ec_k12	PSE_SP._315125937	49.87	373	178	6	7	373	8	377	5e-91	 327   PSE_SM9_SM9913
+>lcl|PSE_SP._315125937 unnamed protein product
+
+Pseudomonas_aeruginosa_LESB58
+ec_k12	PSE_AER_218893714	44.59	370	198	5	8	373	8	374	1e-69	 257   PSE_AER_LESB58
+>lcl|PSE_AER_218893714 unnamed protein product
+
+Pseudomonas_aeruginosa_PA7
+ec_k12	PSE_AER_152984637	44.05	370	200	5	8	373	8	374	9e-69	 254   PSE_AER_PA7
+>lcl|PSE_AER_152984637 unnamed protein product
+
+Pseudomonas_aeruginosa_PAO1
+ec_k12	PSE_AER_15599813	44.59	370	198	5	8	373	8	374	1e-69	 257   PSE_AER_PAO1
+>lcl|PSE_AER_15599813 unnamed protein product
+
+Pseudomonas_aeruginosa_UCBPP_PA14
+ec_k12	PSE_AER_116052759	44.59	370	198	5	8	373	8	374	1e-69	 257   PSE_AER_PA14
+>lcl|PSE_AER_116052759 unnamed protein product
+
+Pseudomonas_brassicacearum_NFM421
+ec_k12	PSE_BRA_330811857	41.30	385	208	7	1	373	1	379	3e-61	 229   PSE_BRA_NFM421
+>lcl|PSE_BRA_330811857 unnamed protein product
+
+Pseudomonas_entomophila_L48
+ec_k12	PSE_ENT_104783717	42.44	377	210	5	1	373	1	374	1e-66	 247   PSE_ENT_L48
+>lcl|PSE_ENT_104783717 unnamed protein product
+
+Pseudomonas_fluorescens_Pf0_1
+ec_k12	PSE_FLU_77461111	40.90	379	213	6	1	373	1	374	4e-61	 229   PSE_FLU_1
+>lcl|PSE_FLU_77461111 unnamed protein product
+
+Pseudomonas_fluorescens_Pf_5
+ec_k12	PSE_FLU_70732666	41.91	377	212	5	1	373	1	374	1e-65	 244   PSE_FLU_5
+>lcl|PSE_FLU_70732666 unnamed protein product
+
+Pseudomonas_fluorescens_SBW25
+ec_k12	PSE_FLU_229592723	41.42	379	211	6	1	373	1	374	1e-63	 238   PSE_FLU_SBW25
+>lcl|PSE_FLU_229592723 unnamed protein product
+
+Pseudomonas_fulva_12_X
+ec_k12	PSE_FUL_333902158	42.93	368	205	4	8	373	60	424	3e-68	 252   PSE_FUL_X
+>lcl|PSE_FUL_333902158 unnamed protein product
+
+Pseudomonas_mendocina_NK_01
+ec_k12	PSE_MEN_330501770	42.74	372	202	8	8	373	8	374	9e-65	 241   PSE_MEN_01
+>lcl|PSE_MEN_330501770 unnamed protein product
+
+Pseudomonas_mendocina_ymp
+ec_k12	PSE_MEN_146305786	43.40	371	201	7	8	373	11	377	2e-66	 246   PSE_MEN_ymp
+>lcl|PSE_MEN_146305786 unnamed protein product
+
+Pseudomonas_putida_F1
+ec_k12	PSE_PUT_148549712	42.97	377	208	5	1	373	1	374	1e-68	 253   PSE_PUT_F1
+>lcl|PSE_PUT_148549712 unnamed protein product
+
+Pseudomonas_putida_GB_1
+ec_k12	PSE_PUT_167035633	42.71	377	209	5	1	373	1	374	7e-68	 251   PSE_PUT_1
+>lcl|PSE_PUT_167035633 unnamed protein product
+
+Pseudomonas_putida_KT2440
+ec_k12	PSE_PUT_26991332	43.24	377	207	5	1	373	1	374	1e-69	 257   PSE_PUT_KT2440
+>lcl|PSE_PUT_26991332 unnamed protein product
+
+Pseudomonas_putida_W619
+ec_k12	PSE_PUT_170719976	42.33	378	209	6	1	373	1	374	3e-68	 252   PSE_PUT_W619
+>lcl|PSE_PUT_170719976 unnamed protein product
+
+Pseudomonas_stutzeri_A1501
+ec_k12	PSE_STU_146281318	42.44	377	210	5	1	373	1	374	1e-68	 253   PSE_STU_A1501
+>lcl|PSE_STU_146281318 unnamed protein product
+
+Pseudomonas_syringae_B728a
+ec_k12	PSE_SYR_66047506	42.18	377	211	5	1	373	1	374	1e-63	 237   PSE_SYR_B728a
+>lcl|PSE_SYR_66047506 unnamed protein product
+
+Pseudomonas_syringae_phaseolicola_1448A
+ec_k12	PSE_SYR_71736672	41.36	353	201	4	25	373	1	351	2e-61	 229   PSE_SYR_1448A
+>lcl|PSE_SYR_71736672 unnamed protein product
+
+Pseudomonas_syringae_tomato_DC3000
+ec_k12	PSE_SYR_28871777	40.05	377	219	5	1	373	1	374	3e-60	 226   PSE_SYR_DC3000
+>lcl|PSE_SYR_28871777 unnamed protein product
+
+Psychrobacter_arcticus_273_4
+ec_k12	PSY_ARC_71064628	27.17	173	110	6	207	373	39	201	3e-11	62.0   PSY_ARC_4
+>lcl|PSY_ARC_71064628 unnamed protein product
+
+Psychrobacter_cryohalolentis_K5
+ec_k12	PSY_CRY_93004886	27.17	173	110	6	207	373	39	201	9e-11	60.8   PSY_CRY_K5
+>lcl|PSY_CRY_93004886 unnamed protein product
+
+Psychrobacter_PRwf_1
+ec_k12	PSY_SP._148651873	27.17	173	110	5	207	373	39	201	3e-13	69.3   PSY_PRW_1
+>lcl|PSY_SP._148651873 unnamed protein product
+
+Psychromonas_ingrahamii_37
+ec_k12	PSY_ING_119945956	44.41	376	195	5	9	374	10	381	8e-90	 323   PSY_ING_37
+>lcl|PSY_ING_119945956 unnamed protein product
+
+Rahnella_Y9602
+ec_k12	RAH_SP._322831255	62.91	364	134	1	11	373	15	378	1e-125	 443   RAH_Y96_Y9602
+>lcl|RAH_SP._322831255 unnamed protein product
+
+Renibacterium_salmoninarum_ATCC_33209
+ec_k12	REN_SAL_163842185	27.20	386	254	11	8	373	6	384	8e-29	 120   REN_SAL_33209
+>lcl|REN_SAL_163842185 unnamed protein product
+
+Rhodococcus_equi_103S
+ec_k12	RHO_EQU_312138720	29.44	394	238	9	1	373	1	375	4e-33	 135   RHO_EQU_103S
+>lcl|RHO_EQU_312138720 unnamed protein product
+
+Rhodococcus_erythropolis_PR4
+ec_k12	RHO_ERY_226307758	29.87	375	240	11	13	373	11	376	8e-31	 128   RHO_ERY_PR4
+>lcl|RHO_ERY_226307758 unnamed protein product
+
+Rhodococcus_jostii_RHA1
+ec_k12	RHO_JOS_111022802	27.84	370	251	9	13	372	16	379	2e-25	 111   RHO_JOS_RHA1
+>lcl|RHO_JOS_111022802 unnamed protein product
+
+Rhodococcus_opacus_B4
+ec_k12	RHO_OPA_226365309	27.96	372	248	10	13	372	16	379	3e-26	 114   RHO_OPA_B4
+>lcl|RHO_OPA_226365309 unnamed protein product
+
+Roseobacter_denitrificans_OCh_114
+ec_k12	ROS_DEN_110678605	26.67	240	165	3	138	377	85	313	5e-16	79.0   ROS_DEN_114
+>lcl|ROS_DEN_110678605 unnamed protein product
+
+Salinispora_tropica_CNB_440
+ec_k12	SAL_TRO_145596403	35.23	88	54	2	180	264	10	97	2e-05	44.3   SAL_TRO_440
+>lcl|SAL_TRO_145596403 unnamed protein product
+
+Salmonella_enterica_arizonae_serovar_62_z4_z23__RSK2980
+ec_k12	SAL_ENT_161506215	91.01	378	34	0	1	378	1	378	0.0	 677   SAL_ENT_RSK2980
+>lcl|SAL_ENT_161506215 unnamed protein product
+
+Salmonella_enterica_serovar_Agona_SL483
+ec_k12	SAL_ENT_197248542	91.01	378	34	0	1	378	1	378	0.0	 678   SAL_ENT_SL483
+>lcl|SAL_ENT_197248542 unnamed protein product
+
+Salmonella_enterica_serovar_Choleraesuis_SC_B67
+ec_k12	SAL_ENT_62181737	91.01	378	34	0	1	378	1	378	0.0	 678   SAL_ENT_B67
+>lcl|SAL_ENT_62181737 unnamed protein product
+
+Salmonella_enterica_serovar_Dublin_CT_02021853
+ec_k12	SAL_ENT_198244714	90.48	378	36	0	1	378	1	378	0.0	 674   SAL_ENT_02021853
+>lcl|SAL_ENT_198244714 unnamed protein product
+
+Salmonella_enterica_serovar_Enteritidis_P125109
+ec_k12	SAL_ENT_207858477	90.48	378	36	0	1	378	1	378	0.0	 674   SAL_ENT_P125109
+>lcl|SAL_ENT_207858477 unnamed protein product
+
+Salmonella_enterica_serovar_Gallinarum_287_91
+ec_k12	SAL_ENT_205354134	90.21	378	37	0	1	378	1	378	0.0	 672   SAL_ENT_91
+>lcl|SAL_ENT_205354134 unnamed protein product
+
+Salmonella_enterica_serovar_Heidelberg_SL476
+ec_k12	SAL_ENT_194450232	90.48	378	36	0	1	378	1	378	0.0	 675   SAL_ENT_SL476
+>lcl|SAL_ENT_194450232 unnamed protein product
+
+Salmonella_enterica_serovar_Newport_SL254
+ec_k12	SAL_ENT_194446650	90.74	378	35	0	1	378	1	378	0.0	 676   SAL_ENT_SL254
+>lcl|SAL_ENT_194446650 unnamed protein product
+
+Salmonella_enterica_serovar_Paratyphi_A_AKU_12601
+ec_k12	SAL_ENT_197364089	90.74	378	35	0	1	378	1	378	0.0	 676   SAL_ENT_12601
+>lcl|SAL_ENT_197364089 unnamed protein product
+
+Salmonella_enterica_serovar_Paratyphi_A_ATCC_9150
+ec_k12	SAL_ENT_56415159	90.74	378	35	0	1	378	1	378	0.0	 676   SAL_ENT_9150
+>lcl|SAL_ENT_56415159 unnamed protein product
+
+Salmonella_enterica_serovar_Paratyphi_B_SPB7
+ec_k12	SAL_ENT_161616215	90.74	378	35	0	1	378	1	378	0.0	 675   SAL_ENT_SPB7
+>lcl|SAL_ENT_161616215 unnamed protein product
+
+Salmonella_enterica_serovar_Paratyphi_C_RKS4594
+ec_k12	SAL_ENT_224585023	90.74	378	35	0	1	378	1	378	0.0	 676   SAL_ENT_RKS4594
+>lcl|SAL_ENT_224585023 unnamed protein product
+
+Salmonella_enterica_serovar_Schwarzengrund_CVM19633
+ec_k12	SAL_ENT_194735079	90.74	378	35	0	1	378	1	378	0.0	 676   SAL_ENT_CVM19633
+>lcl|SAL_ENT_194735079 unnamed protein product
+
+Salmonella_enterica_serovar_Typhi_CT18
+ec_k12	SAL_ENT_16761992	90.48	378	36	0	1	378	1	378	0.0	 674   SAL_ENT_CT18
+>lcl|SAL_ENT_16761992 unnamed protein product
+
+Salmonella_enterica_serovar_Typhimurium_LT2
+ec_k12	SAL_ENT_16766519	90.74	378	35	0	1	378	1	378	0.0	 676   SAL_ENT_LT2
+>lcl|SAL_ENT_16766519 unnamed protein product
+
+Salmonella_enterica_serovar_Typhi_Ty2
+ec_k12	SAL_ENT_29143479	90.48	378	36	0	1	378	1	378	0.0	 674   SAL_ENT_Ty2
+>lcl|SAL_ENT_29143479 unnamed protein product
+
+Sanguibacter_keddieii_DSM_10542
+ec_k12	SAN_KED_269796895	29.82	389	233	8	17	373	10	390	2e-28	 120   SAN_KED_10542
+>lcl|SAN_KED_269796895 unnamed protein product
+
+Serratia_AS12
+ec_k12	SER_SP._333929242	65.08	378	131	1	1	377	1	378	7e-137	 480   SER_AS1_AS12
+>lcl|SER_SP._333929242 unnamed protein product
+
+Serratia_AS9
+ec_k12	SER_SP._333934195	65.08	378	131	1	1	377	1	378	7e-137	 480   SER_AS9_AS9
+>lcl|SER_SP._333934195 unnamed protein product
+
+Serratia_proteamaculans_568
+ec_k12	SER_PRO_157372545	64.81	378	132	1	1	377	1	378	7e-136	 477   SER_PRO_568
+>lcl|SER_PRO_157372545 unnamed protein product
+
+Shewanella_amazonensis_SB2B
+ec_k12	SHE_AMA_119775680	43.85	374	193	9	11	373	16	383	6e-73	 268   SHE_AMA_SB2B
+>lcl|SHE_AMA_119775680 unnamed protein product
+
+Shewanella_ANA_3
+ec_k12	SHE_SP._117919381	42.47	372	199	8	11	373	12	377	5e-70	 258   SHE_ANA_3
+>lcl|SHE_SP._117919381 unnamed protein product
+
+Shewanella_baltica_OS155
+ec_k12	SHE_BAL_126173163	42.01	369	205	6	11	373	12	377	1e-70	 260   SHE_BAL_OS155
+>lcl|SHE_BAL_126173163 unnamed protein product
+
+Shewanella_baltica_OS185
+ec_k12	SHE_BAL_153001953	41.73	369	206	6	11	373	12	377	7e-70	 258   SHE_BAL_OS185
+>lcl|SHE_BAL_153001953 unnamed protein product
+
+Shewanella_baltica_OS195
+ec_k12	SHE_BAL_160876675	41.73	369	206	6	11	373	12	377	1e-70	 260   SHE_BAL_OS195
+>lcl|SHE_BAL_160876675 unnamed protein product
+
+Shewanella_baltica_OS223
+ec_k12	SHE_BAL_217974528	41.73	369	206	6	11	373	12	377	5e-71	 261   SHE_BAL_OS223
+>lcl|SHE_BAL_217974528 unnamed protein product
+
+Shewanella_denitrificans_OS217
+ec_k12	SHE_DEN_91794287	42.67	375	201	7	10	373	11	382	4e-76	 278   SHE_DEN_OS217
+>lcl|SHE_DEN_91794287 unnamed protein product
+
+Shewanella_frigidimarina_NCIMB_400
+ec_k12	SHE_FRI_114564263	41.97	386	196	6	11	373	12	392	1e-73	 270   SHE_FRI_400
+>lcl|SHE_FRI_114564263 unnamed protein product
+
+Shewanella_halifaxensis_HAW_EB4
+ec_k12	SHE_HAL_167625103	41.11	377	210	6	11	377	23	397	2e-69	 256   SHE_HAL_EB4
+>lcl|SHE_HAL_167625103 unnamed protein product
+
+Shewanella_loihica_PV_4
+ec_k12	SHE_LOI_127513814	41.29	373	207	6	11	373	12	382	3e-69	 255   SHE_LOI_4
+>lcl|SHE_LOI_127513814 unnamed protein product
+
+Shewanella_MR_4
+ec_k12	SHE_SP._113969274	42.43	370	198	8	11	371	12	375	2e-70	 259   SHE_MR_4
+>lcl|SHE_SP._113969274 unnamed protein product
+
+Shewanella_MR_7
+ec_k12	SHE_SP._114046474	42.78	374	195	8	11	373	12	377	3e-72	 265   SHE_MR_7
+>lcl|SHE_SP._114046474 unnamed protein product
+
+Shewanella_oneidensis_MR_1
+ec_k12	SHE_ONE_24372681	42.55	369	203	6	11	373	12	377	1e-72	 267   SHE_ONE_1
+>lcl|SHE_ONE_24372681 unnamed protein product
+
+Shewanella_pealeana_ATCC_700345
+ec_k12	SHE_PEA_157962924	41.64	377	208	6	11	377	23	397	2e-71	 263   SHE_PEA_700345
+>lcl|SHE_PEA_157962924 unnamed protein product
+
+Shewanella_piezotolerans_WP3
+ec_k12	SHE_PIE_212634019	40.58	377	212	7	11	377	12	386	7e-69	 254   SHE_PIE_WP3
+>lcl|SHE_PIE_212634019 unnamed protein product
+
+Shewanella_putrefaciens_CN_32
+ec_k12	SHE_PUT_146292038	42.01	369	205	6	11	373	36	401	6e-72	 264   SHE_PUT_32
+>lcl|SHE_PUT_146292038 unnamed protein product
+
+Shewanella_sediminis_HAW_EB3
+ec_k12	SHE_SED_157376568	41.11	377	210	7	11	377	12	386	1e-71	 263   SHE_SED_EB3
+>lcl|SHE_SED_157376568 unnamed protein product
+
+Shewanella_violacea_DSS12
+ec_k12	SHE_VIO_294142115	40.05	377	214	7	11	377	12	386	2e-70	 259   SHE_VIO_DSS12
+>lcl|SHE_VIO_294142115 unnamed protein product
+
+Shewanella_W3_18_1
+ec_k12	SHE_SP._120600037	40.92	369	209	6	11	373	39	404	2e-70	 259   SHE_W3_1
+>lcl|SHE_SP._120600037 unnamed protein product
+
+Shewanella_woodyi_ATCC_51908
+ec_k12	SHE_WOO_170727958	39.42	378	215	7	11	377	12	386	3e-68	 252   SHE_WOO_51908
+>lcl|SHE_WOO_170727958 unnamed protein product
+
+Shigella_boydii_CDC_3083_94
+ec_k12	SHI_BOY_187732632	99.21	378	3	0	1	378	1	378	0.0	 731   SHI_BOY_94
+>lcl|SHI_BOY_187732632 unnamed protein product
+
+Shigella_boydii_Sb227
+ec_k12	SHI_BOY_82545340	99.47	378	2	0	1	378	1	378	0.0	 733   SHI_BOY_Sb227
+>lcl|SHI_BOY_82545340 unnamed protein product
+
+Shigella_dysenteriae_Sd197
+ec_k12	SHI_DYS_82778409	99.74	378	1	0	1	378	11	388	0.0	 737   SHI_DYS_Sd197
+>lcl|SHI_DYS_82778409 unnamed protein product
+
+Shigella_flexneri_2a_2457T
+ec_k12	SHI_FLE_30064427	98.94	378	4	0	1	378	1	378	0.0	 728   SHI_FLE_2457T
+>lcl|SHI_FLE_30064427 unnamed protein product
+
+Shigella_flexneri_2a_301
+ec_k12	SHI_FLE_24114379	98.94	378	4	0	1	378	1	378	0.0	 728   SHI_FLE_301
+>lcl|SHI_FLE_24114379 unnamed protein product
+
+Shigella_flexneri_5_8401
+ec_k12	SHI_FLE_110806967	98.94	378	4	0	1	378	104	481	0.0	 728   SHI_FLE_8401
+>lcl|SHI_FLE_110806967 unnamed protein product
+
+Shigella_sonnei_Ss046
+ec_k12	SHI_SON_74313522	99.47	378	2	0	1	378	1	378	0.0	 733   SHI_SON_Ss046
+>lcl|SHI_SON_74313522 unnamed protein product
+
+Staphylococcus_carnosus_TM300
+ec_k12	STA_CAR_224475689	23.62	199	138	4	180	371	8	199	3e-14	72.4   STA_CAR_TM300
+>lcl|STA_CAR_224475689 unnamed protein product
+
+Staphylococcus_epidermidis_ATCC_12228
+ec_k12	STA_EPI_27467223	26.37	201	134	4	180	373	8	201	2e-17	82.4   STA_EPI_12228
+>lcl|STA_EPI_27467223 unnamed protein product
+
+Staphylococcus_epidermidis_RP62A
+ec_k12	STA_EPI_57866133	26.37	201	134	4	180	373	8	201	2e-17	82.4   STA_EPI_RP62A
+>lcl|STA_EPI_57866133 unnamed protein product
+
+Staphylococcus_lugdunensis_HKU09_01
+ec_k12	STA_LUG_289551659	26.50	200	133	4	181	373	9	201	2e-13	69.3   STA_LUG_01
+>lcl|STA_LUG_289551659 unnamed protein product
+
+Staphylococcus_pseudintermedius_HKU10_03
+ec_k12	STA_PSE_319891505	27.50	200	131	4	181	373	9	201	7e-14	70.9   STA_PSE_03
+>lcl|STA_PSE_319891505 unnamed protein product
+
+Staphylothermus_marinus_F1
+ec_k12	STA_MAR_126465946	28.09	178	120	4	194	370	20	190	2e-15	75.5   STA_MAR_F1
+>lcl|STA_MAR_126465946 unnamed protein product
+
+Streptococcus_parauberis_KCTC_11537
+ec_k12	STR_PAR_333905332	26.77	127	74	4	230	339	48	172	6e-05	40.8   STR_PAR_11537
+>lcl|STR_PAR_333905332 unnamed protein product
+
+Streptomyces_avermitilis_MA_4680
+ec_k12	STR_AVE_29827985	46.36	371	184	6	13	373	14	379	2e-77	 283   STR_AVE_4680
+>lcl|STR_AVE_29827985 unnamed protein product
+
+Streptomyces_coelicolor_A3_2_
+ec_k12	STR_COE_21219557	43.97	373	191	6	13	373	40	406	1e-71	 264   STR_COE_2
+>lcl|STR_COE_21219557 unnamed protein product
+
+Streptomyces_griseus_NBRC_13350
+ec_k12	STR_GRI_182440567	45.36	377	184	8	13	373	13	383	2e-75	 276   STR_GRI_13350
+>lcl|STR_GRI_182440567 unnamed protein product
+
+Streptomyces_scabiei_87_22
+ec_k12	STR_SCA_290962585	44.80	375	195	5	12	375	13	386	6e-74	 272   STR_SCA_22
+>lcl|STR_SCA_290962585 unnamed protein product
+
+Streptosporangium_roseum_DSM_43021
+ec_k12	STR_ROS_271964972	43.64	385	203	6	1	373	1	383	3e-75	 276   STR_ROS_43021
+>lcl|STR_ROS_271964972 unnamed protein product
+
+Sulfolobus_tokodaii_7
+ec_k12	SUL_TOK_15920608	27.17	184	120	5	194	373	20	193	3e-11	62.4   SUL_TOK_7
+>lcl|SUL_TOK_15920608 unnamed protein product
+
+Symbiobacterium_thermophilum_IAM_14863
+ec_k12	SYM_THE_51894217	28.87	194	128	3	181	371	10	196	2e-16	79.7   SYM_THE_14863
+>lcl|SYM_THE_51894217 unnamed protein product
+
+Synechococcus_elongatus_PCC_6301
+ec_k12	SYN_ELO_56752048	25.64	156	99	6	204	350	106	253	3e-04	38.9   SYN_ELO_6301
+>lcl|SYN_ELO_56752048 unnamed protein product
+
+Synechococcus_elongatus_PCC_7942
+ec_k12	SYN_ELO_81300863	25.64	156	99	6	204	350	114	261	3e-04	38.9   SYN_ELO_7942
+>lcl|SYN_ELO_81300863 unnamed protein product
+
+Thermobispora_bispora_DSM_43833
+ec_k12	THE_BIS_296269771	28.57	196	123	6	181	370	9	193	5e-09	55.5   THE_BIS_43833
+>lcl|THE_BIS_296269771 unnamed protein product
+
+Thioalkalivibrio_HL_EbGR7
+ec_k12	THI_SP._220936044	29.44	180	118	3	196	373	22	194	5e-15	75.1   THI_HL_EbGR7
+>lcl|THI_SP._220936044 unnamed protein product
+
+Thiomicrospira_crunogena_XCL_2
+ec_k12	THI_CRU_78484558	26.49	185	125	5	193	374	16	192	3e-12	65.5   THI_CRU_2
+>lcl|THI_CRU_78484558 unnamed protein product
+
+Tolumonas_auensis_DSM_9187
+ec_k12	TOL_AUE_237807573	52.52	377	173	2	1	372	1	376	8e-105	 373   TOL_AUE_9187
+>lcl|TOL_AUE_237807573 unnamed protein product
+
+Verrucosispora_maris_AB_18_032
+ec_k12	VER_MAR_330470140	32.29	96	62	1	181	273	14	109	5e-07	49.7   VER_MAR_032
+>lcl|VER_MAR_330470140 unnamed protein product
+
+Vibrio_cholerae_M66_2
+ec_k12	VIB_CHO_227082421	42.47	372	201	8	9	373	50	415	5e-75	 274   VIB_CHO_2
+>lcl|VIB_CHO_227082421 unnamed protein product
+
+Vibrio_cholerae_MJ_1236
+ec_k12	VIB_CHO_229607135	42.47	372	201	8	9	373	21	386	6e-75	 274   VIB_CHO_1236
+>lcl|VIB_CHO_229607135 unnamed protein product
+
+Vibrio_cholerae_O1_biovar_El_Tor_N16961
+ec_k12	VIB_CHO_15642295	42.47	372	201	8	9	373	50	415	5e-75	 274   VIB_CHO_N16961
+>lcl|VIB_CHO_15642295 unnamed protein product
+
+Vibrio_cholerae_O395
+ec_k12	VIB_CHO_147675117	42.47	372	201	8	9	373	50	415	5e-75	 274   VIB_CHO_O395
+>lcl|VIB_CHO_147675117 unnamed protein product
+
+Vibrio_Ex25
+ec_k12	VIB_SP._262393478	43.28	372	199	9	9	373	10	376	3e-76	 278   VIB_EX2_Ex25
+>lcl|VIB_SP._262393478 unnamed protein product
+
+Vibrio_fischeri_ES114
+ec_k12	VIB_FIS_59711330	43.55	372	199	7	9	373	10	377	1e-74	 273   VIB_FIS_ES114
+>lcl|VIB_FIS_59711330 unnamed protein product
+
+Vibrio_fischeri_MJ11
+ec_k12	VIB_FIS_197335296	43.82	372	198	7	9	373	10	377	1e-75	 276   VIB_FIS_MJ11
+>lcl|VIB_FIS_197335296 unnamed protein product
+
+Vibrio_harveyi_ATCC_BAA_1116
+ec_k12	VIB_HAR_156975545	42.59	378	207	7	2	373	3	376	1e-77	 283   VIB_HAR_1116
+>lcl|VIB_HAR_156975545 unnamed protein product
+
+Vibrio_parahaemolyticus_RIMD_2210633
+ec_k12	VIB_PAR_28899127	43.01	372	200	9	9	373	10	376	7e-77	 281   VIB_PAR_2210633
+>lcl|VIB_PAR_28899127 unnamed protein product
+
+Vibrio_splendidus_LGP32
+ec_k12	VIB_SPL_218708712	40.70	371	210	7	9	373	10	376	2e-70	 259   VIB_SPL_LGP32
+>lcl|VIB_SPL_218708712 unnamed protein product
+
+Vibrio_vulnificus_CMCP6
+ec_k12	VIB_VUL_27365170	44.89	372	193	8	9	373	10	376	2e-81	 296   VIB_VUL_CMCP6
+>lcl|VIB_VUL_27365170 unnamed protein product
+
+Vibrio_vulnificus_MO6_24_O
+ec_k12	VIB_VUL_320155553	44.89	372	193	8	9	373	10	376	2e-81	 296   VIB_VUL_O
+>lcl|VIB_VUL_320155553 unnamed protein product
+
+Vibrio_vulnificus_YJ016
+ec_k12	VIB_VUL_37680776	44.89	372	193	8	9	373	10	376	2e-81	 296   VIB_VUL_YJ016
+>lcl|VIB_VUL_37680776 unnamed protein product
+
+Yersinia_enterocolitica_8081
+ec_k12	YER_ENT_123443883	61.84	380	143	2	1	378	1	380	9e-129	 453   YER_ENT_8081
+>lcl|YER_ENT_123443883 unnamed protein product
+
+Yersinia_enterocolitica_palearctica_105_5R_r_
+ec_k12	YER_ENT_332163017	60.95	379	147	1	1	378	1	379	1e-128	 452   YER_ENT_r
+>lcl|YER_ENT_332163017 unnamed protein product
+
+Yersinia_pestis_Angola
+ec_k12	YER_PES_162419928	63.06	379	139	1	1	378	1	379	7e-133	 466   YER_PES_Angola
+>lcl|YER_PES_162419928 unnamed protein product
+
+Yersinia_pestis_Antiqua
+ec_k12	YER_PES_108809191	63.06	379	139	1	1	378	1	379	8e-133	 466   YER_PES_Antiqua
+>lcl|YER_PES_108809191 unnamed protein product
+
+Yersinia_pestis_biovar_Microtus_91001
+ec_k12	YER_PES_45442674	63.06	379	139	1	1	378	2	380	8e-133	 466   YER_PES_91001
+>lcl|YER_PES_45442674 unnamed protein product
+
+Yersinia_pestis_CO92
+ec_k12	YER_PES_218927785	63.06	379	139	1	1	378	1	379	8e-133	 466   YER_PES_CO92
+>lcl|YER_PES_218927785 unnamed protein product
+
+Yersinia_pestis_KIM_10
+ec_k12	YER_PES_22127464	63.06	379	139	1	1	378	2	380	8e-133	 466   YER_PES_10
+>lcl|YER_PES_22127464 unnamed protein product
+
+Yersinia_pestis_Nepal516
+ec_k12	YER_PES_108810622	63.06	379	139	1	1	378	1	379	8e-133	 466   YER_PES_Nepal516
+>lcl|YER_PES_108810622 unnamed protein product
+
+Yersinia_pestis_Pestoides_F
+ec_k12	YER_PES_145597687	63.06	379	139	1	1	378	1	379	1e-132	 466   YER_PES_F
+>lcl|YER_PES_145597687 unnamed protein product
+
+Yersinia_pestis_Z176003
+ec_k12	YER_PES_294502674	63.06	379	139	1	1	378	1	379	8e-133	 466   YER_PES_Z176003
+>lcl|YER_PES_294502674 unnamed protein product
+
+Yersinia_pseudotuberculosis_IP_31758
+ec_k12	YER_PSE_153947760	63.06	379	139	1	1	378	1	379	8e-133	 466   YER_PSE_31758
+>lcl|YER_PSE_153947760 unnamed protein product
+
+Yersinia_pseudotuberculosis_IP_32953
+ec_k12	YER_PSE_51597762	63.06	379	139	1	1	378	1	379	8e-133	 466   YER_PSE_32953
+>lcl|YER_PSE_51597762 unnamed protein product
+
+Yersinia_pseudotuberculosis_PB1_
+ec_k12	YER_PSE_186896953	63.06	379	139	1	1	378	1	379	8e-133	 466   YER_PSE_PB1
+>lcl|YER_PSE_186896953 unnamed protein product
+
+Yersinia_pseudotuberculosis_YPIII
+ec_k12	YER_PSE_170022813	63.06	379	139	1	1	378	1	379	8e-133	 466   YER_PSE_YPIII
+>lcl|YER_PSE_170022813 unnamed protein product
+

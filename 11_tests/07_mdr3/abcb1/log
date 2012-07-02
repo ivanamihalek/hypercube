@@ -1,0 +1,84 @@
+*****************************************
+
+	 in Choloepus_hoffmanni GENSCAN00000025423 
+	 HOM_SAP_ABCB1	GENSCAN00000025423	62.18	973	218	9	58	1028	2	826	0.0	1093
+
+	 reciprocal best ENSP00000392983 
+	 lcl|GENSCAN00000025423	ENSP00000392983	74.10	1108	126	11	1	952	63	1165	0.0	1402
+
+	 gene name: ENSG00000005471  ENSG00000085563
+	 not the mutal best
+*****************************************
+
+*****************************************
+
+	 in Erinaceus_europaeus GENSCAN_GS00000135046 
+	 HOM_SAP_ABCB1	GENSCAN_GS00000135046	57.68	1002	238	12	40	1028	130	958	0.0	 979
+
+	 reciprocal best ENSP00000265723 
+	 lcl|GENSCAN_GS00000135046	ENSP00000265723	65.02	1092	177	16	130	1045	46	1108	0.0	1135
+
+	 gene name: ENSG00000005471  ENSG00000085563
+	 not the mutal best
+*****************************************
+
+*****************************************
+
+	 in Felis_catus GENSCAN00000035173 
+	 HOM_SAP_ABCB1	GENSCAN00000035173	65.43	405	60	2	171	575	592	916	2e-138	 490
+
+	 reciprocal best ENSP00000392983 
+	 lcl|GENSCAN00000035173	ENSP00000392983	66.85	534	33	6	527	916	44	577	9e-153	 540
+
+	 gene name: ENSG00000005471  ENSG00000085563
+	 not the mutal best
+*****************************************
+
+*****************************************
+
+	 in Macropus_eugenii GENSCAN00000062208 
+	 HOM_SAP_ABCB1	GENSCAN00000062208	64.97	725	131	5	171	895	128	729	0.0	 852
+
+	 reciprocal best ENSP00000392983 
+	 lcl|GENSCAN00000062208	ENSP00000392983	73.08	728	76	5	122	729	167	894	0.0	 899
+
+	 gene name: ENSG00000005471  ENSG00000085563
+	 not the mutal best
+*****************************************
+
+*****************************************
+
+	 in Myotis_lucifugus GENSCAN00000255964 
+	 HOM_SAP_ABCB1	GENSCAN00000255964	91.42	443	38	0	828	1270	559	1001	0.0	 763
+
+	 reciprocal best ENSP00000265723 
+	 lcl|GENSCAN00000255964	ENSP00000265723	85.38	595	52	3	1266	1832	521	1108	0.0	 935
+
+	 gene name: ENSG00000005471  ENSG00000085563
+	 not the mutal best
+*****************************************
+
+*****************************************
+
+	 in Procavia_capensis GENSCAN00000021419 
+	 HOM_SAP_ABCB1	GENSCAN00000021419	46.02	1069	475	9	178	1184	150	1178	0.0	 886
+
+	 reciprocal best ENSP00000263817 
+	 lcl|GENSCAN00000021419	ENSP00000263817	77.40	863	133	5	124	931	184	1039	0.0	1192
+
+	 gene name: ENSG00000073734  ENSG00000085563
+	 not the mutal best
+*****************************************
+
+*****************************************
+
+	 in Tarsius_syrichta GENSCAN00000031451 
+	 HOM_SAP_ABCB1	GENSCAN00000031451	67.26	1115	202	9	58	1163	2	962	0.0	1360
+
+	 reciprocal best ENSP00000392983 
+	 lcl|GENSCAN00000031451	ENSP00000392983	85.47	1060	49	4	1	962	63	1115	0.0	1627
+
+	 gene name: ENSG00000005471  ENSG00000085563
+	 not the mutal best
+*****************************************
+

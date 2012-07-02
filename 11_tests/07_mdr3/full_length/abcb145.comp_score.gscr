@@ -1,0 +1,9 @@
+set size square 
+unset key
+set style data lines 
+set xlabel "FP rate" 
+set ylabel "TP rate" 
+set term post color 
+set output 'tmp.ps' 
+plot  'rocs/abcb145.comp_score.rrl_dt.roc' title 'rrl_dt',  'rocs/abcb145.comp_score.rrl_ds.roc' title 'rrl_ds',  'rocs/abcb145.comp_score.MI.roc' title 'MI',  'rocs/abcb145.comp_score.CAP.roc' title 'CAP',  'rocs/abcb145.comp_score.XDET.roc' title 'XDET',  'rocs/abcb145.comp_score.SDP.roc' title 'SDP',  'rocs/abcb145.comp_score.SDP.roc' title 'SDP'
+quit

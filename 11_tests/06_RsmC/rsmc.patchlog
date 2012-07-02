@@ -1,0 +1,1099 @@
+similarity cutoff:    0.400
+length cutoff:    0.400
+ACI_ADP_ADP1_RSMC
+	pos   2 from GAL_ANA_UMN179_RSMC (aligned length: 322   sim:  0.463   id:  0.382)
+	pos   3 from VIB_VUL_YJ016_RSMC (aligned length: 326   sim:  0.460   id:  0.396)
+	pos   4 from PAS_MUL_Pm70_RSMC (aligned length: 320   sim:  0.469   id:  0.388)
+	pos  23 from PAS_MUL_Pm70_RSMC (aligned length: 320   sim:  0.469   id:  0.388)
+	pos  41 from PAS_MUL_Pm70_RSMC (aligned length: 320   sim:  0.469   id:  0.388)
+	pos  59 from PSE_STU_A1501_RSMC (aligned length: 325   sim:  0.585   id:  0.471)
+	pos  70 from PAS_MUL_Pm70_RSMC (aligned length: 320   sim:  0.469   id:  0.388)
+ACI_BAU_0294_RSMC
+	pos   2 from COL_PSY_34H_RSMC (aligned length: 327   sim:  0.495   id:  0.385)
+	pos   3 from COL_PSY_34H_RSMC (aligned length: 327   sim:  0.495   id:  0.385)
+	pos   4 from COL_PSY_34H_RSMC (aligned length: 327   sim:  0.495   id:  0.385)
+	pos  23 from COL_PSY_34H_RSMC (aligned length: 327   sim:  0.495   id:  0.385)
+	pos  41 from COL_PSY_34H_RSMC (aligned length: 327   sim:  0.495   id:  0.385)
+	pos  59 from PSE_STU_A1501_RSMC (aligned length: 324   sim:  0.577   id:  0.469)
+	pos  70 from COL_PSY_34H_RSMC (aligned length: 327   sim:  0.495   id:  0.385)
+	pos 337 from ACI_ADP_ADP1_RSMC (aligned length: 327   sim:  0.758   id:  0.697)
+ACI_BAU_ACICU_RSMC
+	pos   2 from COL_PSY_34H_RSMC (aligned length: 327   sim:  0.492   id:  0.385)
+	pos   3 from COL_PSY_34H_RSMC (aligned length: 327   sim:  0.492   id:  0.385)
+	pos   4 from COL_PSY_34H_RSMC (aligned length: 327   sim:  0.492   id:  0.385)
+	pos  23 from COL_PSY_34H_RSMC (aligned length: 327   sim:  0.492   id:  0.385)
+	pos  41 from COL_PSY_34H_RSMC (aligned length: 327   sim:  0.492   id:  0.385)
+	pos  59 from PSE_STU_A1501_RSMC (aligned length: 324   sim:  0.583   id:  0.472)
+	pos  70 from COL_PSY_34H_RSMC (aligned length: 327   sim:  0.492   id:  0.385)
+	pos 337 from ACI_ADP_ADP1_RSMC (aligned length: 327   sim:  0.765   id:  0.703)
+ACI_DR1_DR1_RSMC
+	pos   2 from COL_PSY_34H_RSMC (aligned length: 327   sim:  0.483   id:  0.385)
+	pos   3 from COL_PSY_34H_RSMC (aligned length: 327   sim:  0.483   id:  0.385)
+	pos   4 from COL_PSY_34H_RSMC (aligned length: 327   sim:  0.483   id:  0.385)
+	pos  23 from COL_PSY_34H_RSMC (aligned length: 327   sim:  0.483   id:  0.385)
+	pos  41 from COL_PSY_34H_RSMC (aligned length: 327   sim:  0.483   id:  0.385)
+	pos  59 from PSE_STU_A1501_RSMC (aligned length: 324   sim:  0.577   id:  0.469)
+	pos  70 from COL_PSY_34H_RSMC (aligned length: 327   sim:  0.483   id:  0.385)
+	pos 337 from ACI_ADP_ADP1_RSMC (aligned length: 327   sim:  0.768   id:  0.719)
+ACT_PLE_L20_RSMC
+	pos   2 from GAL_ANA_UMN179_RSMC (aligned length: 325   sim:  0.668   id:  0.606)
+	pos   3 from PAN_ANA_20103_RSMC (aligned length: 325   sim:  0.600   id:  0.489)
+	pos  53 from ACT_SUC_130Z_RSMC (aligned length: 325   sim:  0.695   id:  0.606)
+	pos  54 from ACT_SUC_130Z_RSMC (aligned length: 325   sim:  0.695   id:  0.606)
+	pos  55 from ACT_SUC_130Z_RSMC (aligned length: 325   sim:  0.695   id:  0.606)
+	pos  56 from AGG_APH_NJ8700_RSMC (aligned length: 324   sim:  0.685   id:  0.605)
+	pos  57 from AGG_APH_NJ8700_RSMC (aligned length: 324   sim:  0.685   id:  0.605)
+	pos  71 from PAN_ANA_20103_RSMC (aligned length: 325   sim:  0.600   id:  0.489)
+	pos  72 from PAN_ANA_20103_RSMC (aligned length: 325   sim:  0.600   id:  0.489)
+	pos 337 from GAL_ANA_UMN179_RSMC (aligned length: 325   sim:  0.668   id:  0.606)
+ACT_SUC_130Z_RSMC
+	pos   2 from GAL_ANA_UMN179_RSMC (aligned length: 326   sim:  0.653   id:  0.589)
+	pos   3 from ENT_638_638_RSMC (aligned length: 328   sim:  0.573   id:  0.506)
+	pos  56 from AGG_ACT_1_RSMC (aligned length: 327   sim:  0.728   id:  0.657)
+	pos  57 from AGG_ACT_1_RSMC (aligned length: 327   sim:  0.728   id:  0.657)
+	pos  71 from ENT_638_638_RSMC (aligned length: 328   sim:  0.573   id:  0.506)
+	pos  72 from ENT_638_638_RSMC (aligned length: 328   sim:  0.573   id:  0.506)
+	pos 337 from GAL_ANA_UMN179_RSMC (aligned length: 326   sim:  0.653   id:  0.589)
+AER_HYD_7966_RSMC
+	pos 194 from PSY_ING_37_RSMC (aligned length: 333   sim:  0.547   id:  0.456)
+	pos 337 from PSY_ING_37_RSMC (aligned length: 333   sim:  0.547   id:  0.456)
+AER_SAL_A449_RSMC
+	pos 194 from PSY_ING_37_RSMC (aligned length: 333   sim:  0.538   id:  0.447)
+	pos 337 from VIB_PAR_2210633_RSMC (aligned length: 333   sim:  0.541   id:  0.447)
+AER_VER_B565_RSMC
+	pos 194 from HAE_INF_PittEE_RSMC (aligned length: 324   sim:  0.543   id:  0.438)
+	pos 337 from VIB_PAR_2210633_RSMC (aligned length: 333   sim:  0.535   id:  0.444)
+AGG_ACT_1_RSMC
+	pos   2 from GAL_ANA_UMN179_RSMC (aligned length: 325   sim:  0.674   id:  0.615)
+	pos   3 from CIT_KOS_895_RSMC (aligned length: 329   sim:  0.562   id:  0.489)
+	pos  71 from CIT_KOS_895_RSMC (aligned length: 329   sim:  0.562   id:  0.489)
+	pos  72 from CIT_KOS_895_RSMC (aligned length: 329   sim:  0.562   id:  0.489)
+	pos 194 from MAN_SUC_MBEL55E_RSMC (aligned length: 327   sim:  0.743   id:  0.691)
+	pos 337 from GAL_ANA_UMN179_RSMC (aligned length: 325   sim:  0.674   id:  0.615)
+AGG_APH_NJ8700_RSMC
+	pos   2 from GAL_ANA_UMN179_RSMC (aligned length: 325   sim:  0.677   id:  0.612)
+	pos   3 from KLE_PNE_78578_RSMC (aligned length: 329   sim:  0.574   id:  0.489)
+	pos  71 from KLE_PNE_78578_RSMC (aligned length: 329   sim:  0.574   id:  0.489)
+	pos  72 from KLE_PNE_78578_RSMC (aligned length: 329   sim:  0.574   id:  0.489)
+	pos 194 from HAE_INF_028NP_RSMC (aligned length: 324   sim:  0.750   id:  0.682)
+	pos 337 from GAL_ANA_UMN179_RSMC (aligned length: 325   sim:  0.677   id:  0.612)
+ALI_SAL_LFI1238_RSMC
+	pos 194 from HAE_INF_028NP_RSMC (aligned length: 324   sim:  0.534   id:  0.426)
+	pos 337 from VIB_PAR_2210633_RSMC (aligned length: 333   sim:  0.709   id:  0.643)
+ALT_SN2_SN2_RSMC
+	pos   3 from VIB_FIS_ES114_RSMC (aligned length: 330   sim:  0.448   id:  0.358)
+	pos 336 from PSE_ATL_T6c_RSMC (aligned length: 331   sim:  0.538   id:  0.432)
+	pos 337 from SHE_PUT_32_RSMC (aligned length: 330   sim:  0.461   id:  0.367)
+AZO_VIN_DJ_RSMC
+	pos   2 from HAH_CHE_2396_RSMC (aligned length: 324   sim:  0.515   id:  0.444)
+	pos   3 from HAH_CHE_2396_RSMC (aligned length: 324   sim:  0.515   id:  0.444)
+	pos   4 from HAH_CHE_2396_RSMC (aligned length: 324   sim:  0.515   id:  0.444)
+	pos  23 from MAN_SUC_MBEL55E_RSMC (aligned length: 321   sim:  0.505   id:  0.402)
+	pos  39 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.560   id:  0.468)
+	pos  40 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.560   id:  0.468)
+	pos  41 from HAH_CHE_2396_RSMC (aligned length: 324   sim:  0.515   id:  0.444)
+	pos  70 from HAH_CHE_2396_RSMC (aligned length: 324   sim:  0.515   id:  0.444)
+	pos 104 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.560   id:  0.468)
+BUC_APH_pisum_2_RSMC
+	pos   2 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos   3 from CIT_KOS_895_RSMC (aligned length: 279   sim:  0.527   id:  0.427)
+	pos   4 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos   5 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos   6 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos   7 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  24 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  25 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  26 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  27 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  28 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  29 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  30 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  31 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  32 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  33 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  34 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  35 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  36 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  37 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  38 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  39 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  40 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  41 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  42 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  43 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  44 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  45 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  46 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  47 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  48 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  49 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  50 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  51 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  52 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  53 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  54 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  55 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  56 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  57 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  58 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  59 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  60 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  61 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  62 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  63 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  64 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  65 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  66 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  67 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  68 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  69 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  70 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  71 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos  72 from BUC_APH_graminum_RSMC (aligned length: 279   sim:  0.659   id:  0.563)
+	pos 337 from BUC_APH_pistaciae_RSMC (aligned length: 269   sim:  0.587   id:  0.494)
+BUC_APH_pistaciae_RSMC
+	pos   2 from BUC_APH_graminum_RSMC (aligned length: 320   sim:  0.512   id:  0.406)
+	pos   3 from PEC_CAR_PC1_RSMC (aligned length: 323   sim:  0.467   id:  0.350)
+	pos   4 from BUC_APH_graminum_RSMC (aligned length: 320   sim:  0.512   id:  0.406)
+	pos   5 from BUC_APH_graminum_RSMC (aligned length: 320   sim:  0.512   id:  0.406)
+	pos   6 from BUC_APH_graminum_RSMC (aligned length: 320   sim:  0.512   id:  0.406)
+	pos   7 from BUC_APH_graminum_RSMC (aligned length: 320   sim:  0.512   id:  0.406)
+	pos   8 from BUC_APH_pisum_2_RSMC (aligned length: 269   sim:  0.587   id:  0.494)
+	pos   9 from BUC_APH_pisum_2_RSMC (aligned length: 269   sim:  0.587   id:  0.494)
+	pos  10 from BUC_APH_pisum_2_RSMC (aligned length: 269   sim:  0.587   id:  0.494)
+	pos  11 from BUC_APH_pisum_2_RSMC (aligned length: 269   sim:  0.587   id:  0.494)
+	pos  12 from BUC_APH_pisum_2_RSMC (aligned length: 269   sim:  0.587   id:  0.494)
+	pos  13 from BUC_APH_pisum_2_RSMC (aligned length: 269   sim:  0.587   id:  0.494)
+	pos  14 from BUC_APH_pisum_2_RSMC (aligned length: 269   sim:  0.587   id:  0.494)
+	pos  15 from BUC_APH_pisum_2_RSMC (aligned length: 269   sim:  0.587   id:  0.494)
+	pos  16 from BUC_APH_pisum_2_RSMC (aligned length: 269   sim:  0.587   id:  0.494)
+	pos  17 from BUC_APH_pisum_2_RSMC (aligned length: 269   sim:  0.587   id:  0.494)
+BUC_APH_graminum_RSMC
+	pos   3 from ERW_TAS_99_RSMC (aligned length: 335   sim:  0.504   id:  0.394)
+	pos 337 from BUC_APH_pistaciae_RSMC (aligned length: 320   sim:  0.512   id:  0.406)
+CAN_HAM_pisum_RSMC
+	pos 337 from YER_PSE_32953_RSMC (aligned length: 336   sim:  0.658   id:  0.571)
+CHR_SAL_3043_RSMC
+	pos  22 from AZO_VIN_DJ_RSMC (aligned length: 319   sim:  0.439   id:  0.395)
+	pos  23 from ENT_CLO_13047_RSMC (aligned length: 327   sim:  0.446   id:  0.364)
+	pos  62 from AZO_VIN_DJ_RSMC (aligned length: 319   sim:  0.439   id:  0.395)
+	pos  63 from AZO_VIN_DJ_RSMC (aligned length: 319   sim:  0.439   id:  0.395)
+	pos  70 from ENT_CLO_13047_RSMC (aligned length: 327   sim:  0.446   id:  0.364)
+	pos  71 from AZO_VIN_DJ_RSMC (aligned length: 319   sim:  0.439   id:  0.395)
+	pos  72 from AZO_VIN_DJ_RSMC (aligned length: 319   sim:  0.439   id:  0.395)
+	pos 159 from AZO_VIN_DJ_RSMC (aligned length: 319   sim:  0.439   id:  0.395)
+	pos 218 from AZO_VIN_DJ_RSMC (aligned length: 319   sim:  0.439   id:  0.395)
+	pos 219 from AZO_VIN_DJ_RSMC (aligned length: 319   sim:  0.439   id:  0.395)
+CIT_KOS_895_RSMC
+	 not patched
+CIT_ROD_ICC168_RSMC
+	 not patched
+COL_PSY_34H_RSMC
+	 not patched
+CRO_SAK_894_RSMC
+	 not patched
+CRO_TUR_z3032_RSMC
+	 not patched
+DIC_DAD_3937_RSMC
+	 not patched
+DIC_DAD_Ech586_RSMC
+	 not patched
+DIC_DAD_Ech703_RSMC
+	 not patched
+DIC_ZEA_Ech1591_RSMC
+	 not patched
+EDW_ICT_146_RSMC
+	 not patched
+EDW_TAR_EIB202_RSMC
+	 not patched
+ENT_638_638_RSMC
+	 not patched
+ENT_CLO_13047_RSMC
+	 not patched
+ENT_CLO_SCF1_RSMC
+	 not patched
+ERW_AMY_49946_RSMC
+	 not patched
+ERW_AMY_CFBP1430_RSMC
+	 not patched
+ERW_BIL_Eb661_RSMC
+	 not patched
+ERW_PYR_96_RSMC
+	 not patched
+ERW_TAS_99_RSMC
+	 not patched
+ESC_COL_DH10B_RSMC
+	 not patched
+ESC_COL_5_RSMC
+	 not patched
+ESC_FER_35469_RSMC
+	 not patched
+FER_BAL_9799_RSMC
+	pos   1 from SHE_LOI_4_RSMC (aligned length: 320   sim:  0.534   id:  0.463)
+	pos  23 from SHE_LOI_4_RSMC (aligned length: 320   sim:  0.534   id:  0.463)
+	pos  62 from SHE_LOI_4_RSMC (aligned length: 320   sim:  0.534   id:  0.463)
+	pos  63 from SHE_LOI_4_RSMC (aligned length: 320   sim:  0.534   id:  0.463)
+	pos  64 from SHE_LOI_4_RSMC (aligned length: 320   sim:  0.534   id:  0.463)
+	pos  65 from SHE_LOI_4_RSMC (aligned length: 320   sim:  0.534   id:  0.463)
+	pos  66 from SHE_LOI_4_RSMC (aligned length: 320   sim:  0.534   id:  0.463)
+	pos  67 from SHE_LOI_4_RSMC (aligned length: 320   sim:  0.534   id:  0.463)
+	pos  68 from SHE_LOI_4_RSMC (aligned length: 320   sim:  0.534   id:  0.463)
+	pos  69 from SHE_LOI_4_RSMC (aligned length: 320   sim:  0.534   id:  0.463)
+	pos 150 from SHE_LOI_4_RSMC (aligned length: 320   sim:  0.534   id:  0.463)
+	pos 151 from SHE_LOI_4_RSMC (aligned length: 320   sim:  0.534   id:  0.463)
+GAL_ANA_UMN179_RSMC
+	pos   3 from EDW_TAR_EIB202_RSMC (aligned length: 329   sim:  0.593   id:  0.505)
+	pos  54 from AGG_ACT_1_RSMC (aligned length: 325   sim:  0.674   id:  0.615)
+	pos  55 from AGG_ACT_1_RSMC (aligned length: 325   sim:  0.674   id:  0.615)
+	pos  56 from AGG_ACT_1_RSMC (aligned length: 325   sim:  0.674   id:  0.615)
+	pos  57 from AGG_ACT_1_RSMC (aligned length: 325   sim:  0.674   id:  0.615)
+	pos  71 from EDW_TAR_EIB202_RSMC (aligned length: 329   sim:  0.593   id:  0.505)
+	pos  72 from EDW_TAR_EIB202_RSMC (aligned length: 329   sim:  0.593   id:  0.505)
+GLA_AGA_5_RSMC
+	pos   2 from ALT_SN2_SN2_RSMC (aligned length: 331   sim:  0.526   id:  0.426)
+	pos   3 from AER_HYD_7966_RSMC (aligned length: 331   sim:  0.480   id:  0.384)
+	pos 337 from PSY_ING_37_RSMC (aligned length: 332   sim:  0.473   id:  0.386)
+HAE_DUC_35000HP_RSMC
+	pos   2 from GAL_ANA_UMN179_RSMC (aligned length: 325   sim:  0.662   id:  0.597)
+	pos   3 from SOD_GLO_morsitans_RSMC (aligned length: 325   sim:  0.557   id:  0.471)
+	pos  53 from MAN_SUC_MBEL55E_RSMC (aligned length: 325   sim:  0.668   id:  0.600)
+	pos  54 from MAN_SUC_MBEL55E_RSMC (aligned length: 325   sim:  0.668   id:  0.600)
+	pos  55 from MAN_SUC_MBEL55E_RSMC (aligned length: 325   sim:  0.668   id:  0.600)
+	pos  56 from AGG_APH_NJ8700_RSMC (aligned length: 324   sim:  0.657   id:  0.586)
+	pos  57 from AGG_APH_NJ8700_RSMC (aligned length: 324   sim:  0.657   id:  0.586)
+	pos  71 from SOD_GLO_morsitans_RSMC (aligned length: 325   sim:  0.557   id:  0.471)
+	pos  72 from SOD_GLO_morsitans_RSMC (aligned length: 325   sim:  0.557   id:  0.471)
+	pos 337 from GAL_ANA_UMN179_RSMC (aligned length: 325   sim:  0.662   id:  0.597)
+HAE_INF_028NP_RSMC
+	pos   2 from GAL_ANA_UMN179_RSMC (aligned length: 325   sim:  0.671   id:  0.600)
+	pos   3 from KLE_PNE_78578_RSMC (aligned length: 325   sim:  0.603   id:  0.486)
+	pos  53 from MAN_SUC_MBEL55E_RSMC (aligned length: 325   sim:  0.791   id:  0.723)
+	pos  54 from MAN_SUC_MBEL55E_RSMC (aligned length: 325   sim:  0.791   id:  0.723)
+	pos  55 from MAN_SUC_MBEL55E_RSMC (aligned length: 325   sim:  0.791   id:  0.723)
+	pos  56 from AGG_APH_NJ8700_RSMC (aligned length: 324   sim:  0.750   id:  0.682)
+	pos  57 from AGG_APH_NJ8700_RSMC (aligned length: 324   sim:  0.750   id:  0.682)
+	pos  71 from KLE_PNE_78578_RSMC (aligned length: 325   sim:  0.603   id:  0.486)
+	pos  72 from KLE_PNE_78578_RSMC (aligned length: 325   sim:  0.603   id:  0.486)
+	pos 337 from GAL_ANA_UMN179_RSMC (aligned length: 325   sim:  0.671   id:  0.600)
+HAE_INF_F3031_RSMC
+	pos   2 from GAL_ANA_UMN179_RSMC (aligned length: 325   sim:  0.665   id:  0.597)
+	pos   3 from KLE_PNE_78578_RSMC (aligned length: 325   sim:  0.600   id:  0.483)
+	pos  53 from MAN_SUC_MBEL55E_RSMC (aligned length: 325   sim:  0.788   id:  0.720)
+	pos  54 from MAN_SUC_MBEL55E_RSMC (aligned length: 325   sim:  0.788   id:  0.720)
+	pos  55 from MAN_SUC_MBEL55E_RSMC (aligned length: 325   sim:  0.788   id:  0.720)
+	pos  56 from AGG_APH_NJ8700_RSMC (aligned length: 324   sim:  0.738   id:  0.670)
+	pos  57 from AGG_APH_NJ8700_RSMC (aligned length: 324   sim:  0.738   id:  0.670)
+	pos  71 from KLE_PNE_78578_RSMC (aligned length: 325   sim:  0.600   id:  0.483)
+	pos  72 from KLE_PNE_78578_RSMC (aligned length: 325   sim:  0.600   id:  0.483)
+	pos 337 from GAL_ANA_UMN179_RSMC (aligned length: 325   sim:  0.665   id:  0.597)
+HAE_INF_F3047_RSMC
+	pos   2 from GAL_ANA_UMN179_RSMC (aligned length: 325   sim:  0.665   id:  0.600)
+	pos   3 from KLE_PNE_78578_RSMC (aligned length: 325   sim:  0.606   id:  0.486)
+	pos  53 from MAN_SUC_MBEL55E_RSMC (aligned length: 325   sim:  0.797   id:  0.726)
+	pos  54 from MAN_SUC_MBEL55E_RSMC (aligned length: 325   sim:  0.797   id:  0.726)
+	pos  55 from MAN_SUC_MBEL55E_RSMC (aligned length: 325   sim:  0.797   id:  0.726)
+	pos  56 from AGG_APH_NJ8700_RSMC (aligned length: 324   sim:  0.747   id:  0.676)
+	pos  57 from AGG_APH_NJ8700_RSMC (aligned length: 324   sim:  0.747   id:  0.676)
+	pos  71 from KLE_PNE_78578_RSMC (aligned length: 325   sim:  0.606   id:  0.486)
+	pos  72 from KLE_PNE_78578_RSMC (aligned length: 325   sim:  0.606   id:  0.486)
+	pos 337 from GAL_ANA_UMN179_RSMC (aligned length: 325   sim:  0.665   id:  0.600)
+HAE_INF_PittEE_RSMC
+	pos   2 from GAL_ANA_UMN179_RSMC (aligned length: 325   sim:  0.668   id:  0.603)
+	pos   3 from KLE_PNE_78578_RSMC (aligned length: 325   sim:  0.609   id:  0.492)
+	pos  53 from MAN_SUC_MBEL55E_RSMC (aligned length: 325   sim:  0.794   id:  0.729)
+	pos  54 from MAN_SUC_MBEL55E_RSMC (aligned length: 325   sim:  0.794   id:  0.729)
+	pos  55 from MAN_SUC_MBEL55E_RSMC (aligned length: 325   sim:  0.794   id:  0.729)
+	pos  56 from AGG_APH_NJ8700_RSMC (aligned length: 324   sim:  0.750   id:  0.679)
+	pos  57 from AGG_APH_NJ8700_RSMC (aligned length: 324   sim:  0.750   id:  0.679)
+	pos  71 from KLE_PNE_78578_RSMC (aligned length: 325   sim:  0.609   id:  0.492)
+	pos  72 from KLE_PNE_78578_RSMC (aligned length: 325   sim:  0.609   id:  0.492)
+	pos 337 from GAL_ANA_UMN179_RSMC (aligned length: 325   sim:  0.668   id:  0.603)
+HAE_INF_PittGG_RSMC
+	pos   2 from GAL_ANA_UMN179_RSMC (aligned length: 325   sim:  0.665   id:  0.600)
+	pos   3 from KLE_PNE_78578_RSMC (aligned length: 325   sim:  0.609   id:  0.489)
+	pos  53 from MAN_SUC_MBEL55E_RSMC (aligned length: 325   sim:  0.797   id:  0.729)
+	pos  54 from MAN_SUC_MBEL55E_RSMC (aligned length: 325   sim:  0.797   id:  0.729)
+	pos  55 from MAN_SUC_MBEL55E_RSMC (aligned length: 325   sim:  0.797   id:  0.729)
+	pos  56 from AGG_APH_NJ8700_RSMC (aligned length: 324   sim:  0.747   id:  0.673)
+	pos  57 from AGG_APH_NJ8700_RSMC (aligned length: 324   sim:  0.747   id:  0.673)
+	pos  71 from KLE_PNE_78578_RSMC (aligned length: 325   sim:  0.609   id:  0.489)
+	pos  72 from KLE_PNE_78578_RSMC (aligned length: 325   sim:  0.609   id:  0.489)
+	pos 337 from GAL_ANA_UMN179_RSMC (aligned length: 325   sim:  0.665   id:  0.600)
+HAE_INF_KW20_RSMC
+	pos   2 from GAL_ANA_UMN179_RSMC (aligned length: 325   sim:  0.665   id:  0.597)
+	pos   3 from KLE_PNE_78578_RSMC (aligned length: 325   sim:  0.603   id:  0.486)
+	pos  53 from MAN_SUC_MBEL55E_RSMC (aligned length: 325   sim:  0.788   id:  0.720)
+	pos  54 from MAN_SUC_MBEL55E_RSMC (aligned length: 325   sim:  0.788   id:  0.720)
+	pos  55 from MAN_SUC_MBEL55E_RSMC (aligned length: 325   sim:  0.788   id:  0.720)
+	pos  56 from AGG_APH_NJ8700_RSMC (aligned length: 324   sim:  0.741   id:  0.670)
+	pos  57 from AGG_APH_NJ8700_RSMC (aligned length: 324   sim:  0.741   id:  0.670)
+	pos  71 from KLE_PNE_78578_RSMC (aligned length: 325   sim:  0.603   id:  0.486)
+	pos  72 from KLE_PNE_78578_RSMC (aligned length: 325   sim:  0.603   id:  0.486)
+	pos 337 from GAL_ANA_UMN179_RSMC (aligned length: 325   sim:  0.665   id:  0.597)
+HAE_PAR_SH0165_RSMC
+	pos   2 from GAL_ANA_UMN179_RSMC (aligned length: 309   sim:  0.673   id:  0.612)
+	pos   3 from ERW_PYR_96_RSMC (aligned length: 309   sim:  0.615   id:  0.528)
+	pos  53 from AGG_APH_NJ8700_RSMC (aligned length: 308   sim:  0.698   id:  0.640)
+	pos  54 from AGG_APH_NJ8700_RSMC (aligned length: 308   sim:  0.698   id:  0.640)
+	pos  55 from AGG_APH_NJ8700_RSMC (aligned length: 308   sim:  0.698   id:  0.640)
+	pos  56 from AGG_APH_NJ8700_RSMC (aligned length: 308   sim:  0.698   id:  0.640)
+	pos  57 from AGG_APH_NJ8700_RSMC (aligned length: 308   sim:  0.698   id:  0.640)
+	pos  71 from ERW_PYR_96_RSMC (aligned length: 309   sim:  0.615   id:  0.528)
+	pos  72 from ERW_PYR_96_RSMC (aligned length: 309   sim:  0.615   id:  0.528)
+	pos 321 from ACT_PLE_L20_RSMC (aligned length: 309   sim:  0.841   id:  0.796)
+	pos 322 from ACT_PLE_L20_RSMC (aligned length: 309   sim:  0.841   id:  0.796)
+	pos 323 from ACT_PLE_L20_RSMC (aligned length: 309   sim:  0.841   id:  0.796)
+	pos 324 from ACT_PLE_L20_RSMC (aligned length: 309   sim:  0.841   id:  0.796)
+	pos 325 from ACT_PLE_L20_RSMC (aligned length: 309   sim:  0.841   id:  0.796)
+	pos 326 from ACT_PLE_L20_RSMC (aligned length: 309   sim:  0.841   id:  0.796)
+	pos 327 from ACT_PLE_L20_RSMC (aligned length: 309   sim:  0.841   id:  0.796)
+	pos 328 from ACT_PLE_L20_RSMC (aligned length: 309   sim:  0.841   id:  0.796)
+	pos 329 from ACT_PLE_L20_RSMC (aligned length: 309   sim:  0.841   id:  0.796)
+	pos 330 from ACT_PLE_L20_RSMC (aligned length: 309   sim:  0.841   id:  0.796)
+	pos 331 from ACT_PLE_L20_RSMC (aligned length: 309   sim:  0.841   id:  0.796)
+	pos 332 from ACT_PLE_L20_RSMC (aligned length: 309   sim:  0.841   id:  0.796)
+	pos 333 from ACT_PLE_L20_RSMC (aligned length: 309   sim:  0.841   id:  0.796)
+	pos 334 from ACT_PLE_L20_RSMC (aligned length: 309   sim:  0.841   id:  0.796)
+	pos 335 from ACT_PLE_L20_RSMC (aligned length: 309   sim:  0.841   id:  0.796)
+	pos 336 from ACT_PLE_L20_RSMC (aligned length: 309   sim:  0.841   id:  0.796)
+	pos 337 from GAL_ANA_UMN179_RSMC (aligned length: 309   sim:  0.673   id:  0.612)
+HAH_CHE_2396_RSMC
+	pos  23 from SHE_LOI_4_RSMC (aligned length: 329   sim:  0.468   id:  0.389)
+	pos 147 from AZO_VIN_DJ_RSMC (aligned length: 324   sim:  0.515   id:  0.444)
+	pos 337 from AZO_VIN_DJ_RSMC (aligned length: 324   sim:  0.515   id:  0.444)
+HAL_ELO_2581_RSMC
+	pos  22 from ESC_COL_O1_RSMC (aligned length: 324   sim:  0.481   id:  0.392)
+	pos  23 from ESC_COL_O1_RSMC (aligned length: 324   sim:  0.481   id:  0.392)
+	pos  62 from ESC_COL_O1_RSMC (aligned length: 324   sim:  0.481   id:  0.392)
+	pos  63 from ESC_COL_O1_RSMC (aligned length: 324   sim:  0.481   id:  0.392)
+	pos  70 from ESC_COL_O1_RSMC (aligned length: 324   sim:  0.481   id:  0.392)
+	pos  71 from ESC_COL_O1_RSMC (aligned length: 324   sim:  0.481   id:  0.392)
+	pos  72 from ESC_COL_O1_RSMC (aligned length: 324   sim:  0.481   id:  0.392)
+	pos  77 from CHR_SAL_3043_RSMC (aligned length: 324   sim:  0.704   id:  0.667)
+	pos 159 from ESC_COL_O1_RSMC (aligned length: 324   sim:  0.481   id:  0.392)
+	pos 218 from ESC_COL_O1_RSMC (aligned length: 324   sim:  0.481   id:  0.392)
+	pos 219 from ESC_COL_O1_RSMC (aligned length: 324   sim:  0.481   id:  0.392)
+	pos 337 from CHR_SAL_3043_RSMC (aligned length: 324   sim:  0.704   id:  0.667)
+IDI_LOI_L2TR_RSMC
+	pos   2 from CRO_SAK_894_RSMC (aligned length: 323   sim:  0.427   id:  0.341)
+	pos   3 from CRO_SAK_894_RSMC (aligned length: 323   sim:  0.427   id:  0.341)
+	pos   4 from CRO_SAK_894_RSMC (aligned length: 323   sim:  0.427   id:  0.341)
+	pos  38 from PSE_AER_PA7_RSMC (aligned length: 319   sim:  0.433   id:  0.364)
+	pos  39 from ACI_ADP_ADP1_RSMC (aligned length: 319   sim:  0.414   id:  0.342)
+	pos  40 from ACI_ADP_ADP1_RSMC (aligned length: 319   sim:  0.414   id:  0.342)
+	pos  62 from PSE_AER_PA7_RSMC (aligned length: 319   sim:  0.433   id:  0.364)
+	pos  63 from PSE_AER_PA7_RSMC (aligned length: 319   sim:  0.433   id:  0.364)
+	pos 101 from PSE_AER_PA7_RSMC (aligned length: 319   sim:  0.433   id:  0.364)
+	pos 218 from PSE_AER_PA7_RSMC (aligned length: 319   sim:  0.433   id:  0.364)
+	pos 219 from PSE_AER_PA7_RSMC (aligned length: 319   sim:  0.433   id:  0.364)
+	pos 337 from PSE_AER_PA7_RSMC (aligned length: 319   sim:  0.433   id:  0.364)
+KLE_PNE_78578_RSMC
+	 not patched
+KLE_VAR_22_RSMC
+	 not patched
+MAN_SUC_MBEL55E_RSMC
+	pos   2 from GAL_ANA_UMN179_RSMC (aligned length: 326   sim:  0.663   id:  0.610)
+	pos   3 from ENT_638_638_RSMC (aligned length: 328   sim:  0.601   id:  0.506)
+	pos  56 from AGG_APH_NJ8700_RSMC (aligned length: 327   sim:  0.749   id:  0.706)
+	pos  57 from AGG_APH_NJ8700_RSMC (aligned length: 327   sim:  0.749   id:  0.706)
+	pos  71 from ENT_638_638_RSMC (aligned length: 328   sim:  0.601   id:  0.506)
+	pos  72 from ENT_638_638_RSMC (aligned length: 328   sim:  0.601   id:  0.506)
+	pos 337 from GAL_ANA_UMN179_RSMC (aligned length: 326   sim:  0.663   id:  0.610)
+MAR_AQU_VT8_RSMC
+	pos  39 from HAH_CHE_2396_RSMC (aligned length: 330   sim:  0.448   id:  0.379)
+	pos  40 from HAH_CHE_2396_RSMC (aligned length: 330   sim:  0.448   id:  0.379)
+MAR_MED_1_RSMC
+	pos   2 from VIB_VUL_YJ016_RSMC (aligned length: 329   sim:  0.453   id:  0.365)
+	pos  22 from GLA_AGA_5_RSMC (aligned length: 329   sim:  0.468   id:  0.392)
+	pos  23 from GLA_AGA_5_RSMC (aligned length: 329   sim:  0.468   id:  0.392)
+	pos 219 from GLA_AGA_5_RSMC (aligned length: 329   sim:  0.468   id:  0.392)
+MAR_MWY_MWYL1_RSMC
+	pos   2 from PSE_HAL_TAC125_RSMC (aligned length: 329   sim:  0.471   id:  0.350)
+	pos  22 from GLA_AGA_5_RSMC (aligned length: 329   sim:  0.468   id:  0.383)
+	pos  23 from GLA_AGA_5_RSMC (aligned length: 329   sim:  0.468   id:  0.383)
+	pos 219 from GLA_AGA_5_RSMC (aligned length: 329   sim:  0.468   id:  0.383)
+MAR_POS_181_RSMC
+	pos   2 from PSE_HAL_TAC125_RSMC (aligned length: 329   sim:  0.459   id:  0.365)
+	pos  22 from GLA_AGA_5_RSMC (aligned length: 329   sim:  0.453   id:  0.392)
+	pos  23 from GLA_AGA_5_RSMC (aligned length: 329   sim:  0.453   id:  0.392)
+	pos 219 from GLA_AGA_5_RSMC (aligned length: 329   sim:  0.453   id:  0.392)
+PAN_ANA_20103_RSMC
+	 not patched
+PAN_AT_9b_RSMC
+	 not patched
+PAN_VAG_1_RSMC
+	 not patched
+PAS_MUL_Pm70_RSMC
+	pos   2 from GAL_ANA_UMN179_RSMC (aligned length: 325   sim:  0.711   id:  0.646)
+	pos   3 from EDW_ICT_146_RSMC (aligned length: 325   sim:  0.600   id:  0.511)
+	pos  53 from MAN_SUC_MBEL55E_RSMC (aligned length: 325   sim:  0.794   id:  0.735)
+	pos  54 from MAN_SUC_MBEL55E_RSMC (aligned length: 325   sim:  0.794   id:  0.735)
+	pos  55 from MAN_SUC_MBEL55E_RSMC (aligned length: 325   sim:  0.794   id:  0.735)
+	pos  56 from AGG_APH_NJ8700_RSMC (aligned length: 324   sim:  0.735   id:  0.685)
+	pos  57 from AGG_APH_NJ8700_RSMC (aligned length: 324   sim:  0.735   id:  0.685)
+	pos  71 from EDW_ICT_146_RSMC (aligned length: 325   sim:  0.600   id:  0.511)
+	pos  72 from EDW_ICT_146_RSMC (aligned length: 325   sim:  0.600   id:  0.511)
+	pos 337 from GAL_ANA_UMN179_RSMC (aligned length: 325   sim:  0.711   id:  0.646)
+PEC_ATR_SCRI1043_RSMC
+	 not patched
+PEC_CAR_PC1_RSMC
+	 not patched
+PEC_WAS_WPP163_RSMC
+	 not patched
+PHO_PRO_SS9_RSMC
+	pos   1 from ALI_SAL_LFI1238_RSMC (aligned length: 332   sim:  0.696   id:  0.593)
+	pos 194 from HAE_INF_PittEE_RSMC (aligned length: 323   sim:  0.557   id:  0.440)
+	pos 337 from VIB_PAR_2210633_RSMC (aligned length: 332   sim:  0.666   id:  0.575)
+PHO_ASY_43949_RSMC
+	 not patched
+PHO_LUM_TTO1_RSMC
+	 not patched
+PRO_MIR_HI4320_RSMC
+	 not patched
+PSE_ATL_T6c_RSMC
+	pos   2 from ALT_SN2_SN2_RSMC (aligned length: 331   sim:  0.538   id:  0.432)
+	pos   3 from PSE_HAL_TAC125_RSMC (aligned length: 329   sim:  0.480   id:  0.407)
+	pos 337 from MAR_MED_1_RSMC (aligned length: 329   sim:  0.465   id:  0.392)
+PSE_HAL_TAC125_RSMC
+	pos  63 from GAL_ANA_UMN179_RSMC (aligned length: 325   sim:  0.498   id:  0.391)
+	pos 335 from GAL_ANA_UMN179_RSMC (aligned length: 325   sim:  0.498   id:  0.391)
+	pos 336 from GAL_ANA_UMN179_RSMC (aligned length: 325   sim:  0.498   id:  0.391)
+	pos 337 from GAL_ANA_UMN179_RSMC (aligned length: 325   sim:  0.498   id:  0.391)
+PSE_AER_PA7_RSMC
+	pos   2 from HAH_CHE_2396_RSMC (aligned length: 324   sim:  0.472   id:  0.423)
+	pos   3 from HAH_CHE_2396_RSMC (aligned length: 324   sim:  0.472   id:  0.423)
+	pos   4 from HAH_CHE_2396_RSMC (aligned length: 324   sim:  0.472   id:  0.423)
+	pos  23 from VIB_VUL_CMCP6_RSMC (aligned length: 324   sim:  0.494   id:  0.414)
+	pos  39 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.551   id:  0.462)
+	pos  40 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.551   id:  0.462)
+	pos  41 from HAH_CHE_2396_RSMC (aligned length: 324   sim:  0.472   id:  0.423)
+	pos  70 from HAH_CHE_2396_RSMC (aligned length: 324   sim:  0.472   id:  0.423)
+	pos 104 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.551   id:  0.462)
+PSE_AER_PAO1_RSMC
+	pos   2 from VIB_VUL_CMCP6_RSMC (aligned length: 324   sim:  0.491   id:  0.407)
+	pos   3 from VIB_VUL_CMCP6_RSMC (aligned length: 324   sim:  0.491   id:  0.407)
+	pos   4 from VIB_VUL_CMCP6_RSMC (aligned length: 324   sim:  0.491   id:  0.407)
+	pos  23 from VIB_VUL_CMCP6_RSMC (aligned length: 324   sim:  0.491   id:  0.407)
+	pos  39 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.554   id:  0.474)
+	pos  40 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.554   id:  0.474)
+	pos  41 from VIB_VUL_CMCP6_RSMC (aligned length: 324   sim:  0.491   id:  0.407)
+	pos  70 from VIB_VUL_CMCP6_RSMC (aligned length: 324   sim:  0.491   id:  0.407)
+	pos 104 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.554   id:  0.474)
+PSE_BRA_NFM421_RSMC
+	pos   2 from HAH_CHE_2396_RSMC (aligned length: 324   sim:  0.472   id:  0.407)
+	pos   3 from HAH_CHE_2396_RSMC (aligned length: 324   sim:  0.472   id:  0.407)
+	pos   4 from HAH_CHE_2396_RSMC (aligned length: 324   sim:  0.472   id:  0.407)
+	pos  23 from VIB_SPL_LGP32_RSMC (aligned length: 324   sim:  0.481   id:  0.404)
+	pos  39 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.551   id:  0.462)
+	pos  40 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.551   id:  0.462)
+	pos  41 from HAH_CHE_2396_RSMC (aligned length: 324   sim:  0.472   id:  0.407)
+	pos  70 from HAH_CHE_2396_RSMC (aligned length: 324   sim:  0.472   id:  0.407)
+	pos 104 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.551   id:  0.462)
+PSE_ENT_L48_RSMC
+	pos   2 from SER_PRO_568_RSMC (aligned length: 326   sim:  0.497   id:  0.390)
+	pos   3 from SER_PRO_568_RSMC (aligned length: 326   sim:  0.497   id:  0.390)
+	pos   4 from SER_PRO_568_RSMC (aligned length: 326   sim:  0.497   id:  0.390)
+	pos  23 from SER_PRO_568_RSMC (aligned length: 326   sim:  0.497   id:  0.390)
+	pos  39 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.563   id:  0.452)
+	pos  40 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.563   id:  0.452)
+	pos  41 from SER_PRO_568_RSMC (aligned length: 326   sim:  0.497   id:  0.390)
+	pos  70 from SER_PRO_568_RSMC (aligned length: 326   sim:  0.497   id:  0.390)
+	pos 104 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.563   id:  0.452)
+PSE_FLU_1_RSMC
+	pos   2 from HAH_CHE_2396_RSMC (aligned length: 324   sim:  0.469   id:  0.404)
+	pos   3 from HAH_CHE_2396_RSMC (aligned length: 324   sim:  0.469   id:  0.404)
+	pos   4 from HAH_CHE_2396_RSMC (aligned length: 324   sim:  0.469   id:  0.404)
+	pos  23 from VIB_SPL_LGP32_RSMC (aligned length: 324   sim:  0.481   id:  0.398)
+	pos  39 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.554   id:  0.465)
+	pos  40 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.554   id:  0.465)
+	pos  41 from HAH_CHE_2396_RSMC (aligned length: 324   sim:  0.469   id:  0.404)
+	pos  70 from HAH_CHE_2396_RSMC (aligned length: 324   sim:  0.469   id:  0.404)
+	pos 104 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.554   id:  0.465)
+PSE_FLU_5_RSMC
+	pos   2 from HAH_CHE_2396_RSMC (aligned length: 324   sim:  0.475   id:  0.414)
+	pos   3 from HAH_CHE_2396_RSMC (aligned length: 324   sim:  0.475   id:  0.414)
+	pos   4 from HAH_CHE_2396_RSMC (aligned length: 324   sim:  0.475   id:  0.414)
+	pos  23 from VIB_SPL_LGP32_RSMC (aligned length: 324   sim:  0.478   id:  0.401)
+	pos  39 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.535   id:  0.452)
+	pos  40 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.535   id:  0.452)
+	pos  41 from HAH_CHE_2396_RSMC (aligned length: 324   sim:  0.475   id:  0.414)
+	pos  70 from HAH_CHE_2396_RSMC (aligned length: 324   sim:  0.475   id:  0.414)
+	pos 104 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.535   id:  0.452)
+PSE_FLU_SBW25_RSMC
+	pos   2 from HAH_CHE_2396_RSMC (aligned length: 324   sim:  0.478   id:  0.401)
+	pos   3 from HAH_CHE_2396_RSMC (aligned length: 324   sim:  0.478   id:  0.401)
+	pos   4 from HAH_CHE_2396_RSMC (aligned length: 324   sim:  0.478   id:  0.401)
+	pos  23 from AER_HYD_7966_RSMC (aligned length: 324   sim:  0.466   id:  0.392)
+	pos  39 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.551   id:  0.468)
+	pos  40 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.551   id:  0.468)
+	pos  41 from HAH_CHE_2396_RSMC (aligned length: 324   sim:  0.478   id:  0.401)
+	pos  70 from HAH_CHE_2396_RSMC (aligned length: 324   sim:  0.478   id:  0.401)
+	pos 104 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.551   id:  0.468)
+PSE_FUL_X_RSMC
+	pos   2 from VIB_VUL_YJ016_RSMC (aligned length: 324   sim:  0.494   id:  0.407)
+	pos   3 from VIB_VUL_YJ016_RSMC (aligned length: 324   sim:  0.494   id:  0.407)
+	pos   4 from VIB_VUL_YJ016_RSMC (aligned length: 324   sim:  0.494   id:  0.407)
+	pos  23 from VIB_VUL_YJ016_RSMC (aligned length: 324   sim:  0.494   id:  0.407)
+	pos  39 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.557   id:  0.474)
+	pos  40 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.557   id:  0.474)
+	pos  41 from VIB_VUL_YJ016_RSMC (aligned length: 324   sim:  0.494   id:  0.407)
+	pos  70 from VIB_VUL_YJ016_RSMC (aligned length: 324   sim:  0.494   id:  0.407)
+	pos 104 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.557   id:  0.474)
+PSE_MEN_01_RSMC
+	pos   2 from VIB_VUL_CMCP6_RSMC (aligned length: 324   sim:  0.500   id:  0.410)
+	pos   3 from VIB_VUL_CMCP6_RSMC (aligned length: 324   sim:  0.500   id:  0.410)
+	pos   4 from VIB_VUL_CMCP6_RSMC (aligned length: 324   sim:  0.500   id:  0.410)
+	pos  23 from VIB_VUL_CMCP6_RSMC (aligned length: 324   sim:  0.500   id:  0.410)
+	pos  39 from ACI_ADP_ADP1_RSMC (aligned length: 324   sim:  0.559   id:  0.478)
+	pos  40 from ACI_ADP_ADP1_RSMC (aligned length: 324   sim:  0.559   id:  0.478)
+	pos  41 from VIB_VUL_CMCP6_RSMC (aligned length: 324   sim:  0.500   id:  0.410)
+	pos  70 from VIB_VUL_CMCP6_RSMC (aligned length: 324   sim:  0.500   id:  0.410)
+	pos 104 from ACI_ADP_ADP1_RSMC (aligned length: 324   sim:  0.559   id:  0.478)
+	pos 337 from PSE_AER_PAO1_RSMC (aligned length: 325   sim:  0.800   id:  0.769)
+PSE_MEN_ymp_RSMC
+	pos   2 from HAH_CHE_2396_RSMC (aligned length: 324   sim:  0.485   id:  0.423)
+	pos   3 from HAH_CHE_2396_RSMC (aligned length: 324   sim:  0.485   id:  0.423)
+	pos   4 from HAH_CHE_2396_RSMC (aligned length: 324   sim:  0.485   id:  0.423)
+	pos  23 from AER_HYD_7966_RSMC (aligned length: 324   sim:  0.475   id:  0.398)
+	pos  39 from ACI_ADP_ADP1_RSMC (aligned length: 324   sim:  0.556   id:  0.472)
+	pos  40 from ACI_ADP_ADP1_RSMC (aligned length: 324   sim:  0.556   id:  0.472)
+	pos  41 from HAH_CHE_2396_RSMC (aligned length: 324   sim:  0.485   id:  0.423)
+	pos  70 from HAH_CHE_2396_RSMC (aligned length: 324   sim:  0.485   id:  0.423)
+	pos 104 from ACI_ADP_ADP1_RSMC (aligned length: 324   sim:  0.556   id:  0.472)
+	pos 337 from PSE_AER_PAO1_RSMC (aligned length: 325   sim:  0.825   id:  0.803)
+PSE_PUT_F1_RSMC
+	pos   2 from VIB_SPL_LGP32_RSMC (aligned length: 324   sim:  0.488   id:  0.395)
+	pos   3 from VIB_SPL_LGP32_RSMC (aligned length: 324   sim:  0.488   id:  0.395)
+	pos   4 from VIB_SPL_LGP32_RSMC (aligned length: 324   sim:  0.488   id:  0.395)
+	pos  23 from VIB_SPL_LGP32_RSMC (aligned length: 324   sim:  0.488   id:  0.395)
+	pos  39 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.554   id:  0.455)
+	pos  40 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.554   id:  0.455)
+	pos  41 from VIB_SPL_LGP32_RSMC (aligned length: 324   sim:  0.488   id:  0.395)
+	pos  70 from VIB_SPL_LGP32_RSMC (aligned length: 324   sim:  0.488   id:  0.395)
+	pos 104 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.554   id:  0.455)
+PSE_PUT_1_RSMC
+	pos   2 from VIB_SPL_LGP32_RSMC (aligned length: 324   sim:  0.478   id:  0.389)
+	pos   3 from VIB_SPL_LGP32_RSMC (aligned length: 324   sim:  0.478   id:  0.389)
+	pos   4 from VIB_SPL_LGP32_RSMC (aligned length: 324   sim:  0.478   id:  0.389)
+	pos  23 from VIB_SPL_LGP32_RSMC (aligned length: 324   sim:  0.478   id:  0.389)
+	pos  39 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.557   id:  0.465)
+	pos  40 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.557   id:  0.465)
+	pos  41 from VIB_SPL_LGP32_RSMC (aligned length: 324   sim:  0.478   id:  0.389)
+	pos  70 from VIB_SPL_LGP32_RSMC (aligned length: 324   sim:  0.478   id:  0.389)
+	pos 104 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.557   id:  0.465)
+PSE_PUT_W619_RSMC
+	pos   2 from VIB_VUL_CMCP6_RSMC (aligned length: 324   sim:  0.494   id:  0.401)
+	pos   3 from VIB_VUL_CMCP6_RSMC (aligned length: 324   sim:  0.494   id:  0.401)
+	pos   4 from VIB_VUL_CMCP6_RSMC (aligned length: 324   sim:  0.494   id:  0.401)
+	pos  23 from VIB_VUL_CMCP6_RSMC (aligned length: 324   sim:  0.494   id:  0.401)
+	pos  39 from ACI_ADP_ADP1_RSMC (aligned length: 324   sim:  0.534   id:  0.444)
+	pos  40 from ACI_ADP_ADP1_RSMC (aligned length: 324   sim:  0.534   id:  0.444)
+	pos  41 from VIB_VUL_CMCP6_RSMC (aligned length: 324   sim:  0.494   id:  0.401)
+	pos  70 from VIB_VUL_CMCP6_RSMC (aligned length: 324   sim:  0.494   id:  0.401)
+	pos 104 from ACI_ADP_ADP1_RSMC (aligned length: 324   sim:  0.534   id:  0.444)
+	pos 337 from PSE_PUT_F1_RSMC (aligned length: 325   sim:  0.917   id:  0.898)
+PSE_STU_A1501_RSMC
+	pos   2 from PAN_ANA_20103_RSMC (aligned length: 326   sim:  0.500   id:  0.420)
+	pos   3 from PAN_ANA_20103_RSMC (aligned length: 326   sim:  0.500   id:  0.420)
+	pos   4 from PAN_ANA_20103_RSMC (aligned length: 326   sim:  0.500   id:  0.420)
+	pos  23 from PAN_ANA_20103_RSMC (aligned length: 326   sim:  0.500   id:  0.420)
+	pos  39 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.585   id:  0.471)
+	pos  40 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.585   id:  0.471)
+	pos  41 from PAN_ANA_20103_RSMC (aligned length: 326   sim:  0.500   id:  0.420)
+	pos  70 from PAN_ANA_20103_RSMC (aligned length: 326   sim:  0.500   id:  0.420)
+	pos 104 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.585   id:  0.471)
+PSE_SYR_B728a_RSMC
+	pos   2 from AER_HYD_7966_RSMC (aligned length: 324   sim:  0.485   id:  0.417)
+	pos   3 from AER_HYD_7966_RSMC (aligned length: 324   sim:  0.485   id:  0.417)
+	pos   4 from AER_HYD_7966_RSMC (aligned length: 324   sim:  0.485   id:  0.417)
+	pos  23 from AER_HYD_7966_RSMC (aligned length: 324   sim:  0.485   id:  0.417)
+	pos  39 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.563   id:  0.458)
+	pos  40 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.563   id:  0.458)
+	pos  41 from AER_HYD_7966_RSMC (aligned length: 324   sim:  0.485   id:  0.417)
+	pos  70 from AER_HYD_7966_RSMC (aligned length: 324   sim:  0.485   id:  0.417)
+	pos 104 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.563   id:  0.458)
+PSE_SYR_1448A_RSMC
+	pos   2 from AER_HYD_7966_RSMC (aligned length: 324   sim:  0.475   id:  0.410)
+	pos   3 from AER_HYD_7966_RSMC (aligned length: 324   sim:  0.475   id:  0.410)
+	pos   4 from AER_HYD_7966_RSMC (aligned length: 324   sim:  0.475   id:  0.410)
+	pos  23 from AER_HYD_7966_RSMC (aligned length: 324   sim:  0.475   id:  0.410)
+	pos  39 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.560   id:  0.455)
+	pos  40 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.560   id:  0.455)
+	pos  41 from AER_HYD_7966_RSMC (aligned length: 324   sim:  0.475   id:  0.410)
+	pos  70 from AER_HYD_7966_RSMC (aligned length: 324   sim:  0.475   id:  0.410)
+	pos 104 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.560   id:  0.455)
+PSE_SYR_DC3000_RSMC
+	pos   2 from AER_HYD_7966_RSMC (aligned length: 324   sim:  0.481   id:  0.407)
+	pos   3 from AER_HYD_7966_RSMC (aligned length: 324   sim:  0.481   id:  0.407)
+	pos   4 from AER_HYD_7966_RSMC (aligned length: 324   sim:  0.481   id:  0.407)
+	pos  23 from AER_HYD_7966_RSMC (aligned length: 324   sim:  0.481   id:  0.407)
+	pos  39 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.554   id:  0.458)
+	pos  40 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.554   id:  0.458)
+	pos  41 from AER_HYD_7966_RSMC (aligned length: 324   sim:  0.481   id:  0.407)
+	pos  70 from AER_HYD_7966_RSMC (aligned length: 324   sim:  0.481   id:  0.407)
+	pos 104 from ACI_ADP_ADP1_RSMC (aligned length: 325   sim:  0.554   id:  0.458)
+PSY_ING_37_RSMC
+	 not patched
+RAH_Y96_Y9602_RSMC
+	 not patched
+SAL_ENT_RSK2980_RSMC
+	 not patched
+SAL_ENT_91_RSMC
+	 not patched
+SAL_ENT_12601_RSMC
+	 not patched
+SAL_ENT_SPB7_RSMC
+	 not patched
+SAL_ENT_RKS4594_RSMC
+	 not patched
+SER_AS1_AS12_RSMC
+	 not patched
+SER_PRO_568_RSMC
+	 not patched
+SHE_ANA_3_RSMC
+	pos 194 from SHE_FRI_400_RSMC (aligned length: 331   sim:  0.731   id:  0.674)
+SHE_BAL_OS155_RSMC
+	pos   2 from SHE_MR_4_RSMC (aligned length: 332   sim:  0.898   id:  0.883)
+	pos   3 from SHE_MR_4_RSMC (aligned length: 332   sim:  0.898   id:  0.883)
+	pos 194 from SHE_FRI_400_RSMC (aligned length: 333   sim:  0.721   id:  0.661)
+SHE_DEN_OS217_RSMC
+	pos   2 from SHE_MR_4_RSMC (aligned length: 332   sim:  0.723   id:  0.672)
+	pos   3 from SHE_MR_4_RSMC (aligned length: 332   sim:  0.723   id:  0.672)
+	pos 194 from SHE_FRI_400_RSMC (aligned length: 333   sim:  0.733   id:  0.667)
+SHE_FRI_400_RSMC
+	pos   2 from SHE_MR_4_RSMC (aligned length: 331   sim:  0.734   id:  0.677)
+	pos   3 from SHE_MR_4_RSMC (aligned length: 331   sim:  0.734   id:  0.677)
+	pos 337 from SHE_MR_4_RSMC (aligned length: 331   sim:  0.734   id:  0.677)
+SHE_HAL_EB4_RSMC
+	pos   2 from SHE_MR_4_RSMC (aligned length: 331   sim:  0.746   id:  0.674)
+	pos   3 from SHE_MR_4_RSMC (aligned length: 331   sim:  0.746   id:  0.674)
+	pos 194 from SHE_FRI_400_RSMC (aligned length: 331   sim:  0.704   id:  0.622)
+	pos 337 from SHE_PIE_WP3_RSMC (aligned length: 331   sim:  0.849   id:  0.813)
+SHE_LOI_4_RSMC
+	pos   2 from SHE_ANA_3_RSMC (aligned length: 332   sim:  0.738   id:  0.657)
+	pos   3 from SHE_ANA_3_RSMC (aligned length: 332   sim:  0.738   id:  0.657)
+	pos 194 from SHE_FRI_400_RSMC (aligned length: 331   sim:  0.719   id:  0.628)
+SHE_MR_4_RSMC
+	pos 194 from SHE_FRI_400_RSMC (aligned length: 331   sim:  0.734   id:  0.677)
+SHE_ONE_1_RSMC
+	pos 194 from SHE_FRI_400_RSMC (aligned length: 331   sim:  0.722   id:  0.668)
+SHE_PEA_700345_RSMC
+	pos   2 from SHE_MR_4_RSMC (aligned length: 331   sim:  0.758   id:  0.689)
+	pos   3 from SHE_MR_4_RSMC (aligned length: 331   sim:  0.758   id:  0.689)
+	pos 194 from SHE_FRI_400_RSMC (aligned length: 331   sim:  0.686   id:  0.607)
+	pos 337 from SHE_PIE_WP3_RSMC (aligned length: 331   sim:  0.852   id:  0.810)
+SHE_PIE_WP3_RSMC
+	pos   2 from SHE_MR_4_RSMC (aligned length: 332   sim:  0.744   id:  0.654)
+	pos   3 from SHE_MR_4_RSMC (aligned length: 332   sim:  0.744   id:  0.654)
+	pos 194 from SHE_FRI_400_RSMC (aligned length: 331   sim:  0.695   id:  0.601)
+SHE_PUT_32_RSMC
+	pos   2 from SHE_MR_4_RSMC (aligned length: 332   sim:  0.892   id:  0.880)
+	pos   3 from SHE_MR_4_RSMC (aligned length: 332   sim:  0.892   id:  0.880)
+	pos 194 from SHE_FRI_400_RSMC (aligned length: 333   sim:  0.727   id:  0.670)
+SHE_SED_EB3_RSMC
+	pos   2 from SHE_MR_4_RSMC (aligned length: 332   sim:  0.720   id:  0.645)
+	pos   3 from SHE_MR_4_RSMC (aligned length: 332   sim:  0.720   id:  0.645)
+	pos 194 from SHE_FRI_400_RSMC (aligned length: 331   sim:  0.713   id:  0.637)
+SHE_VIO_DSS12_RSMC
+	pos   2 from SHE_MR_4_RSMC (aligned length: 332   sim:  0.726   id:  0.657)
+	pos   3 from SHE_MR_4_RSMC (aligned length: 332   sim:  0.726   id:  0.657)
+	pos 194 from SHE_FRI_400_RSMC (aligned length: 331   sim:  0.692   id:  0.607)
+SHE_WOO_51908_RSMC
+	pos   2 from SHE_MR_4_RSMC (aligned length: 332   sim:  0.735   id:  0.669)
+	pos   3 from SHE_MR_4_RSMC (aligned length: 332   sim:  0.735   id:  0.669)
+	pos 194 from SHE_FRI_400_RSMC (aligned length: 331   sim:  0.713   id:  0.647)
+SHI_BOY_94_RSMC
+	 not patched
+SHI_FLE_8401_RSMC
+	 not patched
+SOD_GLO_morsitans_RSMC
+	 not patched
+TOL_AUE_9187_RSMC
+	pos  71 from AER_HYD_7966_RSMC (aligned length: 330   sim:  0.545   id:  0.455)
+	pos 194 from HAE_INF_KW20_RSMC (aligned length: 322   sim:  0.503   id:  0.407)
+	pos 335 from AER_HYD_7966_RSMC (aligned length: 330   sim:  0.545   id:  0.455)
+	pos 336 from AER_HYD_7966_RSMC (aligned length: 330   sim:  0.545   id:  0.455)
+	pos 337 from ERW_BIL_Eb661_RSMC (aligned length: 332   sim:  0.497   id:  0.392)
+VIB_CHO_2_RSMC
+	pos 194 from HAE_INF_028NP_RSMC (aligned length: 324   sim:  0.556   id:  0.435)
+	pos 337 from VIB_PAR_2210633_RSMC (aligned length: 333   sim:  0.736   id:  0.649)
+VIB_EX2_Ex25_RSMC
+	pos 194 from HAE_INF_PittEE_RSMC (aligned length: 324   sim:  0.549   id:  0.435)
+VIB_FIS_ES114_RSMC
+	pos   1 from ALI_SAL_LFI1238_RSMC (aligned length: 332   sim:  0.904   id:  0.877)
+	pos 194 from HAE_INF_028NP_RSMC (aligned length: 323   sim:  0.539   id:  0.427)
+	pos 337 from VIB_EX2_Ex25_RSMC (aligned length: 332   sim:  0.735   id:  0.660)
+VIB_FIS_MJ11_RSMC
+	pos   1 from ALI_SAL_LFI1238_RSMC (aligned length: 332   sim:  0.907   id:  0.880)
+	pos 194 from HAE_INF_028NP_RSMC (aligned length: 323   sim:  0.542   id:  0.430)
+	pos 337 from VIB_EX2_Ex25_RSMC (aligned length: 332   sim:  0.732   id:  0.657)
+VIB_HAR_1116_RSMC
+	pos 194 from XEN_NEM_19061_RSMC (aligned length: 334   sim:  0.557   id:  0.434)
+VIB_PAR_2210633_RSMC
+	pos 194 from ERW_TAS_99_RSMC (aligned length: 334   sim:  0.548   id:  0.443)
+VIB_SPL_LGP32_RSMC
+	pos 194 from HAE_INF_028NP_RSMC (aligned length: 324   sim:  0.549   id:  0.451)
+	pos 337 from VIB_EX2_Ex25_RSMC (aligned length: 333   sim:  0.811   id:  0.748)
+VIB_VUL_CMCP6_RSMC
+	pos 194 from PAS_MUL_Pm70_RSMC (aligned length: 324   sim:  0.565   id:  0.472)
+	pos 337 from VIB_PAR_2210633_RSMC (aligned length: 333   sim:  0.862   id:  0.802)
+VIB_VUL_YJ016_RSMC
+	pos 194 from PAS_MUL_Pm70_RSMC (aligned length: 324   sim:  0.562   id:  0.475)
+	pos 337 from VIB_PAR_2210633_RSMC (aligned length: 333   sim:  0.865   id:  0.808)
+XEN_BOV_2004_RSMC
+	 not patched
+XEN_NEM_19061_RSMC
+	 not patched
+YER_ENT_r_RSMC
+	 not patched
+YER_PSE_32953_RSMC
+	 not patched
+AER_HYD_7966_RLMG
+	pos  39 from ALT_SN2_SN2_RLMG (aligned length: 325   sim:  0.612   id:  0.505)
+	pos 337 from CRO_TUR_z3032_RLMG (aligned length: 328   sim:  0.686   id:  0.628)
+AER_SAL_A449_RLMG
+	pos  39 from ALT_MAC_ecotype_RLMG (aligned length: 325   sim:  0.606   id:  0.551)
+	pos 337 from DIC_ZEA_Ech1591_RLMG (aligned length: 328   sim:  0.701   id:  0.640)
+AER_VER_B565_RLMG
+	pos  39 from ALT_MAC_ecotype_RLMG (aligned length: 325   sim:  0.591   id:  0.529)
+	pos 337 from DIC_DAD_Ech586_RLMG (aligned length: 328   sim:  0.704   id:  0.637)
+ALC_BOR_SK2_RLMG
+	pos 162 from PSE_FLU_5_RLMG (aligned length: 323   sim:  0.554   id:  0.474)
+	pos 163 from PSE_FLU_5_RLMG (aligned length: 323   sim:  0.554   id:  0.474)
+	pos 260 from PSE_FLU_5_RLMG (aligned length: 323   sim:  0.554   id:  0.474)
+ALI_SAL_LFI1238_RLMG
+	 not patched
+ALT_MAC_ecotype_RLMG
+	pos  21 from AER_SAL_A449_RLMG (aligned length: 325   sim:  0.606   id:  0.551)
+	pos  22 from AER_SAL_A449_RLMG (aligned length: 325   sim:  0.606   id:  0.551)
+	pos 151 from PSE_ATL_T6c_RLMG (aligned length: 326   sim:  0.666   id:  0.574)
+	pos 337 from ERW_TAS_99_RLMG (aligned length: 325   sim:  0.609   id:  0.529)
+ALT_SN2_SN2_RLMG
+	pos  21 from AER_HYD_7966_RLMG (aligned length: 325   sim:  0.612   id:  0.505)
+	pos  22 from AER_HYD_7966_RLMG (aligned length: 325   sim:  0.612   id:  0.505)
+	pos 151 from GLA_AGA_5_RLMG (aligned length: 325   sim:  0.674   id:  0.548)
+	pos 337 from PAN_ANA_20103_RLMG (aligned length: 322   sim:  0.615   id:  0.494)
+AZO_VIN_DJ_RLMG
+	pos 245 from CAT_ACI_44928_RLMG (aligned length: 326   sim:  0.580   id:  0.509)
+	pos 246 from CAT_ACI_44928_RLMG (aligned length: 326   sim:  0.580   id:  0.509)
+	pos 336 from PSE_STU_A1501_RLMG (aligned length: 326   sim:  0.825   id:  0.785)
+	pos 337 from ERW_TAS_99_RLMG (aligned length: 325   sim:  0.551   id:  0.489)
+CAT_ACI_44928_RLMG
+	pos 337 from STR_SCA_22_RLMG (aligned length: 328   sim:  0.741   id:  0.689)
+CIT_KOS_895_RLMG
+	pos  39 from PSE_ATL_T6c_RLMG (aligned length: 326   sim:  0.592   id:  0.506)
+CIT_ROD_ICC168_RLMG
+	pos  39 from PSE_ATL_T6c_RLMG (aligned length: 326   sim:  0.583   id:  0.506)
+COL_PSY_34H_RLMG
+	pos  39 from PSE_ATL_T6c_RLMG (aligned length: 326   sim:  0.595   id:  0.497)
+	pos 337 from PSE_SM9_SM9913_RLMG (aligned length: 328   sim:  0.637   id:  0.537)
+CRO_SAK_894_RLMG
+	pos  39 from PSE_ATL_T6c_RLMG (aligned length: 326   sim:  0.620   id:  0.534)
+CRO_TUR_z3032_RLMG
+	pos  39 from PSE_ATL_T6c_RLMG (aligned length: 326   sim:  0.626   id:  0.543)
+DIC_DAD_3937_RLMG
+	pos  39 from VIB_VUL_CMCP6_RLMG (aligned length: 327   sim:  0.581   id:  0.483)
+DIC_DAD_Ech586_RLMG
+	pos  39 from VIB_VUL_CMCP6_RLMG (aligned length: 327   sim:  0.581   id:  0.486)
+DIC_DAD_Ech703_RLMG
+	pos  39 from PSE_ATL_T6c_RLMG (aligned length: 326   sim:  0.574   id:  0.515)
+DIC_ZEA_Ech1591_RLMG
+	pos  39 from CAT_ACI_44928_RLMG (aligned length: 328   sim:  0.573   id:  0.512)
+EDW_ICT_146_RLMG
+	pos  39 from PSE_ATL_T6c_RLMG (aligned length: 326   sim:  0.598   id:  0.515)
+EDW_TAR_EIB202_RLMG
+	pos  39 from PSE_ATL_T6c_RLMG (aligned length: 326   sim:  0.601   id:  0.515)
+ENT_638_638_RLMG
+	pos  39 from PSE_ATL_T6c_RLMG (aligned length: 326   sim:  0.586   id:  0.500)
+ENT_CLO_13047_RLMG
+	pos  39 from PSE_ATL_T6c_RLMG (aligned length: 326   sim:  0.592   id:  0.506)
+ENT_CLO_SCF1_RLMG
+	pos  39 from PSE_ATL_T6c_RLMG (aligned length: 325   sim:  0.615   id:  0.532)
+	pos 220 from KLE_VAR_22_RLMG (aligned length: 331   sim:  0.873   id:  0.813)
+ERW_AMY_49946_RLMG
+	pos  39 from ALT_MAC_ecotype_RLMG (aligned length: 325   sim:  0.600   id:  0.517)
+ERW_BIL_Eb661_RLMG
+	pos  39 from PSE_ATL_T6c_RLMG (aligned length: 326   sim:  0.604   id:  0.534)
+ERW_PYR_96_RLMG
+	pos  39 from ALT_MAC_ecotype_RLMG (aligned length: 325   sim:  0.603   id:  0.517)
+ERW_TAS_99_RLMG
+	pos  39 from ALT_MAC_ecotype_RLMG (aligned length: 325   sim:  0.609   id:  0.529)
+ESC_COL_DH10B_RLMG
+	pos  39 from PSE_ATL_T6c_RLMG (aligned length: 326   sim:  0.598   id:  0.506)
+ESC_COL_EDL933_RLMG
+	pos  29 from ESC_COL_DH10B_RLMG (aligned length: 332   sim:  0.988   id:  0.988)
+	pos  39 from PSE_ATL_T6c_RLMG (aligned length: 326   sim:  0.601   id:  0.509)
+FER_BAL_9799_RLMG
+	pos  16 from CRO_SAK_894_RLMG (aligned length: 323   sim:  0.579   id:  0.486)
+	pos  17 from CRO_SAK_894_RLMG (aligned length: 323   sim:  0.579   id:  0.486)
+	pos  18 from CRO_SAK_894_RLMG (aligned length: 323   sim:  0.579   id:  0.486)
+	pos 151 from CRO_SAK_894_RLMG (aligned length: 323   sim:  0.579   id:  0.486)
+	pos 195 from CRO_SAK_894_RLMG (aligned length: 323   sim:  0.579   id:  0.486)
+	pos 337 from MAG_MC_1_RLMG (aligned length: 322   sim:  0.720   id:  0.665)
+GLA_AGA_5_RLMG
+	pos  21 from CRO_TUR_z3032_RLMG (aligned length: 326   sim:  0.632   id:  0.549)
+	pos  22 from CRO_TUR_z3032_RLMG (aligned length: 326   sim:  0.632   id:  0.549)
+	pos  39 from PSE_ATL_T6c_RLMG (aligned length: 326   sim:  0.914   id:  0.871)
+	pos 337 from CRO_TUR_z3032_RLMG (aligned length: 326   sim:  0.632   id:  0.549)
+KLE_PNE_K2044_RLMG
+	pos  39 from PSE_ATL_T6c_RLMG (aligned length: 326   sim:  0.607   id:  0.549)
+KLE_VAR_22_RLMG
+	pos  39 from PSE_ATL_T6c_RLMG (aligned length: 326   sim:  0.610   id:  0.552)
+MAG_MC_1_RLMG
+	pos  16 from TOL_AUE_9187_RLMG (aligned length: 321   sim:  0.545   id:  0.464)
+	pos  17 from TOL_AUE_9187_RLMG (aligned length: 321   sim:  0.545   id:  0.464)
+	pos  18 from TOL_AUE_9187_RLMG (aligned length: 321   sim:  0.545   id:  0.464)
+	pos 151 from TOL_AUE_9187_RLMG (aligned length: 321   sim:  0.545   id:  0.464)
+	pos 195 from TOL_AUE_9187_RLMG (aligned length: 321   sim:  0.545   id:  0.464)
+	pos 246 from FER_BAL_9799_RLMG (aligned length: 322   sim:  0.720   id:  0.665)
+	pos 247 from FER_BAL_9799_RLMG (aligned length: 322   sim:  0.720   id:  0.665)
+MET_MET_MC09_RLMG
+	pos  19 from PSE_MEN_ymp_RLMG (aligned length: 323   sim:  0.604   id:  0.523)
+	pos  21 from PSE_MEN_ymp_RLMG (aligned length: 323   sim:  0.604   id:  0.523)
+	pos 151 from PSE_MEN_ymp_RLMG (aligned length: 323   sim:  0.604   id:  0.523)
+	pos 337 from PAN_ANA_20103_RLMG (aligned length: 322   sim:  0.606   id:  0.516)
+PAN_ANA_20103_RLMG
+	pos  16 from ERW_TAS_99_RLMG (aligned length: 326   sim:  0.828   id:  0.785)
+	pos  17 from ERW_TAS_99_RLMG (aligned length: 326   sim:  0.828   id:  0.785)
+	pos  18 from ERW_TAS_99_RLMG (aligned length: 326   sim:  0.828   id:  0.785)
+	pos  39 from PSE_ATL_T6c_RLMG (aligned length: 323   sim:  0.607   id:  0.520)
+PAN_AT_9b_RLMG
+	pos  16 from ERW_PYR_96_RLMG (aligned length: 326   sim:  0.810   id:  0.745)
+	pos  17 from ERW_PYR_96_RLMG (aligned length: 326   sim:  0.810   id:  0.745)
+	pos  18 from ERW_PYR_96_RLMG (aligned length: 326   sim:  0.810   id:  0.745)
+	pos  39 from VIB_VUL_CMCP6_RLMG (aligned length: 324   sim:  0.596   id:  0.485)
+PAN_VAG_1_RLMG
+	pos  16 from ERW_AMY_49946_RLMG (aligned length: 326   sim:  0.834   id:  0.761)
+	pos  17 from ERW_AMY_49946_RLMG (aligned length: 326   sim:  0.834   id:  0.761)
+	pos  18 from ERW_AMY_49946_RLMG (aligned length: 326   sim:  0.834   id:  0.761)
+	pos  39 from ALT_SN2_SN2_RLMG (aligned length: 322   sim:  0.602   id:  0.481)
+PEC_ATR_SCRI1043_RLMG
+	pos  39 from PSE_ATL_T6c_RLMG (aligned length: 326   sim:  0.592   id:  0.503)
+PEC_CAR_PC1_RLMG
+	pos  39 from PSE_ATL_T6c_RLMG (aligned length: 326   sim:  0.589   id:  0.506)
+PEC_WAS_WPP163_RLMG
+	pos  39 from PSE_ATL_T6c_RLMG (aligned length: 326   sim:  0.598   id:  0.515)
+PHO_PRO_SS9_RLMG
+	pos 336 from VIB_PAR_2210633_RLMG (aligned length: 328   sim:  0.659   id:  0.576)
+	pos 337 from VIB_PAR_2210633_RLMG (aligned length: 328   sim:  0.659   id:  0.576)
+PSE_ATL_T6c_RLMG
+	pos  21 from CRO_TUR_z3032_RLMG (aligned length: 326   sim:  0.626   id:  0.543)
+	pos  22 from CRO_TUR_z3032_RLMG (aligned length: 326   sim:  0.626   id:  0.543)
+	pos 337 from CRO_TUR_z3032_RLMG (aligned length: 326   sim:  0.626   id:  0.543)
+PSE_HAL_TAC125_RLMG
+	pos  39 from VIB_VUL_CMCP6_RLMG (aligned length: 326   sim:  0.626   id:  0.528)
+	pos 151 from PAN_ANA_20103_RLMG (aligned length: 325   sim:  0.665   id:  0.578)
+PSE_SM9_SM9913_RLMG
+	pos  39 from PSE_ATL_T6c_RLMG (aligned length: 325   sim:  0.622   id:  0.517)
+	pos 151 from PAN_ANA_20103_RLMG (aligned length: 325   sim:  0.662   id:  0.566)
+PSE_AER_LESB58_RLMG
+	pos 245 from CAT_ACI_44928_RLMG (aligned length: 326   sim:  0.604   id:  0.549)
+	pos 246 from CAT_ACI_44928_RLMG (aligned length: 326   sim:  0.604   id:  0.549)
+	pos 336 from PSE_STU_A1501_RLMG (aligned length: 326   sim:  0.840   id:  0.801)
+	pos 337 from ERW_TAS_99_RLMG (aligned length: 325   sim:  0.560   id:  0.498)
+PSE_AER_PA7_RLMG
+	pos 245 from CAT_ACI_44928_RLMG (aligned length: 326   sim:  0.601   id:  0.543)
+	pos 246 from CAT_ACI_44928_RLMG (aligned length: 326   sim:  0.601   id:  0.543)
+	pos 336 from PSE_STU_A1501_RLMG (aligned length: 326   sim:  0.844   id:  0.798)
+	pos 337 from ERW_PYR_96_RLMG (aligned length: 325   sim:  0.563   id:  0.483)
+PSE_BRA_NFM421_RLMG
+	pos 245 from MET_MET_MC09_RLMG (aligned length: 323   sim:  0.570   id:  0.495)
+	pos 246 from MET_MET_MC09_RLMG (aligned length: 323   sim:  0.570   id:  0.495)
+	pos 336 from PSE_STU_A1501_RLMG (aligned length: 326   sim:  0.813   id:  0.782)
+	pos 337 from ERW_TAS_99_RLMG (aligned length: 325   sim:  0.548   id:  0.483)
+PSE_ENT_L48_RLMG
+	pos 245 from CAT_ACI_44928_RLMG (aligned length: 326   sim:  0.571   id:  0.491)
+	pos 246 from CAT_ACI_44928_RLMG (aligned length: 326   sim:  0.571   id:  0.491)
+	pos 336 from PSE_STU_A1501_RLMG (aligned length: 326   sim:  0.804   id:  0.758)
+	pos 337 from ERW_TAS_99_RLMG (aligned length: 325   sim:  0.557   id:  0.480)
+PSE_FLU_1_RLMG
+	pos 245 from MET_MET_MC09_RLMG (aligned length: 323   sim:  0.582   id:  0.508)
+	pos 246 from MET_MET_MC09_RLMG (aligned length: 323   sim:  0.582   id:  0.508)
+	pos 336 from PSE_STU_A1501_RLMG (aligned length: 326   sim:  0.804   id:  0.770)
+	pos 337 from ERW_TAS_99_RLMG (aligned length: 325   sim:  0.548   id:  0.483)
+PSE_FLU_5_RLMG
+	pos 245 from CAT_ACI_44928_RLMG (aligned length: 326   sim:  0.574   id:  0.506)
+	pos 246 from CAT_ACI_44928_RLMG (aligned length: 326   sim:  0.574   id:  0.506)
+	pos 336 from PSE_STU_A1501_RLMG (aligned length: 326   sim:  0.828   id:  0.785)
+	pos 337 from ERW_TAS_99_RLMG (aligned length: 325   sim:  0.557   id:  0.483)
+PSE_FLU_SBW25_RLMG
+	pos 245 from MET_MET_MC09_RLMG (aligned length: 323   sim:  0.576   id:  0.502)
+	pos 246 from MET_MET_MC09_RLMG (aligned length: 323   sim:  0.576   id:  0.502)
+	pos 336 from PSE_STU_A1501_RLMG (aligned length: 326   sim:  0.801   id:  0.758)
+	pos 337 from ALC_BOR_SK2_RLMG (aligned length: 323   sim:  0.551   id:  0.471)
+PSE_FUL_X_RLMG
+	pos  16 from PSE_MEN_01_RLMG (aligned length: 324   sim:  0.904   id:  0.883)
+	pos  17 from PSE_MEN_01_RLMG (aligned length: 324   sim:  0.904   id:  0.883)
+	pos 245 from MET_MET_MC09_RLMG (aligned length: 321   sim:  0.567   id:  0.492)
+	pos 246 from MET_MET_MC09_RLMG (aligned length: 321   sim:  0.567   id:  0.492)
+	pos 336 from PSE_STU_A1501_RLMG (aligned length: 324   sim:  0.861   id:  0.843)
+	pos 337 from RAH_Y96_Y9602_RLMG (aligned length: 323   sim:  0.567   id:  0.474)
+PSE_MEN_01_RLMG
+	pos 245 from CAT_ACI_44928_RLMG (aligned length: 326   sim:  0.574   id:  0.503)
+	pos 246 from CAT_ACI_44928_RLMG (aligned length: 326   sim:  0.574   id:  0.503)
+	pos 336 from PSE_STU_A1501_RLMG (aligned length: 326   sim:  0.847   id:  0.816)
+	pos 337 from ERW_PYR_96_RLMG (aligned length: 325   sim:  0.548   id:  0.483)
+PSE_MEN_ymp_RLMG
+	pos 245 from CAT_ACI_44928_RLMG (aligned length: 326   sim:  0.595   id:  0.531)
+	pos 246 from CAT_ACI_44928_RLMG (aligned length: 326   sim:  0.595   id:  0.531)
+	pos 336 from PSE_STU_A1501_RLMG (aligned length: 326   sim:  0.850   id:  0.816)
+	pos 337 from STR_SCA_22_RLMG (aligned length: 325   sim:  0.566   id:  0.502)
+PSE_PUT_F1_RLMG
+	pos 245 from CAT_ACI_44928_RLMG (aligned length: 326   sim:  0.567   id:  0.491)
+	pos 246 from CAT_ACI_44928_RLMG (aligned length: 326   sim:  0.567   id:  0.491)
+	pos 336 from PSE_STU_A1501_RLMG (aligned length: 326   sim:  0.825   id:  0.782)
+	pos 337 from SER_PRO_568_RLMG (aligned length: 325   sim:  0.557   id:  0.477)
+PSE_PUT_1_RLMG
+	pos 245 from STR_GRI_13350_RLMG (aligned length: 325   sim:  0.560   id:  0.492)
+	pos 246 from STR_GRI_13350_RLMG (aligned length: 325   sim:  0.560   id:  0.492)
+	pos 336 from PSE_STU_A1501_RLMG (aligned length: 326   sim:  0.813   id:  0.779)
+	pos 337 from ERW_TAS_99_RLMG (aligned length: 325   sim:  0.548   id:  0.480)
+PSE_PUT_KT2440_RLMG
+	pos 245 from CAT_ACI_44928_RLMG (aligned length: 326   sim:  0.567   id:  0.494)
+	pos 246 from CAT_ACI_44928_RLMG (aligned length: 326   sim:  0.567   id:  0.494)
+	pos 336 from PSE_STU_A1501_RLMG (aligned length: 326   sim:  0.822   id:  0.782)
+	pos 337 from SER_PRO_568_RLMG (aligned length: 325   sim:  0.557   id:  0.477)
+PSE_PUT_W619_RLMG
+	pos 245 from CAT_ACI_44928_RLMG (aligned length: 326   sim:  0.558   id:  0.485)
+	pos 246 from CAT_ACI_44928_RLMG (aligned length: 326   sim:  0.558   id:  0.485)
+	pos 336 from PSE_STU_A1501_RLMG (aligned length: 326   sim:  0.816   id:  0.779)
+	pos 337 from SER_PRO_568_RLMG (aligned length: 325   sim:  0.557   id:  0.471)
+PSE_STU_A1501_RLMG
+	pos 245 from CAT_ACI_44928_RLMG (aligned length: 327   sim:  0.590   id:  0.514)
+	pos 246 from CAT_ACI_44928_RLMG (aligned length: 327   sim:  0.590   id:  0.514)
+	pos 337 from ERW_PYR_96_RLMG (aligned length: 326   sim:  0.567   id:  0.500)
+PSE_SYR_B728a_RLMG
+	pos 245 from CAT_ACI_44928_RLMG (aligned length: 326   sim:  0.571   id:  0.506)
+	pos 246 from CAT_ACI_44928_RLMG (aligned length: 326   sim:  0.571   id:  0.506)
+	pos 336 from PSE_STU_A1501_RLMG (aligned length: 326   sim:  0.807   id:  0.761)
+	pos 337 from ERW_TAS_99_RLMG (aligned length: 325   sim:  0.545   id:  0.474)
+PSE_SYR_1448A_RLMG
+	pos 245 from CAT_ACI_44928_RLMG (aligned length: 326   sim:  0.564   id:  0.506)
+	pos 246 from CAT_ACI_44928_RLMG (aligned length: 326   sim:  0.564   id:  0.506)
+	pos 336 from PSE_STU_A1501_RLMG (aligned length: 326   sim:  0.798   id:  0.745)
+	pos 337 from ERW_TAS_99_RLMG (aligned length: 325   sim:  0.545   id:  0.474)
+PSE_SYR_DC3000_RLMG
+	pos 245 from CAT_ACI_44928_RLMG (aligned length: 326   sim:  0.567   id:  0.503)
+	pos 246 from CAT_ACI_44928_RLMG (aligned length: 326   sim:  0.567   id:  0.503)
+	pos 336 from PSE_STU_A1501_RLMG (aligned length: 326   sim:  0.791   id:  0.745)
+	pos 337 from ERW_TAS_99_RLMG (aligned length: 325   sim:  0.542   id:  0.474)
+PSY_ING_37_RLMG
+	pos  39 from VIB_VUL_CMCP6_RLMG (aligned length: 327   sim:  0.593   id:  0.480)
+RAH_Y96_Y9602_RLMG
+	pos  39 from PSE_ATL_T6c_RLMG (aligned length: 326   sim:  0.589   id:  0.506)
+SAL_ENT_RSK2980_RLMG
+	pos  39 from PSE_ATL_T6c_RLMG (aligned length: 326   sim:  0.583   id:  0.497)
+SAL_ENT_91_RLMG
+	pos  39 from PSE_ATL_T6c_RLMG (aligned length: 326   sim:  0.583   id:  0.494)
+SER_AS1_AS12_RLMG
+	pos  39 from ALT_MAC_ecotype_RLMG (aligned length: 325   sim:  0.597   id:  0.514)
+SER_PRO_568_RLMG
+	pos  39 from ALT_MAC_ecotype_RLMG (aligned length: 325   sim:  0.597   id:  0.505)
+SHE_AMA_SB2B_RLMG
+	pos 151 from VIB_VUL_CMCP6_RLMG (aligned length: 326   sim:  0.564   id:  0.491)
+	pos 247 from SHE_SED_EB3_RLMG (aligned length: 327   sim:  0.697   id:  0.615)
+	pos 336 from SHE_SED_EB3_RLMG (aligned length: 327   sim:  0.697   id:  0.615)
+	pos 337 from SHE_SED_EB3_RLMG (aligned length: 327   sim:  0.697   id:  0.615)
+SHE_ANA_3_RLMG
+	pos 151 from AER_SAL_A449_RLMG (aligned length: 325   sim:  0.542   id:  0.489)
+	pos 247 from SHE_PIE_WP3_RLMG (aligned length: 327   sim:  0.817   id:  0.765)
+	pos 336 from SHE_PUT_32_RLMG (aligned length: 327   sim:  0.902   id:  0.862)
+	pos 337 from SHE_PIE_WP3_RLMG (aligned length: 327   sim:  0.817   id:  0.765)
+SHE_BAL_OS185_RLMG
+	pos 151 from AER_VER_B565_RLMG (aligned length: 326   sim:  0.534   id:  0.472)
+	pos 247 from SHE_HAL_EB4_RLMG (aligned length: 328   sim:  0.814   id:  0.753)
+	pos 337 from SHE_HAL_EB4_RLMG (aligned length: 328   sim:  0.814   id:  0.753)
+SHE_BAL_OS223_RLMG
+	pos 151 from AER_VER_B565_RLMG (aligned length: 326   sim:  0.537   id:  0.479)
+	pos 247 from SHE_HAL_EB4_RLMG (aligned length: 328   sim:  0.814   id:  0.756)
+	pos 337 from SHE_HAL_EB4_RLMG (aligned length: 328   sim:  0.814   id:  0.756)
+SHE_DEN_OS217_RLMG
+	pos 151 from DIC_DAD_3937_RLMG (aligned length: 326   sim:  0.561   id:  0.488)
+	pos 247 from SHE_PEA_700345_RLMG (aligned length: 328   sim:  0.784   id:  0.716)
+	pos 337 from SHE_PEA_700345_RLMG (aligned length: 328   sim:  0.784   id:  0.716)
+SHE_FRI_400_RLMG
+	pos 151 from KLE_PNE_K2044_RLMG (aligned length: 326   sim:  0.549   id:  0.475)
+	pos 336 from SHE_PEA_700345_RLMG (aligned length: 328   sim:  0.817   id:  0.756)
+	pos 337 from SHE_PEA_700345_RLMG (aligned length: 328   sim:  0.817   id:  0.756)
+SHE_HAL_EB4_RLMG
+	pos 151 from AER_SAL_A449_RLMG (aligned length: 327   sim:  0.532   id:  0.489)
+SHE_LOI_4_RLMG
+	pos 151 from AER_VER_B565_RLMG (aligned length: 327   sim:  0.523   id:  0.471)
+SHE_MR_4_RLMG
+	pos 151 from AER_SAL_A449_RLMG (aligned length: 325   sim:  0.542   id:  0.489)
+	pos 247 from SHE_VIO_DSS12_RLMG (aligned length: 327   sim:  0.823   id:  0.768)
+	pos 336 from SHE_W3_1_RLMG (aligned length: 327   sim:  0.899   id:  0.859)
+	pos 337 from SHE_VIO_DSS12_RLMG (aligned length: 327   sim:  0.823   id:  0.768)
+SHE_MR_7_RLMG
+	pos 151 from AER_VER_B565_RLMG (aligned length: 325   sim:  0.545   id:  0.492)
+	pos 247 from SHE_VIO_DSS12_RLMG (aligned length: 327   sim:  0.823   id:  0.771)
+	pos 336 from SHE_W3_1_RLMG (aligned length: 327   sim:  0.902   id:  0.865)
+	pos 337 from SHE_VIO_DSS12_RLMG (aligned length: 327   sim:  0.823   id:  0.771)
+SHE_ONE_1_RLMG
+	pos 151 from AER_HYD_7966_RLMG (aligned length: 325   sim:  0.551   id:  0.505)
+	pos 247 from SHE_VIO_DSS12_RLMG (aligned length: 327   sim:  0.810   id:  0.755)
+	pos 336 from SHE_W3_1_RLMG (aligned length: 327   sim:  0.893   id:  0.853)
+	pos 337 from SHE_VIO_DSS12_RLMG (aligned length: 327   sim:  0.810   id:  0.755)
+SHE_PEA_700345_RLMG
+	pos 151 from AER_SAL_A449_RLMG (aligned length: 327   sim:  0.541   id:  0.489)
+SHE_PIE_WP3_RLMG
+	pos 151 from AER_SAL_A449_RLMG (aligned length: 327   sim:  0.529   id:  0.483)
+SHE_PUT_32_RLMG
+	pos 151 from AER_SAL_A449_RLMG (aligned length: 326   sim:  0.540   id:  0.482)
+	pos 247 from SHE_PIE_WP3_RLMG (aligned length: 328   sim:  0.814   id:  0.750)
+	pos 337 from SHE_PIE_WP3_RLMG (aligned length: 328   sim:  0.814   id:  0.750)
+SHE_SED_EB3_RLMG
+	pos 151 from AER_SAL_A449_RLMG (aligned length: 327   sim:  0.535   id:  0.486)
+SHE_VIO_DSS12_RLMG
+	pos 151 from AER_SAL_A449_RLMG (aligned length: 327   sim:  0.520   id:  0.486)
+SHE_W3_1_RLMG
+	pos 151 from AER_SAL_A449_RLMG (aligned length: 326   sim:  0.540   id:  0.479)
+	pos 247 from SHE_HAL_EB4_RLMG (aligned length: 328   sim:  0.814   id:  0.750)
+	pos 337 from SHE_HAL_EB4_RLMG (aligned length: 328   sim:  0.814   id:  0.750)
+SHE_WOO_51908_RLMG
+	pos 151 from VIB_VUL_CMCP6_RLMG (aligned length: 327   sim:  0.529   id:  0.465)
+SHI_FLE_2457T_RLMG
+	pos  39 from PSE_ATL_T6c_RLMG (aligned length: 326   sim:  0.595   id:  0.503)
+SHI_FLE_8401_RLMG
+	pos  39 from PSE_ATL_T6c_RLMG (aligned length: 326   sim:  0.595   id:  0.503)
+STR_AVE_4680_RLMG
+	pos  40 from CAT_ACI_44928_RLMG (aligned length: 327   sim:  0.746   id:  0.706)
+	pos 247 from STR_SCA_22_RLMG (aligned length: 327   sim:  0.853   id:  0.810)
+	pos 337 from STR_SCA_22_RLMG (aligned length: 327   sim:  0.853   id:  0.810)
+STR_COE_2_RLMG
+	pos  40 from CAT_ACI_44928_RLMG (aligned length: 328   sim:  0.735   id:  0.689)
+	pos 337 from STR_SCA_22_RLMG (aligned length: 328   sim:  0.814   id:  0.787)
+STR_GRI_13350_RLMG
+	pos  40 from CAT_ACI_44928_RLMG (aligned length: 328   sim:  0.729   id:  0.677)
+	pos 337 from STR_SCA_22_RLMG (aligned length: 328   sim:  0.768   id:  0.716)
+STR_SCA_22_RLMG
+	pos  40 from CAT_ACI_44928_RLMG (aligned length: 328   sim:  0.741   id:  0.689)
+STR_ROS_43021_RLMG
+	pos  40 from CAT_ACI_44928_RLMG (aligned length: 328   sim:  0.735   id:  0.689)
+	pos 337 from STR_SCA_22_RLMG (aligned length: 328   sim:  0.802   id:  0.759)
+TOL_AUE_9187_RLMG
+	pos  39 from PSE_ATL_T6c_RLMG (aligned length: 326   sim:  0.613   id:  0.540)
+	pos 337 from DIC_DAD_Ech586_RLMG (aligned length: 328   sim:  0.720   id:  0.649)
+VIB_CHO_2_RLMG
+	pos 337 from VIB_EX2_Ex25_RLMG (aligned length: 329   sim:  0.775   id:  0.714)
+VIB_CHO_1236_RLMG
+	pos 337 from VIB_EX2_Ex25_RLMG (aligned length: 329   sim:  0.775   id:  0.714)
+VIB_EX2_Ex25_RLMG
+	 not patched
+VIB_FIS_ES114_RLMG
+	 not patched
+VIB_HAR_1116_RLMG
+	 not patched
+VIB_PAR_2210633_RLMG
+	 not patched
+VIB_SPL_LGP32_RLMG
+	 not patched
+VIB_VUL_CMCP6_RLMG
+	pos 336 from VIB_HAR_1116_RLMG (aligned length: 328   sim:  0.793   id:  0.726)
+	pos 337 from VIB_HAR_1116_RLMG (aligned length: 328   sim:  0.793   id:  0.726)
+YER_ENT_8081_RLMG
+	pos  39 from PSE_ATL_T6c_RLMG (aligned length: 326   sim:  0.577   id:  0.485)
+YER_ENT_r_RLMG
+	pos  39 from PSE_ATL_T6c_RLMG (aligned length: 326   sim:  0.580   id:  0.491)
+YER_PES_Angola_RLMG
+	pos  39 from ALT_SN2_SN2_RLMG (aligned length: 325   sim:  0.569   id:  0.449)
