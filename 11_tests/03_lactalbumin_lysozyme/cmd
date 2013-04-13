@@ -8,6 +8,10 @@ patch_min_length  .40
 outname  lalb
 
 
+pdb_name 2fydA
+pdb_file 2fydA.pdb
+
+
 
 max_gaps  0.3
 ! coverage 

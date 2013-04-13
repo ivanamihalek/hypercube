@@ -130,7 +130,7 @@ int  read_opt_file (char * filename ) {
    if ( options.pdbname[0] && ! options.struct_name[0]) {
        fprintf (stderr,"%s%s%s%s", 
 		"pdb file (", options.pdbname, ") must be accompanied by the corresponding sequence ",
-		"in the alignment (\"struct_name\" kwd)\n");
+		"in the alignment (\"pdb_name\" kwd)\n");
        return 1;
    }
    
@@ -279,7 +279,7 @@ int set_keywords () {
     
     /*******************/
     if ( (++ctr) >= NO_KWDS ) return 1;
-    sprintf (kwd[ctr].name, "%s",  "pdbname");
+    sprintf (kwd[ctr].name, "%s",  "pdb_file");
     kwd[ctr].type = OPTN_STRING;
     kwd[ctr].storage = options.pdbname;
 
@@ -300,7 +300,7 @@ int set_keywords () {
 
     /*******************/
     if ( (++ctr) >= NO_KWDS ) return 1;
-    sprintf (kwd[ctr].name, "%s",  "struct_n");
+    sprintf (kwd[ctr].name, "%s",  "pdb_name");
     kwd[ctr].type = OPTN_STRING;
     kwd[ctr].storage = options.struct_name;
 
