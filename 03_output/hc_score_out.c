@@ -44,7 +44,7 @@ int  score_output (Alignment *alignment, Protein *protein, int *almt2prot,
 
 
     /******** header **************************/
-    fprintf (fptr, "%%%6s %8s", "almt", "gaps");
+    fprintf (fptr, "%%%6s %8s", "almt", "gaps(%)");
 
     fprintf (fptr, " %8s ", "rvet");
     
@@ -93,8 +93,8 @@ int  score_output (Alignment *alignment, Protein *protein, int *almt2prot,
 	    }
 	}
 
-	fprintf (fptr, "%6d %8.2lf", almt_pos+1, 
-		 (double)alignment->column_gaps[almt_pos]/alignment->number_of_seqs);
+	fprintf (fptr, "%6d %8d", almt_pos+1, 
+		 (int)(100*(double)alignment->column_gaps[almt_pos]/alignment->number_of_seqs));
 
 	/************************/
 	/* conservation scores  */

@@ -277,7 +277,7 @@ while ( <RANKS_FILE> ) {
 		}
 		    
 	    } elsif( $i == 1) {
-		$worksheet->write("$column$line", $aux[$i], $format_float);  
+		$worksheet->write("$column$line", $aux[$i], $format_centered);  
   
 	    } elsif( $i == $pdbid_column ) {
 		$worksheet->write("$column$line", $aux[$i], $format_right);  

@@ -1,11 +1,11 @@
-almtname both.mouse_lalb_restr.msf
+almtname test.msf
 
 
 groups  groups
 patch_sim_cutoff  .40
 patch_min_length  .40
 
-outname  lalb
+outname  lalb_exch
 
 
 pdb_name 2fydA
@@ -21,6 +21,6 @@ max_gaps  0.3
 rate_matrix  /home/ivanam/kode/05_hypercube/08_data/tillier.table
 exchangeability
 
-compare
-extern capra.table CAP   speer.table SPR  sdp.table SDP
+!compare
+!extern capra.table CAP   speer.table SPR  sdp.table SDP
  
