@@ -304,8 +304,8 @@ while ( <RANKS_FILE> ) {
 		}
 
 	    } elsif( $i == $annot_column ) {
-		if ($aux[$i] !=  "none")  {
-		    $aux[$i]  =~ s/_//g;
+		if ($aux[$i] ne  "none")  {
+		    $aux[$i]  =~ s/_/ /g;
 		    $worksheet->write("$column$line", $aux[$i], $format_left);  
 		}
 
