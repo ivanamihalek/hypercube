@@ -19,7 +19,7 @@ PLATFORM = $(shell uname)
 
 
 
-LIBS    = -lm -lc -L/usr/lib -llapack -lm
+LIBS    = -lm -lc -llapack
 INCLUDE = -I ../00_include
 
 

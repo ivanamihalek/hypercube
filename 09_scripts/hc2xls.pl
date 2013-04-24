@@ -299,13 +299,15 @@ while ( <RANKS_FILE> ) {
 		$worksheet->write("$column$line", $aux[$i], $format_centered);  
 
 	    } elsif( $i == $surf_column ) {
-		if ($aux[$i]==1) {
+		if ($aux[$i] == 1) {
 		    $worksheet->write("$column$line", "surface", $format_centered);  
 		}
 
 	    } elsif( $i == $annot_column ) {
-		$worksheet->write("$column$line", $aux[$i], $format_left);  
-		
+		if ($aux[$i] !=  "none")  {
+		    $aux[$i]  =~ s/_//g;
+		    $worksheet->write("$column$line", $aux[$i], $format_left);  
+		}
 
 	    } elsif( $i >= $discr_column &&  $i <= $discr_column + $number_of_groups ) {
 		$cvg =  $aux[$i];
