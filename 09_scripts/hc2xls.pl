@@ -304,10 +304,12 @@ while ( <RANKS_FILE> ) {
 		}
 
 	    } elsif( $i == $annot_column ) {
-		if ($aux[$i] ne  "none")  {
+		if ($aux[$i] eq  "none")  {
+		    $aux[$i] = "  ";
+		} else {
 		    $aux[$i]  =~ s/_/ /g;
-		    $worksheet->write("$column$line", $aux[$i], $format_left);  
 		}
+		$worksheet->write("$column$line", $aux[$i], $format_left);  
 
 	    } elsif( $i >= $discr_column &&  $i <= $discr_column + $number_of_groups ) {
 		$cvg =  $aux[$i];
