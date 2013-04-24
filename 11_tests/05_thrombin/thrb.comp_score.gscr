@@ -1,9 +1,0 @@
-set size square 
-unset key
-set style data lines 
-set xlabel "FP rate" 
-set ylabel "TP rate" 
-set term post color 
-set output 'tmp.ps' 
-plot  'rocs/thrb.comp_score.rrl_dt.roc' title 'rrl_dt',  'rocs/thrb.comp_score.rrl_ds.roc' title 'rrl_ds',  'rocs/thrb.comp_score.MI.roc' title 'MI',  'rocs/thrb.comp_score.CAP.roc' title 'CAP',  'rocs/thrb.comp_score.SDP.roc' title 'SDP'
-quit

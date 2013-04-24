@@ -1,9 +1,0 @@
-laci_galr_purr.restr.msf     LACI_ECOLI_lacI
-IFNAR2_IFNGR1.human_IFNAR2.restr.msf  HOM_SAP_IFNAR2
-both.mouse_lalb_restr.msf    MUS_MUS_LALBA
-igfbp5.restr.msf             HOM_SAP_IGFBP5 
-plasminogen_prothrombin.restr.msf  HOM_SAP_THRB
-rsmc.restr.msf               ESC_COL_O1_RSMC
-abcb145.restr.1_1000.msf     MUS_MUS_ABCB1
-kelch.restr.msf              HOM_SAP_KLHL19
-hom_sap_ak1d1.restr.msf     HOM_SAP_AK1D1

@@ -31,7 +31,7 @@
 # include "hc_options.h"
 # include "hc_tree.h"
 
-# define VERSION "2009"
+# define VERSION "2013"
 
 
 /*****************************/
@@ -96,6 +96,7 @@ int process_almt  (Alignment * alignment);
      
 int rate2prob (double ** rate_sym, double * freq, double time_step, int no_timesteps, double *** prob_matrix);
 int read_clustalw (Alignment * alignment);
+int read_dssp (Options * options, Protein *protein);
 int read_extern_spec_method ( char *filename,  Alignment * alignment, double *spec_score);
 int read_groups (char * filename, Alignment * alignment);
 int read_opt_file (char * filename );

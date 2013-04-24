@@ -19,7 +19,7 @@ typedef enum {OPTN_FLAG, OPTN_INTEGER, OPTN_DOUBLE, OPTN_EXP, OPTN_STRING, OPTN_
 /* and set_keywords () in cube_read_opt_file.c */
 
 # define KWD_SIZE 30
-# define NO_KWDS 18
+# define NO_KWDS 20
 # define MAX_STRING_ARRAY 10 /* for now used only for extern methods */
 
 extern int no_kwds;
@@ -28,6 +28,7 @@ typedef struct {
     char pdbname [BUFFLEN];
     char struct_name [BUFFLEN]; /* the name (in the alignment)
 				   of the sequence corresponding to the pdb structure */
+    char dssp_name[BUFFLEN];  /* then name of the dssp file */
     char almtname[BUFFLEN];
     char outname [BUFFLEN];
     char groups  [BUFFLEN]; /* grouping of seqeunces into
@@ -38,6 +39,7 @@ typedef struct {
     double max_gaps;
     double patch_sim_cutoff;
     double patch_min_length;
+    double acc_cutoff;  /* cutoff to call something solvent acessible */
 
     int guess_bad_translation;
 

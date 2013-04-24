@@ -92,7 +92,19 @@ int main ( int argc, char * argv[]) {
 	if (retval) exit(retval);
 	
     }
-    
+    /*******************************************/
+    /*                                         */
+    /*  surface, if provided                   */
+    /*                                         */
+    /*******************************************/
+    if ( options.dssp_name[0] ) {
+	/* surface = 0; */
+        /* let's not couple the two - rather, the surface
+	   could be made protected, but that's yet to be implemented*/
+	retval  = read_dssp (&options, &protein);
+	if (retval) exit(retval);
+    }
+   
     /*******************************************/
     /*                                         */
     /*  transition probabilities               */
@@ -267,9 +279,10 @@ int set_default_options () {
     /* what's this for? */
 
     options.max_gaps          =  0.3;
-    options.patch_sim_cutoff  = -1.0; /* don't do the patching */
+    options.patch_sim_cutoff  = -1.0;  /* don't do the patching */
     options.patch_min_length  =  0.9;
     options.tree_method       = UPGMA;
+    options.acc_cutoff        = 10.0;  /* solvent acessibility cutoff */
 
     sprintf ( options.almtname, "%s", "in.msf");
     sprintf ( options.outname,  "%s", "cube");

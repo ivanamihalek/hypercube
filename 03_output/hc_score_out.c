@@ -66,8 +66,12 @@ int  score_output (Alignment *alignment, Protein *protein, int *almt2prot,
     
     
     if ( almt2prot ) {
-	fprintf (fptr, " %8s ", "pdb_id");
 	fprintf (fptr, " %8s ", "pdb_aa");
+	fprintf (fptr, " %8s ", "pdb_id");
+    }
+    
+    if ( options.dssp_name[0] ) {
+      fprintf (fptr, "%6s", "surf");
     }
 
     fprintf (fptr, "\n");
@@ -164,12 +168,18 @@ int  score_output (Alignment *alignment, Protein *protein, int *almt2prot,
 	     if ( almt2prot[almt_pos] >= 0 ) {
 		  sprintf (pdbid, "%s", protein->sequence[ almt2prot[almt_pos] ].pdb_id );
 		  aa = protein->sequence[ almt2prot[almt_pos] ].res_type_short;
-		  fprintf (fptr, "%5s%6c", pdbid, aa);
+		  fprintf (fptr, "%6c%5s", aa, pdbid);
 	     } else {
-		  fprintf (fptr, "%5s%6s", ".", ".");
+		  fprintf (fptr, "%6s%5s", ".", ".");
 	     }
 	}
 	
+	/* surface accessibility */
+	if ( options.dssp_name[0] ) {
+	  int acc =  ( almt2prot[almt_pos] < 0 ) ?  
+	    -1: protein->sequence[almt2prot[almt_pos]].solvent_accessible;
+	    fprintf ( fptr," %6d",  acc);
+	}
 	
 	fprintf (fptr, "\n");
     }

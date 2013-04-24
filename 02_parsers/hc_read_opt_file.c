@@ -219,6 +219,12 @@ int set_keywords () {
     
     /*******************/
     if ( (++ctr) >= NO_KWDS ) return 1;
+    sprintf (kwd[ctr].name, "%s",  "acc");
+    kwd[ctr].type    = OPTN_DOUBLE;
+    kwd[ctr].storage = &(options.acc_cutoff);
+    
+    /*******************/
+    if ( (++ctr) >= NO_KWDS ) return 1;
     sprintf (kwd[ctr].name, "%s",  "almtname");
     kwd[ctr].type = OPTN_STRING;
     kwd[ctr].storage = options.almtname;
@@ -228,6 +234,12 @@ int set_keywords () {
     sprintf (kwd[ctr].name, "%s",  "compare");
     kwd[ctr].type = OPTN_FLAG;
     kwd[ctr].storage = &(options.compare);
+    
+    /*******************/
+    if ( (++ctr) >= NO_KWDS ) return 1;
+    sprintf (kwd[ctr].name, "%s",  "dssp");
+    kwd[ctr].type    = OPTN_STRING;
+    kwd[ctr].storage = options.dssp_name;
     
     /*******************/
     if ( (++ctr) >= NO_KWDS ) return 1;

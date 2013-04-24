@@ -179,6 +179,14 @@ while ( <RANKS_FILE> ) {
 	while ($pdbaa_column < @aux  && $aux[$pdbaa_column] !~ /pdb_aa/ ) {$pdbaa_column++};
 	($pdbaa_column == $#aux+1 )  && ($pdbaa_column = -1);
 
+	$surf_column = 0;
+	while ($surf_column < @aux  && $aux[$surf_column] !~ /surf/ ) {$surf_column++};
+	($surf_column == $#aux+1 )  && ($surf_column = -1);
+
+	$annot_column = 0;
+	while ($annot_column < @aux  && $aux[$annot_column] !~ /annot/ ) {$annot_column++};
+	($annot_column == $#aux+1 )  && ($annot_column = -1);
+
 
 	# how many groups
 	$number_of_groups =  scalar ( grep {/dets_/} @aux) ;
@@ -229,16 +237,21 @@ while ( <RANKS_FILE> ) {
 	$worksheet->merge_range($first_row, 0, $last_row, 0, $aux[0], $format_hdr_merged);
 	$worksheet->merge_range($first_row, 1, $last_row, 1, $aux[1], $format_hdr_merged);
 	#
-	($pdbid_column > 0)  &&
+	($pdbid_column > 0) &&
 	    $worksheet->merge_range($first_row, $pdbid_column, $last_row, $pdbid_column, 
 				$aux[$pdbid_column], $format_hdr_merged);
 	#
-	($pdbaa_column > 0)  && $worksheet->merge_range($first_row, $pdbaa_column, $last_row, $pdbaa_column, 
+	($pdbaa_column > 0) && $worksheet->merge_range($first_row, $pdbaa_column, $last_row, $pdbaa_column, 
 				$aux[$pdbaa_column], $format_hdr_merged);
-	#$worksheet->merge_range($first_row, $#aux, $last_row, $#aux, $aux[$#aux], $format_hdr_merged); #?
+
+	($surf_column > 0)  && $worksheet->merge_range($first_row, $surf_column, $last_row, $surf_column, 
+				"surface", $format_hdr_merged);
+
+	($annot_column > 0) && $worksheet->merge_range($first_row, $annot_column, $last_row, $annot_column, 
+				$aux[$annot_column], $format_hdr_merged);
+
+
 	
-
-
 	$line = 2;
 
    } else {
@@ -284,6 +297,15 @@ while ( <RANKS_FILE> ) {
 
 	    } elsif( $i == $pdbaa_column ) {
 		$worksheet->write("$column$line", $aux[$i], $format_centered);  
+
+	    } elsif( $i == $surf_column ) {
+		if ($aux[$i]==1) {
+		    $worksheet->write("$column$line", "surface", $format_centered);  
+		}
+
+	    } elsif( $i == $annot_column ) {
+		$worksheet->write("$column$line", $aux[$i], $format_left);  
+		
 
 	    } elsif( $i >= $discr_column &&  $i <= $discr_column + $number_of_groups ) {
 		$cvg =  $aux[$i];
