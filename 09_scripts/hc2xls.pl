@@ -126,6 +126,9 @@ $format_centered->set_align('center');
 $format_right = $workbook->add_format();
 $format_right->set_align('right');
 #
+$format_left = $workbook->add_format();
+$format_left->set_align('left');
+#
 $format_float = $workbook->add_format();
 $format_float->set_num_format('0.00');
 #

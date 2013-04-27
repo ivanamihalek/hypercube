@@ -28,7 +28,7 @@ if ( @ARGV ) {
 	if ( @ARGV ) {
 	    $switch = shift @ARGV;
 	     if ( $switch eq "-g" ) {
-		 @groups = grep {/lc $_/} @ARGV; # whatever is left
+		 @groups = map {lc $_} @ARGV; # whatever is left
 	     }
 	}
 
@@ -61,7 +61,15 @@ set_palettes();
 $filename = $outname;
 
 open (FPTR, ">$filename") || die "cno $filename\n";
-print FPTR "load $pdb_file, conservation\n";
+
+if ($chain) {
+    print FPTR "load $pdb_file, the_whole_thing\n";
+    print FPTR "create conservation, the_whole_thing and chain $chain\n";
+} else {
+    print FPTR "load $pdb_file, conservation\n";
+}
+
+
 print FPTR "color white, conservation\n";
 print FPTR "hide lines,  conservation\n";
 print FPTR "create specificity, conservation\n";
@@ -79,7 +87,7 @@ foreach (@group_name) {
 }
 =cut
 print FPTR "\n";
-print FPTR "zoom complete=1\n";
+print FPTR "hide everything\n";
 print FPTR "bg_color white\n";
 
 print  FPTR "\n";
@@ -232,14 +240,34 @@ print  FPTR "\n";
 print  FPTR  "deselect\n";
 print  FPTR  "zoom complete=1\n";
 foreach $group (@groups) {
-    print  FPTR  "show cartoon, cns_$group\n";
-    print  FPTR  "show cartoon, dts_$group\n";
+    print  FPTR  "show spheres, cns_$group\n";
+    print  FPTR  "show spheres, dts_$group\n";
 }
-print  FPTR  "show cartoon, conservation\n";
-print  FPTR  "show cartoon, specificity\n";
+print  FPTR  "show spheres, conservation\n";
+print  FPTR  "show spheres, specificity\n";
 
 
 
+if ( $chain ) {
+ 
+    print  FPTR "select heteroatoms,  hetatm and not solvent \n";
+    print  FPTR "select other_chains, not chain $chain \n";
+    print  FPTR "select struct_water, solvent and chain $chain \n";
+    print  FPTR "select metals, symbol  mg+ca+fe+zn+na+k+mn+cu+ni+cd+i\n";
+
+    print  FPTR "cartoon putty \n";
+    print  FPTR "show  cartoon,  other_chains \n";
+    print  FPTR "hide  spheres,   heteroatoms \n";
+    print  FPTR "show  sticks,   heteroatoms \n";
+    print  FPTR "show  spheres,  struct_water \n";
+    print  FPTR "show  spheres,  metals \n";
+    print  FPTR "color palecyan, struct_water \n";
+    print  FPTR "color lightteal, other_chains or heteroatoms \n";
+    print  FPTR "color magenta, metals\n";
+    print  FPTR "zoom  chain $chain\n";
+}
+
+print  FPTR "deselect \n";
 
 close FPTR; 
 
