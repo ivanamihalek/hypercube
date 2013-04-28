@@ -270,7 +270,7 @@ if ( $chain ) {
 print  FPTR "deselect \n";
 
 $session_file = $outname;
-if ($output_file =~ /\.pml$/) {
+if ($outname =~ /\.pml$/) {
     $session_file =~ s/\.pml$/\.pse/;
 } else {
     $session_file .= ".pse";
