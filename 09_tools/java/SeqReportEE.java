@@ -69,7 +69,7 @@ public class SeqReportEE {
                 String ignore = "no";
                 String[] too = null;
                 int inputCnt = 0;
-                System.out.println(start + "++" + end);
+ //               System.out.println(start + "++" + end);
 		try {
                        
 			Reader reader = new BufferedReader( new FileReader(file));
@@ -496,7 +496,7 @@ for (i = 0; i < (int)y; i++) {
 		    end = Integer.parseInt(args[3]) - 1;
 		else
 		    end = 10000;
-   System.out.println(shift + " " + end);
+ //  System.out.println(shift + " " + end);
        plot.readPoints(new File(args[0]), shift, end);
 		//panel used for drawing
      //   MapPanel map = plot.new MapPanel(args[1]);
