@@ -37,9 +37,7 @@ public class SeqReportEE {
 	ArrayList<String> residue;
     float minX = 1000.f;
     float maxX = -1000.f;
-    private static final int TT_NUMBER = StreamTokenizer.TT_NUMBER;
-    private static final int TT_EOF = StreamTokenizer.TT_EOF;
-    private static final int TT_WORD = StreamTokenizer.TT_WORD;
+  
     private boolean missing = false;
 
 	public SeqReportEE() {
@@ -66,44 +64,45 @@ public class SeqReportEE {
 		int tempExtra = 0;
 		String line;
 		String stringInput = "";
-		StreamTokenizer tok;
 
+                String content = null;  
+                String ignore = "no";
+                String[] too = null;
 		try {
-
+                       
 			Reader reader = new BufferedReader( new FileReader(file));
-			tok = new StreamTokenizer(reader);
-			tok.eolIsSignificant(true);
-			skipLeadingNewLines(tok);
-
-			while (tok.ttype != TT_EOF) {
-				if (tok.nextToken() != TT_NUMBER)
-					throw new Exception ("Coverage missing at input line " + tok.lineno());
-				tempInput = (float)tok.nval;
-				  							if (tok.nextToken() != TT_NUMBER)
-											throw new Exception ("Coverage missing at input line " + tok.lineno());
-								altTempInput = (float)tok.nval;
-				if (tok.nextToken() != TT_WORD)
-					throw new Exception ("Residue missing at input line " + tok.lineno());
-				stringInput = tok.sval;
-				if (tok.nextToken() != TT_NUMBER)
-					throw new Exception ("Coverage missing at input line " + tok.lineno());
-				tempExtra = (int)tok.nval;
-
-		//		System.out.println("cov= " + tempInput + "res = " + stringInput + " nmb = " + tempExtra);
-
-				if (cnt >= start && cnt <= end) {
-					coverage.add(tempInput);
-					altCoverage.add(altTempInput);
-					residue.add(stringInput);
-					resNumbers.add(tempExtra);
-					//			System.out.println (coverage.size());//coverage.get(cnt));
-
-				}
-				cnt++;
-				skipLeadingNewLines(tok);
-				//System.out.println (coverage.size());
-			}
-			//	    System.out.println ("size = " + coverage.size());
+                        while ((content = ((BufferedReader)reader).readLine()) != null)  {
+                             if ( content.trim().length() == 0 )  {
+                                 
+                                 continue;
+                             }
+                         //   System.out.println(content);
+                            too = content.split("\\s+");
+                         //   System.out.println(content);
+                           // System.out.println(too[0] + "*" + too[1] + "*" + too[2] + "*" + too[3] + "*");
+                            for(String st : too) 
+                                
+                                if (st.equals(".")) {
+                                  ignore = "yes";
+                                 
+                                }
+                                   // System.out.print("*************" + st);
+                          
+                           // System.out.println();
+                            if (ignore.equals("no")) {
+                                coverage.add(Double.parseDouble(too[0]));
+                                altCoverage.add(1 - 2 * Double.parseDouble(too[1]));
+                                residue.add(too[2]);
+                                resNumbers.add(Integer.parseInt(too[3]));
+                //                System.out.println(content);
+                            }
+                            ignore = "no";
+                        }
+  
+                   //     System.exit(0);
+                        
+                        
+                       
 			int countMissing = 0;
 			for (int j = 0; j < resNumbers.size() - 1; j++) {
 				if ( (int)(resNumbers.get(j + 1) - resNumbers.get(j)) != 1) {
@@ -112,6 +111,7 @@ public class SeqReportEE {
 				}
 			}
 			//	System.out.println("d = " + countMissing);
+                        missing =  false;
 			if (missing) {
 				ArrayList<Double> modCoverage = new ArrayList<Double>();
 				ArrayList<Double> modAltCoverage = new ArrayList<Double>();
@@ -215,9 +215,9 @@ public class SeqReportEE {
 			int color_index;
  			red = green = blue = 254;
 
- 			if (cvg <= 0.05 + 0.00001)
- 				return new Color(254,(int)(0.83*254), (int)(0.17*254));
- 			else {
+ 		//	if (cvg <= 0.05 + 0.00001)
+ 		//		return new Color(254,(int)(0.83*254), (int)(0.17*254));
+ 		//	else {
 
 			    color_index = (int) (range * cvg);
 			    bin_size = (int)Math.round ( (double)(range - 1) / N);
@@ -226,6 +226,8 @@ public class SeqReportEE {
 
 				ratio =  (double)(bin_size - color_index + 1)/bin_size;
 				//System.out.println ( cvg + " " +  ratio);
+                                if(ratio > 1)
+                                    ratio = 1;
 				red = ratio * 254;
 				green = blue = 0.;
 				//System.out.println (bin_size +"  " +  color_index );
@@ -233,10 +235,12 @@ public class SeqReportEE {
 
 			    } else {
 				ratio = ( color_index  - range / N) / ( (double) (N-1.)/ N * range);
-				red = ratio * 254;
+				if(ratio > 1)
+                                    ratio = 1;
+                                red = ratio * 254;
 				green = blue = red;
 			    }
-			}
+		//	}
 			//int re, bl, gr;
 			//re = (int)red;
 			//bl = (int)blue;
@@ -267,18 +271,16 @@ public class SeqReportEE {
 			g.setFont(numberFont);
 
 			//for (i = 0; i < (int)y; i++) {
-		      for (i = -(int)y; i < (int)y; i++) {
-
+	//	      for (i = -(int)y; i < (int)y; i++) {
+for (i = 0; i < (int)y; i++) {
      			//draw color bar as a series of tiny rectangles
      			hue = MAXCOLOR *i / y;
-			   	if (hue < 0.)
-					color = setNegativeColor(-hue);
-				   	else
-						color = setPositiveColor(hue);
-				//    				if (hue < 0.)
-    			//		color = Color.black;
-//    				else
-//    					color = setIvanaColor(hue);
+		//	   	if (hue < 0.)
+			//		color = setNegativeColor(-hue);
+			//	   	else
+				//		color = setPositiveColor(hue);
+				
+    					color = setIvanaColor(hue);
 // 	 			//	color = myColor(hue);
 //				if (i<=0)
 				Rectangle2D.Float rectangle;
@@ -347,6 +349,9 @@ public class SeqReportEE {
 
 //		 	 		g.setPaint(myColor( coverage.get(i)));
 		 	 		g.setPaint(setIvanaColor(coverage.get(i)));
+                                        
+              //            g.setPaint(setIvanaColor(0.05));
+                           //             System.out.println("cov " + i + " " + coverage.get(i) );
 		  			if(coverage.get(i) / MAXCOLOR > cov)
 		  	  			g.setPaint(Color.blue);
 			      	if (i != coverage.size()-1 ||  ((i+1)%50 == 0) )
@@ -477,7 +482,7 @@ public class SeqReportEE {
 
 
 	int nmbOfStripes = plot.coverage.size()/ 50 + 1;
-	System.out.println(plot.coverage.size());
+//	System.out.println(plot.coverage.size());
 
 dimY = (float)(nmbOfStripes * STRIP_WIDTH * plot.increaseSize +  (nmbOfStripes - 1)* STRIP_SPACING) + 2*MARGIN;
 
@@ -488,7 +493,7 @@ dimY = (float)(nmbOfStripes * STRIP_WIDTH * plot.increaseSize +  (nmbOfStripes -
 
   //   dimY = 500;
 
-	System.out.println(dimY);
+//	System.out.println(dimY);
 	MapPanel map = plot.new MapPanel(args[1], 500, dimY);
 
         w = (int)map.width;
