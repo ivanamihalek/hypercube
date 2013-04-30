@@ -73,20 +73,20 @@ public class SeqReportEE {
 			Reader reader = new BufferedReader( new FileReader(file));
                         while ((content = ((BufferedReader)reader).readLine()) != null)  {
                              if ( content.trim().length() == 0 )  {
-                                 
+                              //   System.out.println("zfgafsgasgs");
                                  continue;
                              }
+                 //          System.out.println(content);
+                            too = content.trim().split("\\s+");
                          //   System.out.println(content);
-                            too = content.split("\\s+");
-                         //   System.out.println(content);
-                           // System.out.println(too[0] + "*" + too[1] + "*" + too[2] + "*" + too[3] + "*");
+              //             System.out.println(too[0] + "*" + too[1] + "*" + too[2] + "*" + too[3] + "*");
                             for(String st : too) 
                                 
                                 if (st.equals(".")) {
                                   ignore = "yes";
-                                 
+           //  System.out.print("*************" + st);
+
                                 }
-                                   // System.out.print("*************" + st);
                           
                            // System.out.println();
                             if (ignore.equals("no")) {
@@ -94,12 +94,12 @@ public class SeqReportEE {
                                 altCoverage.add(1 - 2 * Double.parseDouble(too[1]));
                                 residue.add(too[2]);
                                 resNumbers.add(Integer.parseInt(too[3]));
-                //                System.out.println(content);
+                   //             System.out.println(content);
                             }
                             ignore = "no";
                         }
   
-                   //     System.exit(0);
+                //       System.exit(0);
                         
                         
                        
