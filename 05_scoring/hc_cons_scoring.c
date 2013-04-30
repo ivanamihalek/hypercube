@@ -19,10 +19,7 @@ int conservation_scoring (Options *options, Alignment * alignment,
     memset (&tree, 0, sizeof(Tree));  
     retval  = build_tree(options, alignment, &tree);
     if (retval) return retval;
-    //printf ("done.\n"); fflush (stdout);
 
-    
-    
     hybrid  (alignment, &tree, NULL, 0, score[0]);
     entropy (alignment, NULL, score[1]);
  

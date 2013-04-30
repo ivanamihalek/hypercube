@@ -27,11 +27,14 @@ int  score_output (Alignment *alignment, Protein *protein, int *almt2prot,
     if ( !fptr) return 1;
 
     /* find residue ranks (coverage)*/
-    if ( !(cons_cvg = dmatrix(1+alignment->no_groups, alignment->length) ) ) return 1;
-    if ( !(spec_cvg = dmatrix(1+alignment->no_groups, alignment->length) ) ) return 1;
+    if ( !(cons_cvg = dmatrix(1+alignment->no_groups, alignment->length) )) return 1;
+    if ( !(spec_cvg = dmatrix(1+alignment->no_groups, alignment->length) )) return 1;
 	
+    /* entropy */
+    coverage (alignment, score[1], cons_cvg[0], -1);
     /* rvet */
-    coverage (alignment, score[0], cons_cvg[0], -1);
+    /* coverage (alignment, score[0], cons_cvg[0], -1); */
+    
     /* conservation in the individual groups */
     for  (g=0; g < alignment->no_groups; g++) {
 	coverage (alignment, in_group_score[0][g], cons_cvg[g+1], g+1); /* conservation */
@@ -46,7 +49,7 @@ int  score_output (Alignment *alignment, Protein *protein, int *almt2prot,
     /******** header **************************/
     fprintf (fptr, "%%%6s %8s", "almt", "gaps(%)");
 
-    fprintf (fptr, " %8s ", "rvet");
+    fprintf (fptr, " %8s ", "entropy");
     
     for  (g=0; g < alignment->no_groups; g++) {
 	fprintf (fptr, " %s ", alignment->group[g].group_name);
