@@ -160,7 +160,9 @@ while ( <RANKS_FILE> ) {
 	shift @aux;
 	
 	$rvet_column = 0;
-	while ($rvet_column < @aux  && $aux[$rvet_column] ne "rvet" ) {$rvet_column++};
+	while ($rvet_column < @aux  && 
+	       $aux[$rvet_column] ne "rvet"  && 
+	       $aux[$rvet_column] ne "entropy" ) {$rvet_column++};
 	($rvet_column == @aux) && die "No rvet in the output (?!).\n";
 	$aux[$rvet_column] = "overall"; # the word "conservation" will appear above
 	                                # it in the table
