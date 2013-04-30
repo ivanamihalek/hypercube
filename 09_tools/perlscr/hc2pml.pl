@@ -10,7 +10,7 @@ sub set_palettes();
     "<pdb_file_full_path>  <output name> [-c <chain> ] [ -g <group1> <group2> ...]   \n".
     "-g (optional) groups for which to find conservation and determinants\n"; 
 
-$method = "rvet";
+$method = "entropy";
 
 $ranks_file = shift @ARGV;
 $pdb_file   = shift @ARGV;
