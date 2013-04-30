@@ -68,14 +68,20 @@ public class SeqReportEE {
                 String content = null;  
                 String ignore = "no";
                 String[] too = null;
+                int inputCnt = 0;
+                System.out.println(start + "++" + end);
 		try {
                        
 			Reader reader = new BufferedReader( new FileReader(file));
+                        
                         while ((content = ((BufferedReader)reader).readLine()) != null)  {
                              if ( content.trim().length() == 0 )  {
                               //   System.out.println("zfgafsgasgs");
                                  continue;
                              }
+                             inputCnt++;
+                             if (inputCnt > start && inputCnt <= end + 1) {
+                                 
                  //          System.out.println(content);
                             too = content.trim().split("\\s+");
                          //   System.out.println(content);
@@ -103,55 +109,55 @@ public class SeqReportEE {
                         
                         
                        
-			int countMissing = 0;
-			for (int j = 0; j < resNumbers.size() - 1; j++) {
-				if ( (int)(resNumbers.get(j + 1) - resNumbers.get(j)) != 1) {
-					missing = true;
-					countMissing ++;
-				}
-			}
+//			int countMissing = 0;
+//			for (int j = 0; j < resNumbers.size() - 1; j++) {
+//				if ( (int)(resNumbers.get(j + 1) - resNumbers.get(j)) != 1) {
+//					missing = true;
+//					countMissing ++;
+//				}
+//			}
 			//	System.out.println("d = " + countMissing);
-                        missing =  false;
-			if (missing) {
-				ArrayList<Double> modCoverage = new ArrayList<Double>();
-				ArrayList<Double> modAltCoverage = new ArrayList<Double>();
-				ArrayList<Integer> modResnumbers = new ArrayList<Integer>();
-
-				ArrayList<String> modResidue = new ArrayList<String>();
-				int k = 0;
-				int j = 0;
-				System.out.println ("size = " + resNumbers.size());
-				for (j = 0; j < resNumbers.size() - 1; j++) {
-					modCoverage.add(coverage.get(j));
-					modAltCoverage.add(altCoverage.get(j));
-					modResidue.add(residue.get(j));
-					modResnumbers.add(resNumbers.get(j));
-
-
-					for (int iii = 0; iii < 3; iii++) {
-
-						if ( (resNumbers.get(j + 1) - resNumbers.get(j)) != 1) {
-
-							modCoverage.add(-10.);
-							modAltCoverage.add(-10.);
-							modResidue.add("dots");
-							modResnumbers.add(-10);
-						}
-					}
-
-				}
-				modCoverage.add(coverage.get(j));
-				modAltCoverage.add(altCoverage.get(j));
-				modResidue.add(residue.get(j));
-				modResnumbers.add(resNumbers.get(j));
-
-				coverage = modCoverage;
-
-				altCoverage = modAltCoverage;
-				residue = modResidue;
-				resNumbers = modResnumbers;
-			}
-
+//                        missing =  false;
+//			if (missing) {
+//				ArrayList<Double> modCoverage = new ArrayList<Double>();
+//				ArrayList<Double> modAltCoverage = new ArrayList<Double>();
+//				ArrayList<Integer> modResnumbers = new ArrayList<Integer>();
+//
+//				ArrayList<String> modResidue = new ArrayList<String>();
+//				int k = 0;
+//				int j = 0;
+//				System.out.println ("size = " + resNumbers.size());
+//				for (j = 0; j < resNumbers.size() - 1; j++) {
+//					modCoverage.add(coverage.get(j));
+//					modAltCoverage.add(altCoverage.get(j));
+//					modResidue.add(residue.get(j));
+//					modResnumbers.add(resNumbers.get(j));
+//
+//
+//					for (int iii = 0; iii < 3; iii++) {
+//
+//						if ( (resNumbers.get(j + 1) - resNumbers.get(j)) != 1) {
+//
+//							modCoverage.add(-10.);
+//							modAltCoverage.add(-10.);
+//							modResidue.add("dots");
+//							modResnumbers.add(-10);
+//						}
+//					}
+//
+//				}
+//				modCoverage.add(coverage.get(j));
+//				modAltCoverage.add(altCoverage.get(j));
+//				modResidue.add(residue.get(j));
+//				modResnumbers.add(resNumbers.get(j));
+//
+//				coverage = modCoverage;
+//
+//				altCoverage = modAltCoverage;
+//				residue = modResidue;
+//				resNumbers = modResnumbers;
+//			}
+                        }
 		}
 		catch (Exception e) {
 			System.out.println("Exception " + e.getMessage() + " in readRanks()");
@@ -437,7 +443,8 @@ for (i = 0; i < (int)y; i++) {
     public static void main(String[] args) throws Exception {
 		if (args.length < 2) {
                     
-                     System.out.println("Usage: java SeqReportEE <coverage file> \"figure name\" ");
+       //              System.out.println("Usage: java SeqReportEE <coverage file> \"figure name\" ");
+                        System.out.println("Usage: java SeqReportEE <coverage file> \"figure name\" <initial number>  <end number>");
                    //  System.out.println("Usage: java SeqReportEE <coverage file> \"figure name\" [scaling factor(default 1)]");
  			System.out.print("<coverage file> is a 4 column file ");
  			System.out.println("of the form \"coverage_conservation coverage_specialization residue_name residue_number\" ");
@@ -451,31 +458,45 @@ for (i = 0; i < (int)y; i++) {
     	Graphics2D g;
         BufferedImage image;
 
+//		// create a new Plot object
+//		SeqReportEE plot;// = new SeqReportEE();
+//
+//		// following options removed
+//		// So now only 3 args max
+//		// the third one increases the strip width
+//		shift = 0;
+//		end = 10000;
+//
+//// 		//read input file (should have 3 columns: x,y and z
+//// 		if (args.length >= 3 && Integer.parseInt(args[2]) > 0) {
+//// 			shift = Integer.parseInt(args[2]) - 1;
+//// 		}
+//// 		else
+//// 		    shift = 0;
+//// 		if (args.length == 4 && Integer.parseInt(args[3]) > Integer.parseInt(args[2]))
+//// 		    end = Integer.parseInt(args[3]) - 1;
+//// 		else
+//// 		    end = 10000;
+//		if (args.length == 3) {
+//			plot = new SeqReportEE(Float.parseFloat(args[2]));
+//		}
+//		else
+//			plot = new SeqReportEE();
+
 		// create a new Plot object
-		SeqReportEE plot;// = new SeqReportEE();
+		SeqReportEE plot = new SeqReportEE();
 
-		// following options removed
-		// So now only 3 args max
-		// the third one increases the strip width
-		shift = 0;
-		end = 10000;
-
-// 		//read input file (should have 3 columns: x,y and z
-// 		if (args.length >= 3 && Integer.parseInt(args[2]) > 0) {
-// 			shift = Integer.parseInt(args[2]) - 1;
-// 		}
-// 		else
-// 		    shift = 0;
-// 		if (args.length == 4 && Integer.parseInt(args[3]) > Integer.parseInt(args[2]))
-// 		    end = Integer.parseInt(args[3]) - 1;
-// 		else
-// 		    end = 10000;
-		if (args.length == 3) {
-			plot = new SeqReportEE(Float.parseFloat(args[2]));
+		//read input file (should have 3 columns: x,y and z
+		if (args.length >= 3 && Integer.parseInt(args[2]) > 0) {
+			shift = Integer.parseInt(args[2]) - 1;
 		}
 		else
-			plot = new SeqReportEE();
-
+		    shift = 0;
+		if (args.length == 4 && Integer.parseInt(args[3]) > Integer.parseInt(args[2]))
+		    end = Integer.parseInt(args[3]) - 1;
+		else
+		    end = 10000;
+   System.out.println(shift + " " + end);
        plot.readPoints(new File(args[0]), shift, end);
 		//panel used for drawing
      //   MapPanel map = plot.new MapPanel(args[1]);
