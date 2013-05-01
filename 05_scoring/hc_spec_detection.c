@@ -120,9 +120,9 @@ int  spec_detection ( Alignment * alignment, double *** prob_matrix_series, int 
 		freq[pos][g][a_index] ++;
 	    }
 	    
-	    memcpy (freq2[pos][g], freq[pos][g], no_of_aa_types*sizeof(double));
-	    normalize (freq[pos][g], no_of_aa_types, 1);
-	    normalize (freq2[pos][g],no_of_aa_types, 2);
+	    memcpy    (freq2[pos][g], freq[pos][g], no_of_aa_types*sizeof(double));
+	    normalize (freq [pos][g], no_of_aa_types, 1);
+	    normalize (freq2[pos][g], no_of_aa_types, 2);
 
 	    /* are we all gaps here ? */
 	    a_index = aa2index['.'];
@@ -285,7 +285,7 @@ int  spec_detection ( Alignment * alignment, double *** prob_matrix_series, int 
 	    }
 	}
     }
-    scale_overlap (overlap, alignment->length, no_groups, all_gaps,  min_ovlp, max_ovlp, (complement=0) );
+    //scale_overlap (overlap, alignment->length, no_groups, all_gaps,  min_ovlp, max_ovlp, (complement=0) );
     
     /****************************************************************/
     /****  Jensen-Shannon divergence between groups             *****/
@@ -369,16 +369,13 @@ int  spec_detection ( Alignment * alignment, double *** prob_matrix_series, int 
 		    if (min_ovlp > overlap_corr[pos][g][g2]) min_ovlp = overlap_corr[pos][g][g2];
 		    if (max_ovlp < overlap_corr[pos][g][g2]) max_ovlp = overlap_corr[pos][g][g2];
 
-
-		    
-
 		}
 	    }
 
 	}
 
 	scale_overlap (overlap_corr, alignment->length, no_groups, all_gaps,  min_ovlp, max_ovlp, (complement=0));
-   }
+    }
      
     
     /****************************************************************/
@@ -942,13 +939,13 @@ int output_cube_coords (int no_pos, int no_groups, double **entropy, double *** 
 	exit (1);
     }
     for (pos=0; pos< no_pos; pos++) {
-	fprintf (fptr, "%4d  1.0 ", pos+1);
+	fprintf (fptr, "%4d  ", pos+1);
 	for (g=0; g<no_groups; g++) {
-	    fprintf (fptr, " %5.3lf ", 1-entropy[pos][g]);
+	    fprintf (fptr, " %8.3lf ", entropy[pos][g]);
 	}
 	for (g=0; g<no_groups; g++) {
 	    for (g2=g+1; g2<no_groups; g2++) {
-		fprintf (fptr, " %5.3lf ", overlap[pos][g][g2]);
+		fprintf (fptr, " %8.3lf ", overlap[pos][g][g2]);
 	    }
 	}
 	fprintf (fptr, "\n");
