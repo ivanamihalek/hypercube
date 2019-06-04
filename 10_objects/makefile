@@ -6,7 +6,7 @@ CPLUSCOMPL = g++
 
 HERE = $(shell pwd)
 
-NAME = ../hyper_c
+NAME = ../hypercube
 
 OPTM =  -O
 
@@ -23,12 +23,12 @@ LIBS    = -lm -lc -llapack
 INCLUDE = -I ../00_include
 
 
-DEFINES =  
-SOURCES.F = 
-SOURCES.f = 
+DEFINES =
+SOURCES.F =
+SOURCES.f =
 SOURCES.c = hypercube.c  hc_aa_code.c  hc_afa_out.c  hc_almt.c \
 	 hc_comp_score_out.c  hc_chi2.c 	hc_cons_scoring.c \
-	 hc_patch_almt.c  hc_rate2prob.c hc_read_cw.c   hc_read_dssp.c   hc_read_extern.c  \
+	 hc_patch_almt.c  hc_rate2prob.c hc_read_alignment.c   hc_read_dssp.c   hc_read_extern.c  \
 	 hc_read_groups.c  hc_read_opt_file.c   hc_read_pdb.c \
 	 hc_read_tillier.c hc_score_out.c \
 	 hc_spec_detection.c  hc_struct_almt_mapping.c hc_tree.c hc_utils.c
@@ -59,6 +59,4 @@ tar:
 
 
 ls:
-	 ls $(SOURCES) $(AUX) 
-
-
+	 ls $(SOURCES) $(AUX)

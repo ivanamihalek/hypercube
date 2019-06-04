@@ -28,7 +28,7 @@ typedef struct{
     int  *gaps; /* number of gaps at each position, in this group */
     int  *unks; /* number of unknowns at each position, in this group */
 } Group;
-    
+
 typedef struct{
     int number_of_seqs;
     int length;
@@ -45,8 +45,7 @@ typedef struct{
     int  **identical_sites;
     int  **similar_sites;
     char * struct_seq;
-    int  * tp_flag; /* positions in the lmt tagged
-		      for some reason as "true positive" */
+    int  * tp_flag; /* positions in the lmt tagged for some reason as "true positive" */
 
     int no_groups;
     Group * group;
@@ -56,5 +55,5 @@ typedef struct{
 
     double ** per_node_spec_score;
     int    ** per_node_pool_size;
-    
+
 }  Alignment;
