@@ -243,8 +243,10 @@ int main ( int argc, char * argv[]) {
 
         free (stnry_freq);
 
-        for (t=0; t<no_timesteps; t++) free_dmatrix(prob_matrix[t]);
-        free (prob_matrix);
+        if (prob_matrix) {
+            for (t=0; t<no_timesteps; t++) free_dmatrix(prob_matrix[t]);
+            free (prob_matrix);
+        }
 
         for (method=0; method < no_cons_methods; method++) {
                 free_dmatrix (in_group_score[method]);

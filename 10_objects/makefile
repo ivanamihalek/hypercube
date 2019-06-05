@@ -8,7 +8,7 @@ HERE = $(shell pwd)
 
 NAME = ../hypercube
 
-OPTM =  -O
+OPTM =  -g
 
 
 VPATH = ../01_data_structures:../02_parsers:../03_output:\
@@ -34,9 +34,7 @@ SOURCES.c = hypercube.c  hc_aa_code.c  hc_afa_out.c  hc_almt.c \
 	 hc_spec_detection.c  hc_struct_almt_mapping.c hc_tree.c hc_utils.c
 
 
-
-
-AUX =  makefile  cube  cube_alignment.h  cube_options.h cube_utils.h
+AUX =  makefile  hypercube  hc_alignment.h	hc_geometry.h  hc_options.h  hc_pdb.h  hc_tree.h  hc_utils.h  hypercube.h
 
 SOURCES = $(SOURCES.c)  $(SOURCES.F) $(SOURCES.f)
 OBJECTS =  $(SOURCES.F:.F=.o)  $(SOURCES.f:.f=.o) $(SOURCES.c:.c=.o)
